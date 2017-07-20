@@ -1,0 +1,22 @@
+{
+  "name": "world-english-bible",
+  "version": "1.0.0",
+  "description": "[![NPM](https://nodei.co/npm/world-english-bible.png)](https://nodei.co/npm/world-english-bible/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehShrike/world-english-bible.git"
+  },
+  "keywords": [
+    "bible"
+  ],
+  "author": "TehShrike",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/TehShrike/world-english-bible/issues"
+  },
+  "homepage": "https://github.com/TehShrike/world-english-bible#readme"
+}
