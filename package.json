@@ -1,6 +1,6 @@
 {
   "name": "world-english-bible",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "[![NPM](https://nodei.co/npm/world-english-bible.png)](https://nodei.co/npm/world-english-bible/)",
   "main": "index.js",
   "scripts": {
