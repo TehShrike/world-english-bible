@@ -19,6 +19,7 @@ const properKeyOrder = [
 	'type',
 	'chapterNumber',
 	'verseNumber',
+	'sectionNumber',
 	'value',
 ]
 
@@ -109,6 +110,7 @@ function fixChunks(chunks) {
 		putContiguousLinesInsideOfStanzaStartAndEnd,
 		turnBreaksInsideOfStanzasIntoStanzaStartAndEnds,
 		removeBreaksBeforeStanzaStarts,
+		addSectionNumbers,
 		reorderKeys,
 	)
 }
@@ -214,6 +216,32 @@ function removeBreaksBeforeStanzaStarts(chunks) {
 	})
 
 	return output
+}
+
+function addSectionNumbers(chunks) {
+	let lastChapter = null
+	let lastVerse = null
+	let lastSection = 0
+
+	return chunks.map(chunk => {
+		if (containsVerseText(chunk)) {
+			const { verseNumber, chapterNumber } = chunk
+
+			if (verseNumber !== lastVerse || chapterNumber !== lastChapter) {
+				lastChapter = chapterNumber
+				lastVerse = verseNumber
+				lastSection = 0
+			}
+
+			lastSection++
+
+			return Object.assign({
+				sectionNumber: lastSection
+			}, chunk)
+		} else {
+			return chunk
+		}
+	})
 }
 
 function reorderKeys(chunks) {
