@@ -1,14 +1,46 @@
 const parsed = require('./intermediate/chapters.json')
 const flatten = require('just-flatten')
+const fs = require('fs')
 
-function main() {
-	console.log(
-		json(
-			buildFinalForm(parsed)['1 Samuel']
-		)
-	)
+const types = {
+	PARAGRAPH_START: 'paragraph start',
+	PARAGRAPH_END: 'paragraph end',
+	STANZA_START: 'stanza start',
+	STANZA_END: 'stanza end',
+	PARAGRAPH_TEXT: 'paragraph text',
+	LINE: 'line',
+	CHAPTER_NUMBER: 'chapter number',
+	VERSE_NUMBER: 'verse number',
+	CONTINUE_PREVIOUS_PARAGRAPH: 'continue previous paragraph',
+	BREAK: 'break',
 }
 
+const properKeyOrder = [
+	'type',
+	'chapterNumber',
+	'verseNumber',
+	'value',
+]
+
+const stanzaStart = { type: types.STANZA_START }
+const stanzaEnd = { type: types.STANZA_END }
+
+
+
+function main() {
+	const finalForm = buildFinalForm(parsed)
+	console.log(
+		json(
+			finalForm['1 Samuel']
+		)
+	)
+
+	Object.keys(finalForm).forEach(bookName => {
+		const filename = turnBookNameIntoFileName(bookName)
+
+		fs.writeFileSync('./json/' + filename + '.json', json(finalForm[bookName]))
+	})
+}
 
 function buildFinalForm(chunks) {
 	const mapOfBooks = makeMapOfBooks(chunks)
@@ -34,7 +66,7 @@ function makeMapOfBooks(arrayOfChapters) {
 		map[bookName] = flatten(sortChapters(map[bookName]).map(chapter => {
 			const chapterNumber = chapter.chapterNumber
 
-			const chapterNumberChunk = { type: 'chapter number', value: chapterNumber }
+			const chapterNumberChunk = { type: types.CHAPTER_NUMBER, value: chapterNumber }
 
 			return [ chapterNumberChunk, ...chapter.chunks ]
 		}))
@@ -76,6 +108,8 @@ function fixChunks(chunks) {
 		addVerseNumberToVerses,
 		putContiguousLinesInsideOfStanzaStartAndEnd,
 		turnBreaksInsideOfStanzasIntoStanzaStartAndEnds,
+		removeBreaksBeforeStanzaStarts,
+		reorderKeys,
 	)
 }
 
@@ -84,9 +118,9 @@ const pipe = (value, ...fns) => fns.reduce((previous, fn) => fn(previous), value
 function moveChapterNumbersIntoVerseText(chunks) {
 	let currentChapterNumber = null
 	return chunks.map(chunk => {
-		if (chunk.type === 'chapter number') {
+		if (chunk.type === types.CHAPTER_NUMBER) {
 			currentChapterNumber = chunk.value
-		} else if (chunk.type === 'paragraph text') {
+		} else if (containsVerseText(chunk)) {
 			return Object.assign({
 				chapterNumber: currentChapterNumber
 			}, chunk)
@@ -100,15 +134,15 @@ function mergeContinuedParagraphs(chunks) {
 	const output = []
 
 	chunks.forEach(chunk => {
-		if (chunk.type === 'continue previous paragraph') {
+		if (chunk.type === types.CONTINUE_PREVIOUS_PARAGRAPH) {
 			output.pop()
 		} else {
 			output.push(chunk)
 		}
 	})
 
-	assert(numberOfType(output, 'continue previous paragraph') === 0)
-	assert(numberOfType(output, 'start paragraph') === numberOfType(output, 'end paragraph'))
+	assert(numberOfType(output, types.CONTINUE_PREVIOUS_PARAGRAPH) === 0)
+	assert(numberOfType(output, types.PARAGRAPH_START) === numberOfType(output, types.PARAGRAPH_END))
 
 	return output
 }
@@ -117,9 +151,9 @@ function addVerseNumberToVerses(chunks) {
 	let currentVerseNumber = null
 	const output = []
 	chunks.forEach(chunk => {
-		if (chunk.type === 'verse number') {
+		if (chunk.type === types.VERSE_NUMBER) {
 			currentVerseNumber = chunk.value
-		} else if (chunk.type === 'paragraph text' || chunk.type === 'line') {
+		} else if (containsVerseText(chunk)) {
 			assert(currentVerseNumber !== null)
 			output.push(Object.assign({
 				verseNumber: currentVerseNumber
@@ -132,11 +166,68 @@ function addVerseNumberToVerses(chunks) {
 }
 
 function putContiguousLinesInsideOfStanzaStartAndEnd(chunks) {
-	return chunks
+	let insideStanza = false
+	return flatMap(chunks, chunk => {
+		if (insideStanza && chunk.type === types.PARAGRAPH_START) {
+			insideStanza = false
+			return [ stanzaEnd, chunk ]
+		} else if (!insideStanza && chunk.type === types.LINE) {
+			insideStanza = true
+			return [ stanzaStart, chunk ]
+		} else {
+			return chunk
+		}
+	})
 }
 
 function turnBreaksInsideOfStanzasIntoStanzaStartAndEnds(chunks) {
-	return chunks
+	let insideStanza = false
+	return flatMap(chunks, chunk => {
+		if (chunk.type === types.STANZA_START) {
+			insideStanza = true
+		} else if (chunk.type === types.STANZA_END) {
+			insideStanza = false
+		}
+
+		if (insideStanza && chunk.type === types.BREAK) {
+			return [ stanzaEnd, stanzaStart ]
+		} else {
+			return chunk
+		}
+	})
+}
+
+function removeBreaksBeforeStanzaStarts(chunks) {
+	const output = []
+
+	let last = null
+	chunks.forEach(chunk => {
+		if (chunk.type === types.BREAK) {
+			last = chunk
+			return
+		} else if (last && chunk.type !== types.STANZA_START) {
+			output.push(last)
+		}
+
+		last = null
+		output.push(chunk)
+	})
+
+	return output
+}
+
+function reorderKeys(chunks) {
+	return chunks.map(chunk => {
+		const proper = {}
+
+		properKeyOrder.forEach(key => {
+			if (chunk[key] !== undefined) {
+				proper[key] = chunk[key]
+			}
+		})
+
+		return proper
+	})
 }
 
 const truthy = value => value
@@ -149,9 +240,9 @@ function assert(value, message) {
 		throw new Error(message || `ASSERT!`)
 	}
 }
-
-
-
+const flatMap = (array, fn) => flatten(array.map(fn))
+const containsVerseText = chunk => chunk.type === types.PARAGRAPH_TEXT || chunk.type === types.LINE
+const turnBookNameIntoFileName = bookName => bookName.replace(/ /g, '').toLowerCase()
 
 
 

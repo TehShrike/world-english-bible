@@ -159,9 +159,16 @@ const chapterChunks = filesICareAbout.map(fileName => {
 			const isParagraph = paragraphClasses.indexOf(clazz) !== -1
 
 			const verseNumbersAndText = mapE($(textContainer).contents(), element => {
-				if (element.type === 'text' && element.data.trim()) {
+				const textType = isParagraph ? 'paragraph text' : 'line'
+
+				if (element.type === 'tag' && element.name === 'span' && element.attribs.class === 'wj') {
 					return {
-						type: isParagraph ? 'paragraph text' : 'line',
+						type: textType,
+						value: $(element).text()
+					}
+				} else if (element.type === 'text' && element.data.trim()) {
+					return {
+						type: textType,
 						value: element.data
 					}
 				} else if (element.type === 'tag' && element.name === 'span' && element.attribs.class === 'verse') {
@@ -334,10 +341,6 @@ function mapE($, fn) {
 		output.push(fn(element))
 	})
 	return output
-}
-
-function makeFilenameFromBookName(bookName) {
-	return bookName.replace(/ /g, '').toLowerCase()
 }
 
 function assert(value, message) {
