@@ -1,10 +1,10 @@
 {
   "name": "world-english-bible",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "[![NPM](https://nodei.co/npm/world-english-bible.png)](https://nodei.co/npm/world-english-bible/)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified :-(\" && exit 0"
   },
   "repository": {
     "type": "git",
