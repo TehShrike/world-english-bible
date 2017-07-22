@@ -74,6 +74,8 @@ function fixChunks(chunks) {
 		moveChapterNumbersIntoVerseText,
 		mergeContinuedParagraphs,
 		addVerseNumberToVerses,
+		putContiguousLinesInsideOfStanzaStartAndEnd,
+		turnBreaksInsideOfStanzasIntoStanzaStartAndEnds,
 	)
 }
 
@@ -84,7 +86,7 @@ function moveChapterNumbersIntoVerseText(chunks) {
 	return chunks.map(chunk => {
 		if (chunk.type === 'chapter number') {
 			currentChapterNumber = chunk.value
-		} else if (chunk.type === 'text') {
+		} else if (chunk.type === 'paragraph text') {
 			return Object.assign({
 				chapterNumber: currentChapterNumber
 			}, chunk)
@@ -117,7 +119,7 @@ function addVerseNumberToVerses(chunks) {
 	chunks.forEach(chunk => {
 		if (chunk.type === 'verse number') {
 			currentVerseNumber = chunk.value
-		} else if (chunk.type === 'text' || chunk.type === 'line') {
+		} else if (chunk.type === 'paragraph text' || chunk.type === 'line') {
 			assert(currentVerseNumber !== null)
 			output.push(Object.assign({
 				verseNumber: currentVerseNumber
@@ -127,6 +129,14 @@ function addVerseNumberToVerses(chunks) {
 		}
 	})
 	return output
+}
+
+function putContiguousLinesInsideOfStanzaStartAndEnd(chunks) {
+	return chunks
+}
+
+function turnBreaksInsideOfStanzasIntoStanzaStartAndEnds(chunks) {
+	return chunks
 }
 
 const truthy = value => value

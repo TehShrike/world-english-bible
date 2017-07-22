@@ -161,7 +161,7 @@ const chapterChunks = filesICareAbout.map(fileName => {
 			const verseNumbersAndText = mapE($(textContainer).contents(), element => {
 				if (element.type === 'text' && element.data.trim()) {
 					return {
-						type: isParagraph ? 'text' : 'line',
+						type: isParagraph ? 'paragraph text' : 'line',
 						value: element.data
 					}
 				} else if (element.type === 'tag' && element.name === 'span' && element.attribs.class === 'verse') {
@@ -318,7 +318,7 @@ function combineVerseNumbersAndText(currentVerseObject, parsedChunks) {
 			...arrayOfCurrentObject(),
 			...combineVerseNumbersAndText(newVerseObject, rest)
 		]
-	} else if (nextChunk.type === 'text') {
+	} else if (nextChunk.type === 'paragraph text') {
 		const modifiedVerseObject = Object.assign({}, currentVerseObject, {
 			text: (currentVerseObject ? currentVerseObject.text : '') + nextChunk.value,
 		})
