@@ -4,6 +4,8 @@ Besides the verse text, contains all of the metadata needed to print the text wi
 
 Each JSON file contains a flat array of objects.
 
+The file names are all the book names from the [books-of-the-bible](https://github.com/TehShrike/books-of-the-bible) package, lowercased, with spaces removed.
+
 Some examples:
 
 ```json
