@@ -29,11 +29,11 @@ const stanzaEnd = { type: types.STANZA_END }
 
 function main() {
 	const finalForm = buildFinalForm(parsed)
-	console.log(
-		json(
-			finalForm['1 Samuel']
-		)
-	)
+	// console.log(
+	// 	json(
+	// 		finalForm['1 Samuel']
+	// 	)
+	// )
 
 	Object.keys(finalForm).forEach(bookName => {
 		const filename = turnBookNameIntoFileName(bookName)
