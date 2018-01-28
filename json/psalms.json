@@ -318,8 +318,14 @@
 		"value": "Blessed are all those who take refuge in him. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm by David, when he fled from Absalom his son."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -448,8 +454,14 @@
 		"value": "May your blessing be on your people. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician; on stringed instruments. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -571,8 +583,14 @@
 		"value": "for you, Yahweh alone, make me live in safety. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician, with the flutes. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -778,8 +796,14 @@
 		"value": "Yahweh, you will surround him with favor as with a shield. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician; on stringed instruments, upon the eight-stringed lyre. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -936,8 +960,14 @@
 		"value": "They shall turn back, they shall be disgraced suddenly. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A meditation by David, which he sang to Yahweh, concerning the words of Cush, the Benjamite."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -1220,8 +1250,14 @@
 		"value": "and will sing praise to the name of Yahweh Most High. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician; on an instrument of Gath. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -1350,8 +1386,14 @@
 		"value": "how majestic is your name in all the earth! "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. Set to “The Death of the Son.” A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -1969,8 +2011,14 @@
 		"value": "that man who is of the earth may terrify no more. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -2099,8 +2147,14 @@
 		"value": "The upright shall see his face. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician; upon an eight-stringed lyre. A Psalm of David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -2229,8 +2283,14 @@
 		"value": "when what is vile is exalted among the sons of men. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -2337,8 +2397,14 @@
 		"value": "because he has been good to me. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -2481,8 +2547,14 @@
 		"value": "then Jacob shall rejoice, and Israel shall be glad. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -2582,8 +2654,14 @@
 		"value": "He who does these things shall never be shaken. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Poem by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -2759,8 +2837,14 @@
 		"value": "In your right hand there are pleasures forever more. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Prayer by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -3022,8 +3106,14 @@
 		"value": "I shall be satisfied, when I awake, with seeing your form. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. By David the servant of Yahweh, who spoke to Yahweh the words of this song in the day that Yahweh delivered him from the hand of all his enemies, and from the hand of Saul. He said,"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -3817,8 +3907,14 @@
 		"value": " forever more. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -4064,8 +4160,14 @@
 		"value": "Yahweh, my rock, and my redeemer. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -4208,8 +4310,14 @@
 		"value": "Let the King answer us when we call! "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -4401,8 +4509,14 @@
 		"value": "so we will sing and praise your power. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician; set to “The Doe of the Morning.” A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -4920,8 +5034,14 @@
 		"value": "for he has done it. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -5036,8 +5156,14 @@
 		"value": "and I will dwell in Yahweh’s house forever. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -5220,8 +5346,14 @@
 		"value": "Yahweh of Armies is the King of glory! "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -5558,8 +5690,14 @@
 		"value": "out of all his troubles. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -5736,8 +5874,14 @@
 		"value": "In the congregations I will bless Yahweh. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -6033,8 +6177,14 @@
 		"value": "Yes, wait for Yahweh. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -6232,8 +6382,14 @@
 		"value": "and bear them up forever. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -6402,8 +6558,14 @@
 		"value": "Yahweh will bless his people with peace. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm. A Song for the Dedication of the Temple. By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -6595,8 +6757,14 @@
 		"value": "Yahweh my God, I will give thanks to you forever! "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -7019,8 +7187,14 @@
 		"value": "all you who hope in Yahweh. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "By David. A contemplative psalm."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -7492,8 +7666,14 @@
 		"value": "since we have hoped in you. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "By David; when he pretended to be insane before Abimelech, who drove him away, and he departed."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -7810,8 +7990,14 @@
 		"value": "None of those who take refuge in him shall be condemned. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -8259,8 +8445,14 @@
 		"value": "My tongue shall talk about your righteousness and about your praise all day long. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. By David, the servant of Yahweh."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -8451,8 +8643,14 @@
 		"value": "They are thrust down, and shall not be able to rise. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -9096,8 +9294,14 @@
 		"value": "because they have taken refuge in him. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm by David, for a memorial."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -9422,8 +9626,14 @@
 		"value": "Lord, my salvation. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. For Jeduthun. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -9671,8 +9881,14 @@
 		"value": "before I go away and exist no more.” "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -9976,8 +10192,14 @@
 		"value": "Don’t delay, my God. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -10202,8 +10424,14 @@
 		"value": "Amen and amen. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A contemplation by the sons of Korah."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -10534,8 +10762,14 @@
 		"value": "my Savior, my helper, and my God. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. By the sons of Korah. A contemplative psalm."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -10964,8 +11198,14 @@
 		"value": "Redeem us for your loving kindness’ sake. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. Set to “The Lilies.” A contemplation by the sons of Korah. A wedding song."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -11220,8 +11460,14 @@
 		"value": "Therefore the peoples shall give you thanks forever and ever. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. By the sons of Korah. According to Alamoth. * Alamoth is a musical term."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -11410,8 +11656,14 @@
 		"type": "stanza start"
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A Psalm by the sons of Korah."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -11554,8 +11806,14 @@
 		"value": "He is greatly exalted! "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song. A Psalm by the sons of Korah."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -11775,8 +12033,14 @@
 		"value": "He will be our guide even to death. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A Psalm by the sons of Korah."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -12100,8 +12364,14 @@
 		"value": "is like the animals that perish. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm by Asaph."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -12472,8 +12742,14 @@
 		"value": "and prepares his way so that I will show God’s salvation to him.” "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A Psalm by David, when Nathan the prophet came to him, after he had gone in to Bathsheba."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -12769,8 +13045,14 @@
 		"value": "Then they will offer bulls on your altar. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A contemplation by David, when Doeg the Edomite came and told Saul, “David has come to Ahimelech’s house.”"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -12920,8 +13202,14 @@
 		"value": "in the presence of your saints. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. To the tune of “Mahalath.” A contemplation by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -13064,8 +13352,14 @@
 		"value": "and Israel shall be glad. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. On stringed instruments. A contemplation by David, when the Ziphites came and said to Saul, “Isn’t David hiding himself among us?”"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -13173,8 +13467,14 @@
 		"value": "My eye has seen triumph over my enemies. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. On stringed instruments. A contemplation by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -13581,8 +13881,14 @@
 		"value": "but I will trust in you. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. To the tune of “Silent Dove in Distant Lands.” A poem by David, when the Philistines seized him in Gath."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -13809,8 +14115,14 @@
 		"value": "that I may walk before God in the light of the living. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David, when he fled from Saul, in the cave."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -14029,8 +14341,14 @@
 		"value": "Let your glory be over all the earth. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -14187,8 +14505,14 @@
 		"value": "Most certainly there is a God who judges the earth.” "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David, when Saul sent, and they watched the house to kill him."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -14491,8 +14815,14 @@
 		"value": "For God is my high tower, the God of my mercy. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. To the tune of “The Lily of the Covenant.” A teaching poem by David, when he fought with Aram Naharaim and with Aram Zobah, and Joab returned, and killed twelve thousand of Edom in the Valley of Salt."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -14731,8 +15061,14 @@
 		"value": "for it is he who will tread down our adversaries. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. For a stringed instrument. By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -14847,8 +15183,14 @@
 		"value": "that I may fulfill my vows daily. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. To Jeduthun. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -15075,8 +15417,14 @@
 		"value": "for you reward every man according to his work. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm by David, when he was in the desert of Judah."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -15261,8 +15609,14 @@
 		"value": "for the mouth of those who speak lies shall be silenced. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -15426,8 +15780,14 @@
 		"value": "All the upright in heart shall praise him! "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A Psalm by David. A song."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -15689,8 +16049,14 @@
 		"value": "They also sing. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A song. A Psalm."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -16001,8 +16367,14 @@
 		"value": "nor his loving kindness from me. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. With stringed instruments. A Psalm. A song."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -16110,8 +16482,14 @@
 		"value": "All the ends of the earth shall fear him. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A Psalm by David. A song."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -16741,8 +17119,14 @@
 		"value": "Praise be to God! "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. To the tune of “Lilies.” By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -17284,8 +17668,14 @@
 		"value": "Those who love his name shall dwell therein. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. By David. A reminder."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -17770,8 +18160,14 @@
 		"value": "who want to harm me. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "By Solomon."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -18543,8 +18939,14 @@
 		"type": "stanza start"
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A contemplation by Asaph."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -18894,8 +19296,14 @@
 		"type": "stanza start"
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. To the tune of “Do Not Destroy.” A Psalm by Asaph. A song."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -19077,8 +19485,14 @@
 		"type": "stanza start"
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. On stringed instruments. A Psalm by Asaph. A song."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -19262,8 +19676,14 @@
 		"type": "stanza start"
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. To Jeduthun. A Psalm by Asaph."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -19607,8 +20027,14 @@
 		"type": "stanza start"
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A contemplation by Asaph."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -20730,8 +21156,14 @@
 		"type": "stanza start"
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm by Asaph."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -20957,8 +21389,14 @@
 		"type": "stanza start"
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. To the tune of “The Lilies of the Covenant.” A Psalm by Asaph."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -21267,8 +21705,14 @@
 		"value": "Cause your face to shine, and we will be saved. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. On an instrument of Gath. By Asaph."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -21522,8 +21966,14 @@
 		"value": "I will satisfy you with honey out of the rock.” "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm by Asaph."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -21651,8 +22101,14 @@
 		"value": "for you inherit all of the nations. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A song. A Psalm by Asaph."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -21907,8 +22363,14 @@
 		"value": "are the Most High over all the earth. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. On an instrument of Gath. A Psalm by the sons of Korah."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -22100,8 +22562,14 @@
 		"value": "blessed is the man who trusts in you. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A Psalm by the sons of Korah."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -22293,8 +22761,14 @@
 		"value": "And prepares the way for his steps. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Prayer by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -22563,8 +23037,14 @@
 		"value": "because you, Yahweh, have helped me, and comforted me. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm by the sons of Korah; a Song."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -22658,8 +23138,14 @@
 		"value": "“All my springs are in you.” "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song. A Psalm by the sons of Korah. For the Chief Musician. To the tune of “The Suffering of Affliction.” A contemplation by Heman, the Ezrahite."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -22942,8 +23428,14 @@
 		"value": "and my friends into darkness. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A contemplation by Ethan, the Ezrahite."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -23733,8 +24225,14 @@
 		"value": "Amen, and Amen. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Prayer by Moses, the man of God.* The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim)."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -24255,8 +24753,14 @@
 		"value": "and show him my salvation.” "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm. A song for the Sabbath day."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -25512,8 +26016,14 @@
 		"value": "Give thanks to his holy Name. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -25850,8 +26360,14 @@
 		"value": "for Yahweh, our God, is holy! "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm of thanksgiving."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -25938,8 +26454,14 @@
 		"value": "his faithfulness to all generations. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -26082,8 +26604,14 @@
 		"value": "to cut off all the workers of iniquity from Yahweh’s city. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Prayer of the afflicted, when he is overwhelmed and pours out his complaint before Yahweh."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -26504,8 +27032,14 @@
 		"value": "Their offspring will be established before you.” "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -29470,8 +30004,14 @@
 		"value": "They will consider the loving kindnesses of Yahweh. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -29670,8 +30210,14 @@
 		"value": "For it is he who will tread down our enemies. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -30135,8 +30681,14 @@
 		"value": "to save him from those who judge his soul. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -31819,8 +32371,14 @@
 		"value": "for his loving kindness endures forever. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "ALEPH"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -31935,8 +32493,14 @@
 		"value": "Don’t utterly forsake me. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "BET"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -32051,8 +32615,14 @@
 		"value": "I will not forget your word. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "GIMEL"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -32160,8 +32730,14 @@
 		"value": "and my counselors. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "DALED"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -32276,8 +32852,14 @@
 		"value": "for you have set my heart free. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "HEY"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -32392,8 +32974,14 @@
 		"value": "Revive me in your righteousness. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "WAW"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -32508,8 +33096,14 @@
 		"value": "I will meditate on your statutes. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "ZAYIN"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -32624,8 +33218,14 @@
 		"value": "that I keep your precepts. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "CHET"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -32740,8 +33340,14 @@
 		"value": "Teach me your statutes. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "TET"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -32849,8 +33455,14 @@
 		"value": "The law of your mouth is better to me than thousands of pieces of gold and silver. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "YUD"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -32965,8 +33577,14 @@
 		"value": "that I may not be disappointed. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "KAF"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -33088,8 +33706,14 @@
 		"value": "so I will obey the statutes of your mouth. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "LAMED"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -33197,8 +33821,14 @@
 		"value": "but your commands are boundless. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "MEM"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -33313,8 +33943,14 @@
 		"value": "therefore I hate every false way. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "NUN"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -33429,8 +34065,14 @@
 		"value": "even to the end. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "SAMEKH"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -33545,8 +34187,14 @@
 		"value": "I am afraid of your judgments. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "AYIN"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -33661,8 +34309,14 @@
 		"value": "I hate every false way. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "PEY"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -33777,8 +34431,14 @@
 		"value": "because they don’t observe your law. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "TZADI"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -33893,8 +34553,14 @@
 		"value": "Give me understanding, that I may live. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "KUF"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -34016,8 +34682,14 @@
 		"value": "that you have founded them forever. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "RESH"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -34132,8 +34804,14 @@
 		"value": "Every one of your righteous ordinances endures forever. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "SIN AND SHIN"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -34248,8 +34926,14 @@
 		"value": "for all my ways are before you. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "TAV"
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -34364,8 +35048,14 @@
 		"value": "Seek your servant, for I don’t forget your commandments. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song of Ascents."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -34466,8 +35156,14 @@
 		"value": "but when I speak, they are for war. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song of Ascents."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -34588,8 +35284,14 @@
 		"value": "from this time forward, and forever more. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song of Ascents. By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -34711,8 +35413,14 @@
 		"value": "I will seek your good. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song of Ascents."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -34785,8 +35493,14 @@
 		"value": "with the contempt of the proud. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song of Ascents. By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -34894,8 +35608,14 @@
 		"value": "who made heaven and earth. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song of Ascents."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -34975,8 +35695,14 @@
 		"value": "Peace be on Israel. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song of Ascents."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -35070,8 +35796,14 @@
 		"value": "will certainly come again with joy, carrying his sheaves. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song of Ascents. By Solomon."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -35172,8 +35904,14 @@
 		"value": "They won’t be disappointed when they speak with their enemies in the gate. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song of Ascents."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -35253,8 +35991,14 @@
 		"value": "Peace be upon Israel. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song of Ascents."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -35376,8 +36120,14 @@
 		"value": "We bless you in Yahweh’s name.” "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song of Ascents."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -35492,8 +36242,14 @@
 		"value": "He will redeem Israel from all their sins. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song of Ascents. By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -35552,8 +36308,14 @@
 		"value": "from this time forward and forever more. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song of Ascents."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -35815,8 +36577,14 @@
 		"value": "but on himself, his crown will shine.” "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song of Ascents. By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -35889,8 +36657,14 @@
 		"value": "even life forever more. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Song of Ascents."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -36767,8 +37541,14 @@
 		"value": "who takes and dashes your little ones against the rock. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -36911,8 +37691,14 @@
 		"value": "Don’t forsake the works of your own hands. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -37307,8 +38093,14 @@
 		"value": "and lead me in the everlasting way. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "For the Chief Musician. A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -37507,8 +38299,14 @@
 		"value": "The upright will dwell in your presence. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -37686,8 +38484,14 @@
 		"value": "while I pass by. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A contemplation by David, when he was in the cave. A Prayer."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -37851,8 +38655,14 @@
 		"value": "for you will be good to me. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A Psalm by David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -38093,8 +38903,14 @@
 		"value": "For I am your servant. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "By David."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",
@@ -38355,8 +39171,14 @@
 		"value": "Happy are the people whose God is Yahweh. "
 	},
 	{
+		"type": "stanza end"
+	},
+	{
 		"type": "header",
 		"value": "A praise psalm by David.* This is an acrostic psalm, with every verse (including the second half of verse 13) starting with a consecutive letter of the Hebrew alphabet."
+	},
+	{
+		"type": "stanza start"
 	},
 	{
 		"type": "line",

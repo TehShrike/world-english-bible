@@ -124,7 +124,7 @@ function moveChapterNumbersIntoVerseText(chunks) {
 			currentChapterNumber = chunk.value
 		} else if (containsVerseText(chunk)) {
 			return Object.assign({
-				chapterNumber: currentChapterNumber
+				chapterNumber: currentChapterNumber,
 			}, chunk)
 		} else {
 			return chunk
@@ -158,7 +158,7 @@ function addVerseNumberToVerses(chunks) {
 		} else if (containsVerseText(chunk)) {
 			assert(currentVerseNumber !== null)
 			output.push(Object.assign({
-				verseNumber: currentVerseNumber
+				verseNumber: currentVerseNumber,
 			}, chunk))
 		} else {
 			output.push(chunk)
@@ -170,7 +170,7 @@ function addVerseNumberToVerses(chunks) {
 function putContiguousLinesInsideOfStanzaStartAndEnd(chunks) {
 	let insideStanza = false
 	return flatMap(chunks, chunk => {
-		if (insideStanza && chunk.type === types.PARAGRAPH_START) {
+		if (insideStanza && (chunk.type !== types.LINE && chunk.type !== types.BREAK)) {
 			insideStanza = false
 			return [ stanzaEnd, chunk ]
 		} else if (!insideStanza && chunk.type === types.LINE) {
@@ -236,7 +236,7 @@ function addSectionNumbers(chunks) {
 			lastSection++
 
 			return Object.assign({
-				sectionNumber: lastSection
+				sectionNumber: lastSection,
 			}, chunk)
 		} else {
 			return chunk
