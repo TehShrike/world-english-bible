@@ -1,26 +1,27 @@
-const parsed = require('./intermediate/chapters.json')
-const flatten = require('just-flatten')
-const fs = require('fs')
+const parsed = require(`./intermediate/chapters.json`)
+const flatten = require(`just-flatten`)
+const fs = require(`fs`)
+const assert = require(`assert`)
 
 const types = {
-	PARAGRAPH_START: 'paragraph start',
-	PARAGRAPH_END: 'paragraph end',
-	STANZA_START: 'stanza start',
-	STANZA_END: 'stanza end',
-	PARAGRAPH_TEXT: 'paragraph text',
-	LINE: 'line',
-	CHAPTER_NUMBER: 'chapter number',
-	VERSE_NUMBER: 'verse number',
-	CONTINUE_PREVIOUS_PARAGRAPH: 'continue previous paragraph',
-	BREAK: 'break',
+	PARAGRAPH_START: `paragraph start`,
+	PARAGRAPH_END: `paragraph end`,
+	STANZA_START: `stanza start`,
+	STANZA_END: `stanza end`,
+	PARAGRAPH_TEXT: `paragraph text`,
+	LINE: `line`,
+	CHAPTER_NUMBER: `chapter number`,
+	VERSE_NUMBER: `verse number`,
+	CONTINUE_PREVIOUS_PARAGRAPH: `continue previous paragraph`,
+	BREAK: `break`,
 }
 
 const properKeyOrder = [
-	'type',
-	'chapterNumber',
-	'verseNumber',
-	'sectionNumber',
-	'value',
+	`type`,
+	`chapterNumber`,
+	`verseNumber`,
+	`sectionNumber`,
+	`value`,
 ]
 
 const stanzaStart = { type: types.STANZA_START }
@@ -39,7 +40,7 @@ function main() {
 	Object.keys(finalForm).forEach(bookName => {
 		const filename = turnBookNameIntoFileName(bookName)
 
-		fs.writeFileSync('./json/' + filename + '.json', json(finalForm[bookName]))
+		fs.writeFileSync(`./json/` + filename + `.json`, json(finalForm[bookName]))
 	})
 }
 
@@ -104,6 +105,7 @@ const emptyMap = () => Object.create(null)
 
 function fixChunks(chunks) {
 	return pipe(chunks,
+		removeWhitespaceAtStartOfParagraphsOrBooks,
 		moveChapterNumbersIntoVerseText,
 		mergeContinuedParagraphs,
 		addVerseNumberToVerses,
@@ -116,6 +118,30 @@ function fixChunks(chunks) {
 }
 
 const pipe = (value, ...fns) => fns.reduce((previous, fn) => fn(previous), value)
+
+function removeWhitespaceAtStartOfParagraphsOrBooks(chunks) {
+	let pastFirstVerse = false
+	let lastChunk = null
+	return chunks.filter(chunk => {
+		const startOfBook = !pastFirstVerse
+		const startOfParagraph = lastChunk
+			&& (lastChunk.type === types.PARAGRAPH_START || lastChunk.type === types.CONTINUE_PREVIOUS_PARAGRAPH)
+
+		const removeChunk = (startOfBook || startOfParagraph)
+			&& containsVerseText(chunk)
+			&& !chunk.value.trim()
+
+		// console.log(removeChunk ? `removing` : `keeping`, chunk)
+
+		lastChunk = chunk
+		if (chunk.type === types.VERSE_NUMBER) {
+			pastFirstVerse = true
+		}
+
+		return !removeChunk
+	})
+}
+
 
 function moveChapterNumbersIntoVerseText(chunks) {
 	let currentChapterNumber = null
@@ -137,6 +163,8 @@ function mergeContinuedParagraphs(chunks) {
 
 	chunks.forEach(chunk => {
 		if (chunk.type === types.CONTINUE_PREVIOUS_PARAGRAPH) {
+			assert(output[output.length - 1].type === types.PARAGRAPH_END)
+
 			output.pop()
 		} else {
 			output.push(chunk)
@@ -259,18 +287,11 @@ function reorderKeys(chunks) {
 }
 
 const truthy = value => value
-const numberOfType = (chunks, type) => chunks.reduce((count, chunk) => {
-	return count + (chunk.type === type ? 1 : 0)
-}, 0)
-const json = value => JSON.stringify(value, null, '\t')
-function assert(value, message) {
-	if (!value) {
-		throw new Error(message || `ASSERT!`)
-	}
-}
+const numberOfType = (chunks, type) => chunks.reduce((count, chunk) => count + (chunk.type === type ? 1 : 0), 0)
+const json = value => JSON.stringify(value, null, `\t`)
 const flatMap = (array, fn) => flatten(array.map(fn))
 const containsVerseText = chunk => chunk.type === types.PARAGRAPH_TEXT || chunk.type === types.LINE
-const turnBookNameIntoFileName = bookName => bookName.replace(/ /g, '').toLowerCase()
+const turnBookNameIntoFileName = bookName => bookName.replace(/ /g, ``).toLowerCase()
 
 
 
