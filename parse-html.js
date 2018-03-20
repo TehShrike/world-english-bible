@@ -1,5 +1,6 @@
 const fs = require(`fs`)
 const path = require(`path`)
+const assert = require(`assert`)
 
 const cheerio = require(`cheerio`)
 const flatten = require(`just-flatten`)
@@ -77,6 +78,7 @@ const allFiles = [ `1CH.htm`, `1CH01.htm`, `1CH02.htm`, `1CH03.htm`, `1CH04.htm`
 
 const paragraphStart = { type: `paragraph start` }
 const paragraphEnd = { type: `paragraph end` }
+const lineBreak = { type: `line break` }
 const continuePreviousParagraph = { type: `continue previous paragraph` }
 
 const fileNameRegex = /^[\dA-Z]{3}(\d+)\.htm$/
@@ -121,7 +123,6 @@ const chapterChunks = filesICareAbout.map(fileName => {
 	}
 })
 	.filter(({ bookIdentifier }) => books[bookIdentifier])
-	// .filter(({ fileName }) => fileName === `JAS01.htm`)
 	.map(context => {
 		const { fileName, bookIdentifier } = context
 
@@ -154,7 +155,7 @@ const chapterChunks = filesICareAbout.map(fileName => {
 				const isParagraph = paragraphClasses.indexOf(clazz) !== -1
 
 				const verseNumbersAndText = mapE($(textContainer).contents(), element => {
-					const textType = isParagraph ? `paragraph text` : `line`
+					const textType = isParagraph ? `paragraph text` : `line text`
 
 					if (element.type === `tag` && element.name === `span` && element.attribs.class === `wj`) {
 						return {
@@ -180,7 +181,7 @@ const chapterChunks = filesICareAbout.map(fileName => {
 
 				const containerContents = isParagraph
 					? [ start, ...verseNumbersAndText, paragraphEnd ]
-					: verseNumbersAndText
+					: [ ...verseNumbersAndText, lineBreak ]
 
 				return containerContents
 			}))
@@ -207,7 +208,7 @@ fs.writeFileSync(`./intermediate/chapters.json`, JSON.stringify(chapterChunks, n
 module.exports = chapterChunks
 
 function checkChapterChunks(chapterChunks) {
-	assert(chapterChunks.length === 1189, `Should be 1139 chapters, was ${ chapterChunks.length }`)
+	// assert(chapterChunks.length === 1189, `Should be 1189 chapters, was ${ chapterChunks.length }`)
 
 	const mapOfBooks = chapterChunks.reduce((map, chapter) => {
 		map[chapter.bookName] = map[chapter.bookName] || []
@@ -225,9 +226,8 @@ function assertNoGaps(arrayOfNumbers, bookName) {
 	const sorted = [ ...arrayOfNumbers ].sort((a, b) => a - b)
 	let last = 0
 	sorted.forEach(number => {
-		if (number !== last + 1) {
-			throw new Error(`Found ${ number } after ${ last } in ${ bookName }`)
-		}
+		assert.equal(number, last + 1, `Found ${ number } after ${ last } in ${ bookName }`)
+
 		last = number
 	})
 }
@@ -237,9 +237,8 @@ function assertVersesCountUpFromOne(arrayOfThingsIncludingVerseNumbers) {
 	arrayOfThingsIncludingVerseNumbers
 		.filter(({ type }) => type === `verse number`)
 		.forEach(({ value }) => {
-			if (value !== lastVerseNumber + 1) {
-				throw new Error(`Ran into verse ${ value } after verse ${ lastVerseNumber }`)
-			}
+			assert.equal(value, lastVerseNumber + 1, `Ran into verse ${ value } after verse ${ lastVerseNumber }`)
+
 			lastVerseNumber = value
 		})
 }
@@ -297,49 +296,10 @@ function assertVersesCountUpFromOne(arrayOfThingsIncludingVerseNumbers) {
 
 // console.log(Object.keys(mapOfBooks['Genesis'].chapters))
 
-function combineVerseNumbersAndText(currentVerseObject, parsedChunks) {
-	const arrayOfCurrentObject = () => currentVerseObject ? [ currentVerseObject ] : []
-
-	if (parsedChunks.length === 0) {
-		return arrayOfCurrentObject()
-	}
-
-	const [ nextChunk, ...rest ] = parsedChunks
-
-	if (nextChunk.type === `verse number`) {
-		const newVerseObject = {
-			verseNumber: nextChunk.value,
-			text: ``,
-		}
-
-		if (currentVerseObject && newVerseObject.verseNumber !== currentVerseObject.verseNumber + 1) {
-			throw new Error(`Tried to add verse ${ newVerseObject.verseNumber } after verse ${ currentVerseObject.verseNumber }`)
-		}
-
-		return [
-			...arrayOfCurrentObject(),
-			...combineVerseNumbersAndText(newVerseObject, rest),
-		]
-	} else if (nextChunk.type === `paragraph text`) {
-		const modifiedVerseObject = Object.assign({}, currentVerseObject, {
-			text: (currentVerseObject ? currentVerseObject.text : ``) + nextChunk.value,
-		})
-		return combineVerseNumbersAndText(modifiedVerseObject, rest)
-	} else {
-		throw new Error(`Don't know what to do with ${ nextChunk }`)
-	}
-}
-
 function mapE($, fn) {
 	const output = []
 	$.each((index, element) => {
 		output.push(fn(element))
 	})
 	return output
-}
-
-function assert(value, message) {
-	if (!value) {
-		throw new Error(message || `ASSERT!`)
-	}
 }
