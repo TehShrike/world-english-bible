@@ -113,7 +113,7 @@ function fixChunks(chunks) {
 		putContiguousLinesInsideOfStanzaStartAndEnd,
 		turnBreaksInsideOfStanzasIntoStanzaStartAndEnds,
 		removeBreaksBeforeStanzaStarts,
-		// combineContiguousTextChunks,
+		combineContiguousTextChunks,
 		addSectionNumbers,
 		reorderKeys,
 	)
@@ -248,13 +248,35 @@ function removeBreaksBeforeStanzaStarts(chunks) {
 	return output
 }
 
+function combineContiguousTextChunks(chunks) {
+	let last = null
+	const outputChunks = []
+
+	chunks.forEach(chunk => {
+		if (
+			isTextChunk(chunk)
+			&& last
+			&& last.type === chunk.type
+			&& last.verseNumber === chunk.verseNumber
+			&& last.chapterNumber === chunk.chapterNumber
+		) {
+			last.value += chunk.value
+		} else {
+			last = chunk
+			outputChunks.push(chunk)
+		}
+	})
+
+	return outputChunks
+}
+
 function addSectionNumbers(chunks) {
 	let lastChapter = null
 	let lastVerse = null
 	let lastSection = 0
 
 	return chunks.map(chunk => {
-		if (containsVerseText(chunk)) {
+		if (isTextChunk(chunk)) {
 			const { verseNumber, chapterNumber } = chunk
 
 			if (verseNumber !== lastVerse || chapterNumber !== lastChapter) {
