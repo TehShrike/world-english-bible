@@ -7,14 +7,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Yahweh’s"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 1,
-		"verseNumber": 1,
-		"sectionNumber": 2,
-		"value": " word that came to Joel, the son of Pethuel. "
+		"value": "Yahweh’s word that came to Joel, the son of Pethuel. "
 	},
 	{
 		"type": "paragraph end"
@@ -26,7 +19,7 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 1,
-		"sectionNumber": 3,
+		"sectionNumber": 2,
 		"value": " "
 	},
 	{
@@ -471,14 +464,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 13,
 		"sectionNumber": 3,
-		"value": "Come, lie all night in sackcloth, you ministers of my God,"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
-		"verseNumber": 13,
-		"sectionNumber": 4,
-		"value": " "
+		"value": "Come, lie all night in sackcloth, you ministers of my God, "
 	},
 	{
 		"type": "line break"
@@ -487,7 +473,7 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 13,
-		"sectionNumber": 5,
+		"sectionNumber": 4,
 		"value": "for the meal offering and the drink offering are withheld from your God’s house. "
 	},
 	{
@@ -497,7 +483,7 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 13,
-		"sectionNumber": 6,
+		"sectionNumber": 5,
 		"value": " "
 	},
 	{
@@ -1626,14 +1612,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 19,
 		"sectionNumber": 2,
-		"value": "“Behold,"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 19,
-		"sectionNumber": 3,
-		"value": " I will send you grain, new wine, and oil, "
+		"value": "“Behold, I will send you grain, new wine, and oil, "
 	},
 	{
 		"type": "line break"
@@ -1642,7 +1621,7 @@
 		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 19,
-		"sectionNumber": 4,
+		"sectionNumber": 3,
 		"value": "and you will be satisfied with them; "
 	},
 	{
@@ -1652,7 +1631,7 @@
 		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 19,
-		"sectionNumber": 5,
+		"sectionNumber": 4,
 		"value": "and I will no more make you a reproach among the nations. "
 	},
 	{
@@ -1662,7 +1641,7 @@
 		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 19,
-		"sectionNumber": 6,
+		"sectionNumber": 5,
 		"value": " "
 	},
 	{

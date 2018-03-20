@@ -58,14 +58,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 5,
 		"sectionNumber": 3,
-		"value": "Today I have become your father?”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
-		"verseNumber": 5,
-		"sectionNumber": 4,
-		"value": " "
+		"value": "Today I have become your father?” "
 	},
 	{
 		"type": "line break"
@@ -74,7 +67,7 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 5,
-		"sectionNumber": 5,
+		"sectionNumber": 4,
 		"value": "and again, "
 	},
 	{
@@ -84,7 +77,7 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 5,
-		"sectionNumber": 6,
+		"sectionNumber": 5,
 		"value": "“I will be to him a Father, "
 	},
 	{
@@ -94,15 +87,8 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 5,
-		"sectionNumber": 7,
-		"value": "and he will be to me a Son?”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
-		"verseNumber": 5,
-		"sectionNumber": 8,
-		"value": " "
+		"sectionNumber": 6,
+		"value": "and he will be to me a Son?” "
 	},
 	{
 		"type": "line break"
@@ -118,14 +104,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "When he again brings in the firstborn into the world he says, “Let all the angels of God worship him.”"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 1,
-		"verseNumber": 6,
-		"sectionNumber": 2,
-		"value": "  "
+		"value": "When he again brings in the firstborn into the world he says, “Let all the angels of God worship him.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -155,14 +134,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 7,
 		"sectionNumber": 3,
-		"value": "and his servants a flame of fire.”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
-		"verseNumber": 7,
-		"sectionNumber": 4,
-		"value": " "
+		"value": "and his servants a flame of fire.” "
 	},
 	{
 		"type": "line break"
@@ -228,14 +200,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 9,
 		"sectionNumber": 2,
-		"value": "therefore God, your God, has anointed you with the oil of gladness above your fellows.”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
-		"verseNumber": 9,
-		"sectionNumber": 3,
-		"value": " "
+		"value": "therefore God, your God, has anointed you with the oil of gladness above your fellows.” "
 	},
 	{
 		"type": "line break"
@@ -348,14 +313,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 12,
 		"sectionNumber": 4,
-		"value": "Your years won’t fail.”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
-		"verseNumber": 12,
-		"sectionNumber": 5,
-		"value": " "
+		"value": "Your years won’t fail.” "
 	},
 	{
 		"type": "line break"
@@ -394,14 +352,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 13,
 		"sectionNumber": 3,
-		"value": "until I make your enemies the footstool of your feet?”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
-		"verseNumber": 13,
-		"sectionNumber": 4,
-		"value": " "
+		"value": "until I make your enemies the footstool of your feet?” "
 	},
 	{
 		"type": "line break"
@@ -521,7 +472,10 @@
 		"chapterNumber": 2,
 		"verseNumber": 7,
 		"sectionNumber": 2,
-		"value": "You crowned him with glory and honor."
+		"value": "You crowned him with glory and honor. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "line text",
@@ -531,28 +485,11 @@
 		"value": " "
 	},
 	{
-		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 7,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
 		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "You have put all things in subjection under his feet.”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 8,
-		"sectionNumber": 2,
-		"value": " "
+		"value": "You have put all things in subjection under his feet.” "
 	},
 	{
 		"type": "line break"
@@ -567,7 +504,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 8,
-		"sectionNumber": 3,
+		"sectionNumber": 2,
 		"value": "For in that he subjected all things to him, he left nothing that is not subject to him. But now we don’t see all things subjected to him, yet.  "
 	},
 	{
@@ -589,14 +526,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "For both he who sanctifies and those who are sanctified are all from one, for which cause he is not ashamed to call them brothers,"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 2,
-		"verseNumber": 11,
-		"sectionNumber": 2,
-		"value": "  "
+		"value": "For both he who sanctifies and those who are sanctified are all from one, for which cause he is not ashamed to call them brothers,  "
 	},
 	{
 		"type": "paragraph text",
@@ -626,14 +556,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 12,
 		"sectionNumber": 3,
-		"value": "Among the congregation I will sing your praise.”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 12,
-		"sectionNumber": 4,
-		"value": " "
+		"value": "Among the congregation I will sing your praise.” "
 	},
 	{
 		"type": "line break"
@@ -649,14 +572,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "Again, “I will put my trust in him.” Again, “Behold, here I am with the children whom God has given me.”"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 2,
-		"verseNumber": 13,
-		"sectionNumber": 2,
-		"value": "  "
+		"value": "Again, “I will put my trust in him.” Again, “Behold, here I am with the children whom God has given me.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -677,14 +593,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "For most certainly, he doesn’t give help to angels, but he gives help to the offspring"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 2,
-		"verseNumber": 16,
-		"sectionNumber": 2,
-		"value": " of Abraham.  "
+		"value": "For most certainly, he doesn’t give help to angels, but he gives help to the offspring of Abraham.  "
 	},
 	{
 		"type": "paragraph text",
@@ -884,14 +793,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 11,
 		"sectionNumber": 2,
-		"value": "‘They will not enter into my rest.’ ”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 3,
-		"verseNumber": 11,
-		"sectionNumber": 3,
-		"value": " "
+		"value": "‘They will not enter into my rest.’ ” "
 	},
 	{
 		"type": "line break"
@@ -951,14 +853,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 15,
 		"sectionNumber": 3,
-		"value": "don’t harden your hearts, as in the rebellion.”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 3,
-		"verseNumber": 15,
-		"sectionNumber": 4,
-		"value": " "
+		"value": "don’t harden your hearts, as in the rebellion.” "
 	},
 	{
 		"type": "line break"
@@ -1022,42 +917,21 @@
 		"chapterNumber": 4,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "For we who have believed do enter into that rest, even as he has said, “As I swore in my wrath, they will not enter into my rest;”"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 4,
-		"verseNumber": 3,
-		"sectionNumber": 2,
-		"value": " although the works were finished from the foundation of the world.  "
+		"value": "For we who have believed do enter into that rest, even as he has said, “As I swore in my wrath, they will not enter into my rest;” although the works were finished from the foundation of the world.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "For he has said this somewhere about the seventh day, “God rested on the seventh day from all his works;”"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 4,
-		"verseNumber": 4,
-		"sectionNumber": 2,
-		"value": "  "
+		"value": "For he has said this somewhere about the seventh day, “God rested on the seventh day from all his works;”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "and in this place again, “They will not enter into my rest.”"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 4,
-		"verseNumber": 5,
-		"sectionNumber": 2,
-		"value": " "
+		"value": "and in this place again, “They will not enter into my rest.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1100,14 +974,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 7,
 		"sectionNumber": 3,
-		"value": "don’t harden your hearts.”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 4,
-		"verseNumber": 7,
-		"sectionNumber": 4,
-		"value": " "
+		"value": "don’t harden your hearts.” "
 	},
 	{
 		"type": "line break"
@@ -1249,14 +1116,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 5,
 		"sectionNumber": 3,
-		"value": "Today I have become your father.”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
-		"verseNumber": 5,
-		"sectionNumber": 4,
-		"value": " "
+		"value": "Today I have become your father.” "
 	},
 	{
 		"type": "line break"
@@ -1295,14 +1155,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 6,
 		"sectionNumber": 3,
-		"value": "after the order of Melchizedek.”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
-		"verseNumber": 6,
-		"sectionNumber": 4,
-		"value": " "
+		"value": "after the order of Melchizedek.” "
 	},
 	{
 		"type": "line break"
@@ -1483,14 +1336,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "saying, “Surely blessing I will bless you, and multiplying I will multiply you.”"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 6,
-		"verseNumber": 14,
-		"sectionNumber": 2,
-		"value": "  "
+		"value": "saying, “Surely blessing I will bless you, and multiplying I will multiply you.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -1692,14 +1538,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 17,
 		"sectionNumber": 3,
-		"value": "according to the order of Melchizedek.”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
-		"verseNumber": 17,
-		"sectionNumber": 4,
-		"value": " "
+		"value": "according to the order of Melchizedek.” "
 	},
 	{
 		"type": "line break"
@@ -1769,14 +1608,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 21,
 		"sectionNumber": 4,
-		"value": "according to the order of Melchizedek.’ ”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
-		"verseNumber": 21,
-		"sectionNumber": 5,
-		"value": " "
+		"value": "according to the order of Melchizedek.’ ” "
 	},
 	{
 		"type": "line break"
@@ -1881,14 +1713,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "who serve a copy and shadow of the heavenly things, even as Moses was warned by God when he was about to make the tabernacle, for he said, “See, you shall make everything according to the pattern that was shown to you on the mountain.”"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 8,
-		"verseNumber": 5,
-		"sectionNumber": 2,
-		"value": "  "
+		"value": "who serve a copy and shadow of the heavenly things, even as Moses was warned by God when he was about to make the tabernacle, for he said, “See, you shall make everything according to the pattern that was shown to you on the mountain.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -1922,14 +1747,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 8,
 		"sectionNumber": 2,
-		"value": "“Behold,"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 8,
-		"verseNumber": 8,
-		"sectionNumber": 3,
-		"value": " the days come”, says the Lord, "
+		"value": "“Behold, the days come”, says the Lord, "
 	},
 	{
 		"type": "line break"
@@ -1938,7 +1756,7 @@
 		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 8,
-		"sectionNumber": 4,
+		"sectionNumber": 3,
 		"value": "“that I will make a new covenant with the house of Israel and with the house of Judah; "
 	},
 	{
@@ -1948,7 +1766,7 @@
 		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 8,
-		"sectionNumber": 5,
+		"sectionNumber": 4,
 		"value": " "
 	},
 	{
@@ -2070,14 +1888,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "They will not teach every man his fellow citizen,"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 8,
-		"verseNumber": 11,
-		"sectionNumber": 2,
-		"value": " "
+		"value": "They will not teach every man his fellow citizen, "
 	},
 	{
 		"type": "line break"
@@ -2086,7 +1897,7 @@
 		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 11,
-		"sectionNumber": 3,
+		"sectionNumber": 2,
 		"value": "and every man his brother, saying, ‘Know the Lord,’ "
 	},
 	{
@@ -2096,7 +1907,7 @@
 		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 11,
-		"sectionNumber": 4,
+		"sectionNumber": 3,
 		"value": "for all will know me, "
 	},
 	{
@@ -2106,7 +1917,7 @@
 		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 11,
-		"sectionNumber": 5,
+		"sectionNumber": 4,
 		"value": "from their least to their greatest. "
 	},
 	{
@@ -2116,7 +1927,7 @@
 		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 11,
-		"sectionNumber": 6,
+		"sectionNumber": 5,
 		"value": " "
 	},
 	{
@@ -2134,14 +1945,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 12,
 		"sectionNumber": 2,
-		"value": "I will remember their sins and lawless deeds no more.”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 8,
-		"verseNumber": 12,
-		"sectionNumber": 3,
-		"value": " "
+		"value": "I will remember their sins and lawless deeds no more.” "
 	},
 	{
 		"type": "line break"
@@ -2170,14 +1974,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Now indeed even the first"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 9,
-		"verseNumber": 1,
-		"sectionNumber": 2,
-		"value": " covenant had ordinances of divine service and an earthly sanctuary.  "
+		"value": "Now indeed even the first covenant had ordinances of divine service and an earthly sanctuary.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2316,14 +2113,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "saying, “This is the blood of the covenant which God has commanded you.”"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 9,
-		"verseNumber": 20,
-		"sectionNumber": 2,
-		"value": " "
+		"value": "saying, “This is the blood of the covenant which God has commanded you.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2499,14 +2289,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 7,
 		"sectionNumber": 2,
-		"value": "to do your will, O God.’ ”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 10,
-		"verseNumber": 7,
-		"sectionNumber": 3,
-		"value": " "
+		"value": "to do your will, O God.’ ” "
 	},
 	{
 		"type": "line break"
@@ -2621,14 +2404,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 16,
 		"sectionNumber": 4,
-		"value": "I will also write them on their mind;’ ”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 10,
-		"verseNumber": 16,
-		"sectionNumber": 5,
-		"value": " "
+		"value": "I will also write them on their mind;’ ” "
 	},
 	{
 		"type": "line break"
@@ -2643,7 +2419,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 16,
-		"sectionNumber": 6,
+		"sectionNumber": 5,
 		"value": "then he says, "
 	},
 	{
@@ -2656,7 +2432,7 @@
 		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 16,
-		"sectionNumber": 7,
+		"sectionNumber": 6,
 		"value": " "
 	},
 	{
@@ -2664,14 +2440,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "“I will remember their sins and their iniquities no more.”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 10,
-		"verseNumber": 17,
-		"sectionNumber": 2,
-		"value": " "
+		"value": "“I will remember their sins and their iniquities no more.” "
 	},
 	{
 		"type": "line break"
@@ -2789,21 +2558,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "For we know him who said, “Vengeance belongs to me;” says the Lord, “I will repay.”"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 10,
-		"verseNumber": 30,
-		"sectionNumber": 2,
-		"value": " Again, “The Lord will judge his people.”"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 10,
-		"verseNumber": 30,
-		"sectionNumber": 3,
-		"value": "  "
+		"value": "For we know him who said, “Vengeance belongs to me;” says the Lord, “I will repay.” Again, “The Lord will judge his people.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -2908,14 +2663,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 38,
 		"sectionNumber": 2,
-		"value": "If he shrinks back, my soul has no pleasure in him.”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 10,
-		"verseNumber": 38,
-		"sectionNumber": 3,
-		"value": " "
+		"value": "If he shrinks back, my soul has no pleasure in him.” "
 	},
 	{
 		"type": "line break"
@@ -2986,14 +2734,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "By faith, Noah, being warned about things not yet seen, moved with godly fear,"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 11,
-		"verseNumber": 7,
-		"sectionNumber": 2,
-		"value": " prepared a ship for the saving of his house, through which he condemned the world, and became heir of the righteousness which is according to faith.  "
+		"value": "By faith, Noah, being warned about things not yet seen, moved with godly fear, prepared a ship for the saving of his house, through which he condemned the world, and became heir of the righteousness which is according to faith.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3035,14 +2776,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "These all died in faith, not having received the promises, but having seen"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 11,
-		"verseNumber": 13,
-		"sectionNumber": 2,
-		"value": " them and embraced them from afar, and having confessed that they were strangers and pilgrims on the earth.  "
+		"value": "These all died in faith, not having received the promises, but having seen them and embraced them from afar, and having confessed that they were strangers and pilgrims on the earth.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3083,14 +2817,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "to whom it was said, “Your offspring will be accounted as from Isaac,” "
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 11,
-		"verseNumber": 18,
-		"sectionNumber": 2,
-		"value": "  "
+		"value": "to whom it was said, “Your offspring will be accounted as from Isaac,”   "
 	},
 	{
 		"type": "paragraph text",
@@ -3195,49 +2922,21 @@
 		"chapterNumber": 11,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "who through faith subdued kingdoms, worked out righteousness, obtained promises, stopped the mouths of lions,"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 11,
-		"verseNumber": 33,
-		"sectionNumber": 2,
-		"value": "  "
+		"value": "who through faith subdued kingdoms, worked out righteousness, obtained promises, stopped the mouths of lions,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 34,
 		"sectionNumber": 1,
-		"value": "quenched the power of fire,"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 11,
-		"verseNumber": 34,
-		"sectionNumber": 2,
-		"value": " escaped the edge of the sword,"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 11,
-		"verseNumber": 34,
-		"sectionNumber": 3,
-		"value": " from weakness were made strong, grew mighty in war, and caused foreign armies to flee.  "
+		"value": "quenched the power of fire, escaped the edge of the sword, from weakness were made strong, grew mighty in war, and caused foreign armies to flee.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 35,
 		"sectionNumber": 1,
-		"value": "Women received their dead by resurrection."
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 11,
-		"verseNumber": 35,
-		"sectionNumber": 2,
-		"value": " Others were tortured, not accepting their deliverance, that they might obtain a better resurrection.  "
+		"value": "Women received their dead by resurrection. Others were tortured, not accepting their deliverance, that they might obtain a better resurrection.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3251,21 +2950,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 37,
 		"sectionNumber": 1,
-		"value": "They were stoned."
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 11,
-		"verseNumber": 37,
-		"sectionNumber": 2,
-		"value": " They were sawn apart. They were tempted. They were slain with the sword."
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 11,
-		"verseNumber": 37,
-		"sectionNumber": 3,
-		"value": " They went around in sheep skins and in goat skins; being destitute, afflicted, ill-treated—  "
+		"value": "They were stoned. They were sawn apart. They were tempted. They were slain with the sword. They went around in sheep skins and in goat skins; being destitute, afflicted, ill-treated—  "
 	},
 	{
 		"type": "paragraph text",
@@ -3377,14 +3062,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 6,
 		"sectionNumber": 2,
-		"value": "and chastises every son whom he receives.”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 12,
-		"verseNumber": 6,
-		"sectionNumber": 3,
-		"value": " "
+		"value": "and chastises every son whom he receives.” "
 	},
 	{
 		"type": "line break"
@@ -3435,28 +3113,14 @@
 		"chapterNumber": 12,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Therefore lift up the hands that hang down and the feeble knees, "
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 12,
-		"verseNumber": 12,
-		"sectionNumber": 2,
-		"value": "  "
+		"value": "Therefore lift up the hands that hang down and the feeble knees,   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "and make straight paths for your feet,"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 12,
-		"verseNumber": 13,
-		"sectionNumber": 2,
-		"value": " so what is lame may not be dislocated, but rather be healed. "
+		"value": "and make straight paths for your feet, so what is lame may not be dislocated, but rather be healed. "
 	},
 	{
 		"type": "paragraph end"
@@ -3517,28 +3181,14 @@
 		"chapterNumber": 12,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "for they could not stand that which was commanded, “If even an animal touches the mountain, it shall be stoned”."
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 12,
-		"verseNumber": 20,
-		"sectionNumber": 2,
-		"value": "  "
+		"value": "for they could not stand that which was commanded, “If even an animal touches the mountain, it shall be stoned”.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "So fearful was the appearance that Moses said, “I am terrified and trembling.”"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 12,
-		"verseNumber": 21,
-		"sectionNumber": 2,
-		"value": " "
+		"value": "So fearful was the appearance that Moses said, “I am terrified and trembling.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3565,14 +3215,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "to Jesus, the mediator of a new covenant,"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 12,
-		"verseNumber": 24,
-		"sectionNumber": 2,
-		"value": " and to the blood of sprinkling that speaks better than that of Abel. "
+		"value": "to Jesus, the mediator of a new covenant, and to the blood of sprinkling that speaks better than that of Abel. "
 	},
 	{
 		"type": "paragraph end"
@@ -3592,14 +3235,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "whose voice shook the earth then, but now he has promised, saying, “Yet once more I will shake not only the earth, but also the heavens.”"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 12,
-		"verseNumber": 26,
-		"sectionNumber": 2,
-		"value": "  "
+		"value": "whose voice shook the earth then, but now he has promised, saying, “Yet once more I will shake not only the earth, but also the heavens.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -3620,14 +3256,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "for our God is a consuming fire."
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 12,
-		"verseNumber": 29,
-		"sectionNumber": 2,
-		"value": " "
+		"value": "for our God is a consuming fire. "
 	},
 	{
 		"type": "paragraph end"
@@ -3674,14 +3303,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Be free from the love of money, content with such things as you have, for he has said, “I will in no way leave you, neither will I in any way forsake you.”"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 13,
-		"verseNumber": 5,
-		"sectionNumber": 2,
-		"value": "  "
+		"value": "Be free from the love of money, content with such things as you have, for he has said, “I will in no way leave you, neither will I in any way forsake you.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -3711,14 +3333,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 6,
 		"sectionNumber": 3,
-		"value": "What can man do to me?”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 13,
-		"verseNumber": 6,
-		"sectionNumber": 4,
-		"value": " "
+		"value": "What can man do to me?” "
 	},
 	{
 		"type": "line break"
@@ -3768,14 +3383,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "For the bodies of those animals, whose blood is brought into the holy place by the high priest as an offering for sin, are burned outside of the camp."
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 13,
-		"verseNumber": 11,
-		"sectionNumber": 2,
-		"value": "  "
+		"value": "For the bodies of those animals, whose blood is brought into the holy place by the high priest as an offering for sin, are burned outside of the camp.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3803,14 +3411,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "Through him, then, let’s offer up a sacrifice of praise to God "
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 13,
-		"verseNumber": 15,
-		"sectionNumber": 2,
-		"value": " continually, that is, the fruit of lips which proclaim allegiance to his name.  "
+		"value": "Through him, then, let’s offer up a sacrifice of praise to God  continually, that is, the fruit of lips which proclaim allegiance to his name.  "
 	},
 	{
 		"type": "paragraph text",

@@ -7,14 +7,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Yahweh’s"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 1,
-		"verseNumber": 1,
-		"sectionNumber": 2,
-		"value": " word that came to Micah the Morashtite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem. "
+		"value": "Yahweh’s word that came to Micah the Morashtite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem. "
 	},
 	{
 		"type": "paragraph end"
@@ -26,7 +19,7 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 1,
-		"sectionNumber": 3,
+		"sectionNumber": 2,
 		"value": " "
 	},
 	{
@@ -54,14 +47,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 2,
 		"sectionNumber": 3,
-		"value": "and let the Lord"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
-		"verseNumber": 2,
-		"sectionNumber": 4,
-		"value": " Yahweh be witness against you, "
+		"value": "and let the Lord Yahweh be witness against you, "
 	},
 	{
 		"type": "line break"
@@ -70,7 +56,7 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 2,
-		"sectionNumber": 5,
+		"sectionNumber": 4,
 		"value": "the Lord from his holy temple. "
 	},
 	{
@@ -80,7 +66,7 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 2,
-		"sectionNumber": 6,
+		"sectionNumber": 5,
 		"value": " "
 	},
 	{
@@ -88,14 +74,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "For, behold,"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
-		"verseNumber": 3,
-		"sectionNumber": 2,
-		"value": " Yahweh comes out of his place, "
+		"value": "For, behold, Yahweh comes out of his place, "
 	},
 	{
 		"type": "line break"
@@ -104,7 +83,7 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 3,
-		"sectionNumber": 3,
+		"sectionNumber": 2,
 		"value": "and will come down and tread on the high places of the earth. "
 	},
 	{
@@ -114,7 +93,7 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 3,
-		"sectionNumber": 4,
+		"sectionNumber": 3,
 		"value": " "
 	},
 	{
@@ -466,14 +445,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 10,
 		"sectionNumber": 3,
-		"value": "At Beth Ophrah"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
-		"verseNumber": 10,
-		"sectionNumber": 4,
-		"value": " I have rolled myself in the dust. "
+		"value": "At Beth Ophrah I have rolled myself in the dust. "
 	},
 	{
 		"type": "line break"
@@ -482,7 +454,7 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 10,
-		"sectionNumber": 5,
+		"sectionNumber": 4,
 		"value": " "
 	},
 	{
@@ -1555,14 +1527,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 7,
 		"sectionNumber": 4,
-		"value": "for there is no answer from God.”"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 3,
-		"verseNumber": 7,
-		"sectionNumber": 5,
-		"value": " "
+		"value": "for there is no answer from God.” "
 	},
 	{
 		"type": "line break"
@@ -1571,7 +1536,7 @@
 		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 7,
-		"sectionNumber": 6,
+		"sectionNumber": 5,
 		"value": " "
 	},
 	{
@@ -3439,14 +3404,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 10,
 		"sectionNumber": 2,
-		"value": "and a short ephah"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 6,
-		"verseNumber": 10,
-		"sectionNumber": 3,
-		"value": " that is accursed? "
+		"value": "and a short ephah that is accursed? "
 	},
 	{
 		"type": "line break"
@@ -3455,7 +3413,7 @@
 		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 10,
-		"sectionNumber": 4,
+		"sectionNumber": 3,
 		"value": " "
 	},
 	{

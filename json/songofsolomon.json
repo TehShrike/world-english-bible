@@ -524,14 +524,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "Behold,"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
-		"verseNumber": 15,
-		"sectionNumber": 2,
-		"value": " you are beautiful, my love. "
+		"value": "Behold, you are beautiful, my love. "
 	},
 	{
 		"type": "line break"
@@ -540,7 +533,7 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 15,
-		"sectionNumber": 3,
+		"sectionNumber": 2,
 		"value": "Behold, you are beautiful. "
 	},
 	{
@@ -550,7 +543,7 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 15,
-		"sectionNumber": 4,
+		"sectionNumber": 3,
 		"value": "Your eyes are like doves. "
 	},
 	{
@@ -560,7 +553,7 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 15,
-		"sectionNumber": 5,
+		"sectionNumber": 4,
 		"value": " "
 	},
 	{
@@ -4273,14 +4266,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 6,
 		"sectionNumber": 4,
-		"value": "Jealousy is as cruel as Sheol."
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 8,
-		"verseNumber": 6,
-		"sectionNumber": 5,
-		"value": " "
+		"value": "Jealousy is as cruel as Sheol. "
 	},
 	{
 		"type": "line break"
@@ -4289,7 +4275,7 @@
 		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 6,
-		"sectionNumber": 6,
+		"sectionNumber": 5,
 		"value": "Its flashes are flashes of fire, "
 	},
 	{
@@ -4299,15 +4285,8 @@
 		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 6,
-		"sectionNumber": 7,
-		"value": "a very flame of Yahweh."
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 8,
-		"verseNumber": 6,
-		"sectionNumber": 8,
-		"value": " "
+		"sectionNumber": 6,
+		"value": "a very flame of Yahweh. "
 	},
 	{
 		"type": "line break"
@@ -4316,7 +4295,7 @@
 		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 6,
-		"sectionNumber": 9,
+		"sectionNumber": 7,
 		"value": " "
 	},
 	{
@@ -4518,14 +4497,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 11,
 		"sectionNumber": 3,
-		"value": "Each was to bring a thousand shekels"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 8,
-		"verseNumber": 11,
-		"sectionNumber": 4,
-		"value": " of silver for its fruit. "
+		"value": "Each was to bring a thousand shekels of silver for its fruit. "
 	},
 	{
 		"type": "line break"
@@ -4534,7 +4506,7 @@
 		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 11,
-		"sectionNumber": 5,
+		"sectionNumber": 4,
 		"value": " "
 	},
 	{

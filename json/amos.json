@@ -27,14 +27,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 2,
 		"sectionNumber": 2,
-		"value": "“Yahweh"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
-		"verseNumber": 2,
-		"sectionNumber": 3,
-		"value": " will roar from Zion, "
+		"value": "“Yahweh will roar from Zion, "
 	},
 	{
 		"type": "line break"
@@ -43,7 +36,7 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 2,
-		"sectionNumber": 4,
+		"sectionNumber": 3,
 		"value": "and utter his voice from Jerusalem; "
 	},
 	{
@@ -53,7 +46,7 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 2,
-		"sectionNumber": 5,
+		"sectionNumber": 4,
 		"value": "and the pastures of the shepherds will mourn, "
 	},
 	{
@@ -63,7 +56,7 @@
 		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 2,
-		"sectionNumber": 6,
+		"sectionNumber": 5,
 		"value": "and the top of Carmel will wither.” "
 	},
 	{
@@ -349,14 +342,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 8,
 		"sectionNumber": 5,
-		"value": "says the Lord"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 1,
-		"verseNumber": 8,
-		"sectionNumber": 6,
-		"value": " Yahweh. "
+		"value": "says the Lord Yahweh. "
 	},
 	{
 		"type": "paragraph end"
@@ -1046,14 +1032,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 2,
-		"value": "and in the house of their God"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 8,
-		"sectionNumber": 3,
-		"value": " they drink the wine of those who have been fined. "
+		"value": "and in the house of their God they drink the wine of those who have been fined. "
 	},
 	{
 		"type": "line break"
@@ -1062,7 +1041,7 @@
 		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 8,
-		"sectionNumber": 4,
+		"sectionNumber": 3,
 		"value": " "
 	},
 	{
@@ -1238,14 +1217,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "Behold,"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 13,
-		"sectionNumber": 2,
-		"value": " I will crush you in your place, "
+		"value": "Behold, I will crush you in your place, "
 	},
 	{
 		"type": "line break"
@@ -1254,7 +1226,7 @@
 		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 13,
-		"sectionNumber": 3,
+		"sectionNumber": 2,
 		"value": "as a cart crushes that is full of grain. "
 	},
 	{
@@ -1264,7 +1236,7 @@
 		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 13,
-		"sectionNumber": 4,
+		"sectionNumber": 3,
 		"value": " "
 	},
 	{
@@ -4335,21 +4307,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 5,
 		"sectionNumber": 3,
-		"value": "making the ephah"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 8,
-		"verseNumber": 5,
-		"sectionNumber": 4,
-		"value": " small, and the shekel"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 8,
-		"verseNumber": 5,
-		"sectionNumber": 5,
-		"value": " large, "
+		"value": "making the ephah small, and the shekel large, "
 	},
 	{
 		"type": "line break"
@@ -4358,7 +4316,7 @@
 		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 5,
-		"sectionNumber": 6,
+		"sectionNumber": 4,
 		"value": "and dealing falsely with balances of deceit; "
 	},
 	{
@@ -4368,7 +4326,7 @@
 		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 5,
-		"sectionNumber": 7,
+		"sectionNumber": 5,
 		"value": " "
 	},
 	{
@@ -4775,14 +4733,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Though they dig into Sheol,"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 9,
-		"verseNumber": 2,
-		"sectionNumber": 2,
-		"value": " there my hand will take them; and though they climb up to heaven, there I will bring them down.  "
+		"value": "Though they dig into Sheol, there my hand will take them; and though they climb up to heaven, there I will bring them down.  "
 	},
 	{
 		"type": "paragraph text",

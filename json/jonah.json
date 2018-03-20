@@ -7,14 +7,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Now Yahweh’s"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 1,
-		"verseNumber": 1,
-		"sectionNumber": 2,
-		"value": " word came to Jonah the son of Amittai, saying,  "
+		"value": "Now Yahweh’s word came to Jonah the son of Amittai, saying,  "
 	},
 	{
 		"type": "paragraph text",
@@ -55,21 +48,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "So the ship master came to him, and said to him, “What do you mean, sleeper? Arise, call on your God!"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 1,
-		"verseNumber": 6,
-		"sectionNumber": 2,
-		"value": " Maybe your God"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 1,
-		"verseNumber": 6,
-		"sectionNumber": 3,
-		"value": " will notice us, so that we won’t perish.” "
+		"value": "So the ship master came to him, and said to him, “What do you mean, sleeper? Arise, call on your God! Maybe your God will notice us, so that we won’t perish.” "
 	},
 	{
 		"type": "paragraph end"
@@ -102,14 +81,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "He said to them, “I am a Hebrew, and I fear Yahweh, the God"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 1,
-		"verseNumber": 9,
-		"sectionNumber": 2,
-		"value": " of heaven, who has made the sea and the dry land.” "
+		"value": "He said to them, “I am a Hebrew, and I fear Yahweh, the God of heaven, who has made the sea and the dry land.” "
 	},
 	{
 		"type": "paragraph end"
@@ -236,14 +208,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 4,
-		"value": "Out of the belly of Sheol"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 2,
-		"sectionNumber": 5,
-		"value": " I cried. "
+		"value": "Out of the belly of Sheol I cried. "
 	},
 	{
 		"type": "line break"
@@ -252,7 +217,7 @@
 		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 2,
-		"sectionNumber": 6,
+		"sectionNumber": 5,
 		"value": "You heard my voice. "
 	},
 	{
@@ -262,7 +227,7 @@
 		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 2,
-		"sectionNumber": 7,
+		"sectionNumber": 6,
 		"value": " "
 	},
 	{
