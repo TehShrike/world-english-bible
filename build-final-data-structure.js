@@ -9,7 +9,8 @@ const types = {
 	STANZA_START: `stanza start`,
 	STANZA_END: `stanza end`,
 	PARAGRAPH_TEXT: `paragraph text`,
-	LINE: `line`,
+	LINE_TEXT: `line text`,
+	LINE_BREAK: `line break`,
 	CHAPTER_NUMBER: `chapter number`,
 	VERSE_NUMBER: `verse number`,
 	CONTINUE_PREVIOUS_PARAGRAPH: `continue previous paragraph`,
@@ -112,6 +113,7 @@ function fixChunks(chunks) {
 		putContiguousLinesInsideOfStanzaStartAndEnd,
 		turnBreaksInsideOfStanzasIntoStanzaStartAndEnds,
 		removeBreaksBeforeStanzaStarts,
+		// combineContiguousTextChunks,
 		addSectionNumbers,
 		reorderKeys,
 	)
@@ -128,7 +130,7 @@ function removeWhitespaceAtStartOfParagraphsOrBooks(chunks) {
 			&& (lastChunk.type === types.PARAGRAPH_START || lastChunk.type === types.CONTINUE_PREVIOUS_PARAGRAPH)
 
 		const removeChunk = (startOfBook || startOfParagraph)
-			&& containsVerseText(chunk)
+			&& isTextChunk(chunk)
 			&& !chunk.value.trim()
 
 		// console.log(removeChunk ? `removing` : `keeping`, chunk)
@@ -148,7 +150,7 @@ function moveChapterNumbersIntoVerseText(chunks) {
 	return chunks.map(chunk => {
 		if (chunk.type === types.CHAPTER_NUMBER) {
 			currentChapterNumber = chunk.value
-		} else if (containsVerseText(chunk)) {
+		} else if (isTextChunk(chunk)) {
 			return Object.assign({
 				chapterNumber: currentChapterNumber,
 			}, chunk)
@@ -183,7 +185,7 @@ function addVerseNumberToVerses(chunks) {
 	chunks.forEach(chunk => {
 		if (chunk.type === types.VERSE_NUMBER) {
 			currentVerseNumber = chunk.value
-		} else if (containsVerseText(chunk)) {
+		} else if (isTextChunk(chunk)) {
 			assert(currentVerseNumber !== null)
 			output.push(Object.assign({
 				verseNumber: currentVerseNumber,
@@ -198,10 +200,10 @@ function addVerseNumberToVerses(chunks) {
 function putContiguousLinesInsideOfStanzaStartAndEnd(chunks) {
 	let insideStanza = false
 	return flatMap(chunks, chunk => {
-		if (insideStanza && (chunk.type !== types.LINE && chunk.type !== types.BREAK)) {
+		if (insideStanza && (!isStanzaChunk(chunk) && chunk.type !== types.BREAK)) {
 			insideStanza = false
 			return [ stanzaEnd, chunk ]
-		} else if (!insideStanza && chunk.type === types.LINE) {
+		} else if (!insideStanza && isStanzaChunk(chunk)) {
 			insideStanza = true
 			return [ stanzaStart, chunk ]
 		} else {
@@ -290,7 +292,8 @@ const truthy = value => value
 const numberOfType = (chunks, type) => chunks.reduce((count, chunk) => count + (chunk.type === type ? 1 : 0), 0)
 const json = value => JSON.stringify(value, null, `\t`)
 const flatMap = (array, fn) => flatten(array.map(fn))
-const containsVerseText = chunk => chunk.type === types.PARAGRAPH_TEXT || chunk.type === types.LINE
+const isTextChunk = chunk => chunk.type === types.PARAGRAPH_TEXT || chunk.type === types.LINE_TEXT
+const isStanzaChunk = chunk => chunk.type === types.LINE_TEXT || chunk.type === types.LINE_BREAK
 const turnBookNameIntoFileName = bookName => bookName.replace(/ /g, ``).toLowerCase()
 
 
