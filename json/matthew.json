@@ -949,13 +949,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 4,
-		"verseNumber": 15,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 4,
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "the people who sat in darkness saw a great light, "
@@ -1126,13 +1119,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 5,
-		"verseNumber": 3,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": " Blessed are those who mourn, "
@@ -1149,13 +1135,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
-		"verseNumber": 4,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -1180,13 +1159,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 5,
-		"verseNumber": 5,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": " Blessed are those who hunger and thirst after righteousness,  "
@@ -1203,13 +1175,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
-		"verseNumber": 6,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -1234,13 +1199,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 5,
-		"verseNumber": 7,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": " Blessed are the pure in heart, "
@@ -1261,13 +1219,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 5,
-		"verseNumber": 8,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": " Blessed are the peacemakers, "
@@ -1284,13 +1235,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
-		"verseNumber": 9,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -3709,13 +3653,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 12,
-		"verseNumber": 18,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 12,
 		"verseNumber": 19,
 		"sectionNumber": 1,
 		"value": "He will not strive, nor shout; "
@@ -3732,13 +3669,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 12,
-		"verseNumber": 19,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -3769,13 +3699,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 12,
-		"verseNumber": 20,
-		"sectionNumber": 4,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -4205,13 +4128,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 13,
-		"verseNumber": 14,
-		"sectionNumber": 6,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -5183,13 +5099,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 15,
-		"verseNumber": 8,
-		"sectionNumber": 4,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -10214,13 +10123,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 27,
-		"verseNumber": 9,
-		"sectionNumber": 5,
-		"value": " "
 	},
 	{
 		"type": "line text",

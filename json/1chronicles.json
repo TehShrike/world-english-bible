@@ -4430,13 +4430,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 16,
-		"verseNumber": 8,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "Sing to him. "
@@ -4467,13 +4460,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 16,
-		"verseNumber": 9,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "Glory in his holy name. "
@@ -4490,13 +4476,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
-		"verseNumber": 10,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -4521,13 +4500,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 16,
-		"verseNumber": 11,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "Remember his marvelous works that he has done, "
@@ -4544,13 +4516,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
-		"verseNumber": 12,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -4575,13 +4540,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 16,
-		"verseNumber": 13,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
 		"verseNumber": 14,
 		"sectionNumber": 1,
 		"value": "He is Yahweh our God. "
@@ -4598,13 +4556,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
-		"verseNumber": 14,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -4629,13 +4580,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 16,
-		"verseNumber": 15,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "the covenant which he made with Abraham, "
@@ -4652,13 +4596,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
-		"verseNumber": 16,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -4683,13 +4620,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 16,
-		"verseNumber": 17,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
 		"verseNumber": 18,
 		"sectionNumber": 1,
 		"value": "saying, “I will give you the land of Canaan, "
@@ -4706,13 +4636,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
-		"verseNumber": 18,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -4737,13 +4660,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 16,
-		"verseNumber": 19,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
 		"verseNumber": 20,
 		"sectionNumber": 1,
 		"value": "They went about from nation to nation, "
@@ -4760,13 +4676,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
-		"verseNumber": 20,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -4791,13 +4700,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 16,
-		"verseNumber": 21,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
 		"verseNumber": 22,
 		"sectionNumber": 1,
 		"value": "“Don’t touch my anointed ones! "
@@ -4814,13 +4716,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
-		"verseNumber": 22,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -4845,13 +4740,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 16,
-		"verseNumber": 23,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
 		"verseNumber": 24,
 		"sectionNumber": 1,
 		"value": "Declare his glory among the nations, "
@@ -4868,13 +4756,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
-		"verseNumber": 24,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -4899,13 +4780,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 16,
-		"verseNumber": 25,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
 		"verseNumber": 26,
 		"sectionNumber": 1,
 		"value": "For all the gods of the peoples are idols, "
@@ -4922,13 +4796,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
-		"verseNumber": 26,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -4953,13 +4820,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 16,
-		"verseNumber": 27,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
 		"verseNumber": 28,
 		"sectionNumber": 1,
 		"value": "Ascribe to Yahweh, you relatives of the peoples, "
@@ -4976,13 +4836,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
-		"verseNumber": 28,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -5017,13 +4870,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 16,
-		"verseNumber": 29,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
 		"verseNumber": 30,
 		"sectionNumber": 1,
 		"value": "Tremble before him, all the earth. "
@@ -5040,13 +4886,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
-		"verseNumber": 30,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -5081,13 +4920,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 16,
-		"verseNumber": 31,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
 		"verseNumber": 32,
 		"sectionNumber": 1,
 		"value": "Let the sea roar, and its fullness! "
@@ -5104,13 +4936,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
-		"verseNumber": 32,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -5135,13 +4960,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 16,
-		"verseNumber": 33,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
 		"verseNumber": 34,
 		"sectionNumber": 1,
 		"value": "Oh give thanks to Yahweh, for he is good, "
@@ -5158,13 +4976,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
-		"verseNumber": 34,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -5205,13 +5016,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
-		"verseNumber": 35,
-		"sectionNumber": 5,
-		"value": " "
 	},
 	{
 		"type": "line text",

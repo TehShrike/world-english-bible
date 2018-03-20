@@ -327,13 +327,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 1,
-		"sectionNumber": 6,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "There is no one as holy as Yahweh, "
@@ -450,13 +443,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 4,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "Those who were full have hired themselves out for bread. "
@@ -530,13 +516,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 6,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "Yahweh makes poor and makes rich. "
@@ -553,13 +532,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 7,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -624,13 +596,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 8,
-		"sectionNumber": 7,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "He will keep the feet of his holy ones, "
@@ -657,13 +622,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 9,
-		"sectionNumber": 4,
-		"value": " "
 	},
 	{
 		"type": "line text",

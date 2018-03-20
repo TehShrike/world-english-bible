@@ -45,13 +45,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 1,
-		"verseNumber": 2,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "the voice of one crying in the wilderness, "
@@ -2394,13 +2387,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 7,
-		"verseNumber": 6,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": " But they worship me in vain, "
@@ -4609,13 +4595,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 12,
-		"verseNumber": 10,
-		"sectionNumber": 4,
-		"value": " "
 	},
 	{
 		"type": "line text",

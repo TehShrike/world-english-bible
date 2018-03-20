@@ -65,13 +65,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 1,
-		"verseNumber": 2,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "For, behold, Yahweh comes out of his place, "
@@ -88,13 +81,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
-		"verseNumber": 3,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -212,13 +198,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 1,
-		"verseNumber": 5,
-		"sectionNumber": 7,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "Therefore I will make Samaria like a rubble heap of the field, "
@@ -255,13 +234,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
-		"verseNumber": 6,
-		"sectionNumber": 5,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -369,13 +341,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 1,
-		"verseNumber": 8,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "For her wounds are incurable; "
@@ -416,13 +381,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 1,
-		"verseNumber": 9,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "Don’t tell it in Gath. "
@@ -449,13 +407,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
-		"verseNumber": 10,
-		"sectionNumber": 4,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -490,13 +441,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 1,
-		"verseNumber": 11,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "For the inhabitant of Maroth waits anxiously for good, "
@@ -513,13 +457,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
-		"verseNumber": 12,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -554,13 +491,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 1,
-		"verseNumber": 13,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
 		"verseNumber": 14,
 		"sectionNumber": 1,
 		"value": "Therefore you will give a parting gift to Moresheth Gath. "
@@ -581,13 +511,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 1,
-		"verseNumber": 14,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
 		"verseNumber": 15,
 		"sectionNumber": 1,
 		"value": "I will yet bring to you, inhabitant of Mareshah. "
@@ -604,13 +527,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
-		"verseNumber": 15,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -708,13 +624,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 1,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "They covet fields, and seize them; "
@@ -751,13 +660,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 2,
-		"sectionNumber": 5,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -812,13 +714,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 3,
-		"sectionNumber": 6,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "In that day they will take up a parable against you, "
@@ -869,26 +764,12 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 4,
-		"sectionNumber": 6,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "Therefore you will have no one who divides the land by lot in Yahweh’s assembly. "
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 5,
-		"sectionNumber": 2,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -933,13 +814,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 6,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "Shall it be said, O house of Jacob: "
@@ -980,13 +854,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 7,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "But lately my people have risen up as an enemy. "
@@ -1007,13 +874,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 8,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "You drive the women of my people out from their pleasant houses; "
@@ -1030,13 +890,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 9,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -1081,13 +934,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 10,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "If a man walking in a spirit of falsehood lies: "
@@ -1114,13 +960,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 11,
-		"sectionNumber": 4,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -1171,13 +1010,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 12,
-		"sectionNumber": 6,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -1271,13 +1103,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 3,
-		"verseNumber": 1,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 3,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "You who hate the good, "
@@ -1314,13 +1139,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 3,
-		"verseNumber": 2,
-		"sectionNumber": 5,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -1371,13 +1189,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 3,
-		"verseNumber": 3,
-		"sectionNumber": 6,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -1488,13 +1299,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 3,
-		"verseNumber": 6,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 3,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "The seers shall be disappointed, "
@@ -1531,13 +1335,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 3,
-		"verseNumber": 7,
-		"sectionNumber": 5,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -1582,13 +1379,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 3,
-		"verseNumber": 8,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 3,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "Please listen to this, you heads of the house of Jacob, "
@@ -1629,13 +1419,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 3,
-		"verseNumber": 9,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 3,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "They build up Zion with blood, "
@@ -1652,13 +1435,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 3,
-		"verseNumber": 10,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -1719,13 +1495,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 3,
-		"verseNumber": 11,
-		"sectionNumber": 7,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -1813,13 +1582,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 4,
-		"verseNumber": 1,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 4,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "Many nations will go and say, "
@@ -1890,13 +1652,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 4,
-		"verseNumber": 2,
-		"sectionNumber": 8,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 4,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "and he will judge between many peoples, "
@@ -1957,13 +1712,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 4,
-		"verseNumber": 3,
-		"sectionNumber": 7,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 4,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "But they will sit every man under his vine and under his fig tree; "
@@ -2011,13 +1759,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 4,
-		"verseNumber": 5,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 4,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "“In that day,” says Yahweh, "
@@ -2058,13 +1799,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 4,
-		"verseNumber": 6,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 4,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "and I will make that which was lame a remnant, "
@@ -2091,13 +1825,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 4,
-		"verseNumber": 7,
-		"sectionNumber": 4,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -2142,13 +1869,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 4,
-		"verseNumber": 8,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 4,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "Now why do you cry out aloud? "
@@ -2185,13 +1905,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 4,
-		"verseNumber": 9,
-		"sectionNumber": 5,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -2266,13 +1979,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 4,
-		"verseNumber": 10,
-		"sectionNumber": 8,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 4,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "Now many nations have assembled against you, that say, "
@@ -2303,13 +2009,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 4,
-		"verseNumber": 11,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 4,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "But they don’t know the thoughts of Yahweh, "
@@ -2336,13 +2035,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 4,
-		"verseNumber": 12,
-		"sectionNumber": 4,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -2460,13 +2152,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 5,
-		"verseNumber": 1,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "But you, Bethlehem Ephrathah, "
@@ -2507,13 +2192,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 5,
-		"verseNumber": 2,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "Therefore he will abandon them until the time that she who is in labor gives birth. "
@@ -2530,13 +2208,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
-		"verseNumber": 3,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -2567,13 +2238,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
-		"verseNumber": 4,
-		"sectionNumber": 4,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -2614,13 +2278,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
-		"verseNumber": 5,
-		"sectionNumber": 5,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -2675,13 +2332,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 5,
-		"verseNumber": 6,
-		"sectionNumber": 6,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "The remnant of Jacob will be among many peoples, "
@@ -2728,13 +2378,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
-		"verseNumber": 7,
-		"sectionNumber": 6,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -2799,13 +2442,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 5,
-		"verseNumber": 8,
-		"sectionNumber": 7,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "Let your hand be lifted up above your adversaries, "
@@ -2822,13 +2458,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
-		"verseNumber": 9,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -2863,13 +2492,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 5,
-		"verseNumber": 10,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "I will cut off the cities of your land, "
@@ -2886,13 +2508,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
-		"verseNumber": 11,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -2917,13 +2532,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 5,
-		"verseNumber": 12,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
 		"verseNumber": 13,
 		"sectionNumber": 1,
 		"value": "I will cut off your engraved images and your pillars out from among you; "
@@ -2944,13 +2552,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 5,
-		"verseNumber": 13,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
 		"verseNumber": 14,
 		"sectionNumber": 1,
 		"value": "I will uproot your Asherah poles out from among you; "
@@ -2967,13 +2568,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
-		"verseNumber": 14,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -3037,13 +2631,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 6,
-		"verseNumber": 1,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 6,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "Hear, you mountains, Yahweh’s controversy, "
@@ -3084,13 +2671,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 6,
-		"verseNumber": 2,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 6,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "My people, what have I done to you? "
@@ -3121,13 +2701,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 6,
-		"verseNumber": 3,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 6,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "For I brought you up out of the land of Egypt, "
@@ -3154,13 +2727,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 6,
-		"verseNumber": 4,
-		"sectionNumber": 4,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -3248,13 +2814,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 6,
-		"verseNumber": 6,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 6,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "Will Yahweh be pleased with thousands of rams? "
@@ -3291,13 +2850,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 6,
-		"verseNumber": 7,
-		"sectionNumber": 5,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -3385,13 +2937,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 6,
-		"verseNumber": 9,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 6,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "Are there yet treasures of wickedness in the house of the wicked, "
@@ -3412,13 +2957,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 6,
-		"verseNumber": 10,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 6,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "Shall I be pure with dishonest scales, "
@@ -3435,13 +2973,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 6,
-		"verseNumber": 11,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -3476,13 +3007,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 6,
-		"verseNumber": 12,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 6,
 		"verseNumber": 13,
 		"sectionNumber": 1,
 		"value": "Therefore I also have struck you with a grievous wound. "
@@ -3499,13 +3023,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 6,
-		"verseNumber": 13,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -3550,13 +3067,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 6,
-		"verseNumber": 14,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 6,
 		"verseNumber": 15,
 		"sectionNumber": 1,
 		"value": "You will sow, but won’t reap. "
@@ -3583,13 +3093,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 6,
-		"verseNumber": 15,
-		"sectionNumber": 4,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -3707,13 +3210,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 7,
-		"verseNumber": 1,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "The godly man has perished out of the earth, "
@@ -3754,13 +3250,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 7,
-		"verseNumber": 2,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "Their hands are on that which is evil to do it diligently. "
@@ -3797,13 +3286,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
-		"verseNumber": 3,
-		"sectionNumber": 5,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -3858,13 +3340,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 7,
-		"verseNumber": 4,
-		"sectionNumber": 6,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "Don’t trust in a neighbor. "
@@ -3901,13 +3376,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
-		"verseNumber": 5,
-		"sectionNumber": 5,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -3952,13 +3420,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 7,
-		"verseNumber": 6,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "But as for me, I will look to Yahweh. "
@@ -3989,13 +3450,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 7,
-		"verseNumber": 7,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "Don’t rejoice against me, my enemy. "
@@ -4022,13 +3476,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
-		"verseNumber": 8,
-		"sectionNumber": 4,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -4083,13 +3530,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 7,
-		"verseNumber": 9,
-		"sectionNumber": 6,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "Then my enemy will see it, "
@@ -4140,13 +3580,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 7,
-		"verseNumber": 10,
-		"sectionNumber": 6,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "A day to build your walls— "
@@ -4163,13 +3596,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
-		"verseNumber": 11,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -4214,13 +3640,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 7,
-		"verseNumber": 12,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
 		"verseNumber": 13,
 		"sectionNumber": 1,
 		"value": "Yet the land will be desolate because of those who dwell therein, "
@@ -4237,13 +3656,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
-		"verseNumber": 13,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -4298,13 +3710,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 7,
-		"verseNumber": 14,
-		"sectionNumber": 6,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
 		"verseNumber": 15,
 		"sectionNumber": 1,
 		"value": "“As in the days of your coming out of the land of Egypt, "
@@ -4321,13 +3726,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
-		"verseNumber": 15,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -4358,13 +3756,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
-		"verseNumber": 16,
-		"sectionNumber": 4,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -4409,13 +3800,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 7,
-		"verseNumber": 17,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
 		"verseNumber": 18,
 		"sectionNumber": 1,
 		"value": "Who is a God like you, who pardons iniquity, "
@@ -4456,13 +3840,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 7,
-		"verseNumber": 18,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
 		"verseNumber": 19,
 		"sectionNumber": 1,
 		"value": "He will again have compassion on us. "
@@ -4489,13 +3866,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
-		"verseNumber": 19,
-		"sectionNumber": 4,
-		"value": " "
 	},
 	{
 		"type": "line text",

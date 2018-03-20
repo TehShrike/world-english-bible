@@ -226,13 +226,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 2,
-		"sectionNumber": 6,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "For you threw me into the depths, "
@@ -273,13 +266,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 3,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "I said, ‘I have been banished from your sight; "
@@ -296,13 +282,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 4,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -343,13 +322,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 5,
-		"sectionNumber": 5,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -417,26 +389,12 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 7,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "Those who regard lying vanities forsake their own mercy. "
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 8,
-		"sectionNumber": 2,
-		"value": " "
 	},
 	{
 		"type": "line text",

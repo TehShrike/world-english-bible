@@ -283,13 +283,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 11,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "If we endure, "
@@ -326,13 +319,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 12,
-		"sectionNumber": 5,
-		"value": " "
 	},
 	{
 		"type": "line text",

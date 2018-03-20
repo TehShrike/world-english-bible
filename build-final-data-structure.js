@@ -107,6 +107,7 @@ const emptyMap = () => Object.create(null)
 function fixChunks(chunks) {
 	return pipe(chunks,
 		removeWhitespaceAtStartOfParagraphsOrBooks,
+		removeWhitespaceAtStartOfLines,
 		moveChapterNumbersIntoVerseText,
 		mergeContinuedParagraphs,
 		addVerseNumberToVerses,
@@ -139,6 +140,22 @@ function removeWhitespaceAtStartOfParagraphsOrBooks(chunks) {
 		if (chunk.type === types.VERSE_NUMBER) {
 			pastFirstVerse = true
 		}
+
+		return !removeChunk
+	})
+}
+
+function removeWhitespaceAtStartOfLines(chunks) {
+	let lastChunk = null
+
+	return chunks.filter(chunk => {
+		const firstChunkAfterLineBreak = lastChunk && lastChunk.type === types.LINE_BREAK
+
+		const removeChunk = firstChunkAfterLineBreak
+			&& isTextChunk(chunk)
+			&& !chunk.value.trim()
+
+		lastChunk = chunk
 
 		return !removeChunk
 	})

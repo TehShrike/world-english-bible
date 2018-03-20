@@ -227,13 +227,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 1,
-		"verseNumber": 24,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 1,
 		"verseNumber": 25,
 		"sectionNumber": 1,
 		"value": "but the Lord’s word endures forever.” "
@@ -689,13 +682,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 3,
-		"verseNumber": 10,
-		"sectionNumber": 6,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 3,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "Let him turn away from evil and do good. "
@@ -712,13 +698,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 3,
-		"verseNumber": 11,
-		"sectionNumber": 3,
-		"value": " "
 	},
 	{
 		"type": "line text",

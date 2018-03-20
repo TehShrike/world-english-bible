@@ -953,13 +953,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 5,
-		"verseNumber": 9,
-		"sectionNumber": 7,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "and made us kings and priests to our God, "
@@ -1258,13 +1251,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 7,
-		"verseNumber": 5,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "of the tribe of Asher twelve thousand, "
@@ -1295,13 +1281,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 7,
-		"verseNumber": 6,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "of the tribe of Simeon twelve thousand, "
@@ -1328,13 +1307,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
-		"verseNumber": 7,
-		"sectionNumber": 4,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -2551,13 +2523,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 15,
-		"verseNumber": 3,
-		"sectionNumber": 4,
-		"value": " "
 	},
 	{
 		"type": "line text",

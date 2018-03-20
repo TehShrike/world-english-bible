@@ -420,13 +420,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 20,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 21,
 		"sectionNumber": 1,
 		"value": "He changes the times and the seasons. "
@@ -467,13 +460,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 21,
-		"sectionNumber": 5,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 22,
 		"sectionNumber": 1,
 		"value": "He reveals the deep and secret things. "
@@ -500,13 +486,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
-		"verseNumber": 22,
-		"sectionNumber": 4,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -1550,13 +1529,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 4,
-		"verseNumber": 34,
-		"sectionNumber": 4,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 4,
 		"verseNumber": 35,
 		"sectionNumber": 1,
 		"value": "All the inhabitants of the earth are reputed as nothing; "
@@ -1891,26 +1863,12 @@
 	{
 		"type": "line text",
 		"chapterNumber": 5,
-		"verseNumber": 26,
-		"sectionNumber": 3,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
 		"verseNumber": 27,
 		"sectionNumber": 1,
 		"value": "TEKEL: you are weighed in the balances, and are found wanting. "
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
-		"verseNumber": 27,
-		"sectionNumber": 2,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -2296,13 +2254,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 6,
-		"verseNumber": 26,
-		"sectionNumber": 6,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 6,
 		"verseNumber": 27,
 		"sectionNumber": 1,
 		"value": "He delivers and rescues. "
@@ -2513,13 +2464,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
-		"verseNumber": 9,
-		"sectionNumber": 7,
-		"value": " "
 	},
 	{
 		"type": "line text",
