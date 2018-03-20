@@ -900,18 +900,24 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "To King Artaxerxes, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 11,
 		"sectionNumber": 3,
 		"value": "From your servants the men beyond the River. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -983,11 +989,14 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 17,
 		"sectionNumber": 2,
 		"value": "Peace. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1127,11 +1136,14 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "To Darius the king, all peace. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1520,18 +1532,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 7,
+		"verseNumber": 11,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "Artaxerxes, king of kings, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 12,
 		"sectionNumber": 2,
 		"value": "To Ezra the priest, the scribe of the law of the perfect God of heaven. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1726,109 +1751,245 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 8,
+		"verseNumber": 1,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "Of the sons of Phinehas, Gershom. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 2,
 		"sectionNumber": 2,
 		"value": "Of the sons of Ithamar, Daniel. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 2,
 		"sectionNumber": 3,
 		"value": "Of the sons of David, Hattush. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 8,
+		"verseNumber": 2,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "Of the sons of Shecaniah, of the sons of Parosh, Zechariah; and with him were listed by genealogy of the males one hundred fifty. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 8,
+		"verseNumber": 3,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "Of the sons of Pahathmoab, Eliehoenai the son of Zerahiah; and with him two hundred males. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 8,
+		"verseNumber": 4,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "Of the sons of Shecaniah, the son of Jahaziel; and with him three hundred males. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 8,
+		"verseNumber": 5,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "Of the sons of Adin, Ebed the son of Jonathan; and with him fifty males. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 8,
+		"verseNumber": 6,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "Of the sons of Elam, Jeshaiah the son of Athaliah; and with him seventy males. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 8,
+		"verseNumber": 7,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "Of the sons of Shephatiah, Zebadiah the son of Michael; and with him eighty males. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 8,
+		"verseNumber": 8,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "Of the sons of Joab, Obadiah the son of Jehiel; and with him two hundred eighteen males. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 8,
+		"verseNumber": 9,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "Of the sons of Shelomith, the son of Josiphiah; and with him one hundred sixty males. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 8,
+		"verseNumber": 10,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "Of the sons of Bebai, Zechariah the son of Bebai; and with him twenty-eight males. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 8,
+		"verseNumber": 11,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "Of the sons of Azgad, Johanan the son of Hakkatan; and with him one hundred ten males. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 8,
+		"verseNumber": 12,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 13,
 		"sectionNumber": 1,
 		"value": "Of the sons of Adonikam, who were the last; and these are their names: Eliphelet, Jeuel, and Shemaiah; and with them sixty males. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 8,
+		"verseNumber": 13,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 14,
 		"sectionNumber": 1,
 		"value": "Of the sons of Bigvai, Uthai and Zabbud; and with them seventy males. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2351,204 +2512,357 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 18,
 		"sectionNumber": 2,
 		"value": "of the sons of Jeshua, the son of Jozadak, and his brothers, Maaseiah, and Eliezer, and Jarib, and Gedaliah.  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 19,
 		"sectionNumber": 1,
 		"value": "They gave their hand that they would put away their wives; and being guilty, they offered a ram of the flock for their guilt. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 19,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 20,
 		"sectionNumber": 1,
 		"value": "Of the sons of Immer: Hanani and Zebadiah. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 20,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 21,
 		"sectionNumber": 1,
 		"value": "Of the sons of Harim: Maaseiah, and Elijah, and Shemaiah, and Jehiel, and Uzziah. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 21,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 22,
 		"sectionNumber": 1,
 		"value": "Of the sons of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah. "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 22,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 23,
 		"sectionNumber": 1,
 		"value": "Of the Levites: Jozabad, and Shimei, and Kelaiah (also called Kelita), Pethahiah, Judah, and Eliezer. "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 23,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 24,
 		"sectionNumber": 1,
 		"value": "Of the singers: Eliashib. Of the gatekeepers: Shallum, and Telem, and Uri. "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 24,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 25,
 		"sectionNumber": 1,
 		"value": "Of Israel: Of the sons of Parosh: Ramiah, and Izziah, and Malchijah, and Mijamin, and Eleazar, and Malchijah, and Benaiah. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 25,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 26,
 		"sectionNumber": 1,
 		"value": "Of the sons of Elam: Mattaniah, Zechariah, and Jehiel, and Abdi, and Jeremoth, and Elijah. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 26,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 27,
 		"sectionNumber": 1,
 		"value": "Of the sons of Zattu: Elioenai, Eliashib, Mattaniah, and Jeremoth, and Zabad, and Aziza. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 27,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 28,
 		"sectionNumber": 1,
 		"value": "Of the sons of Bebai: Jehohanan, Hananiah, Zabbai, Athlai. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 28,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 29,
 		"sectionNumber": 1,
 		"value": "Of the sons of Bani: Meshullam, Malluch, and Adaiah, Jashub, and Sheal, Jeremoth. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 29,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 30,
 		"sectionNumber": 1,
 		"value": "Of the sons of Pahathmoab: Adna, and Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, and Binnui, and Manasseh. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 30,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 31,
 		"sectionNumber": 1,
 		"value": "Of the sons of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 32,
 		"sectionNumber": 1,
 		"value": "Benjamin, Malluch, Shemariah. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 32,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 33,
 		"sectionNumber": 1,
 		"value": "Of the sons of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, Shimei. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 33,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 34,
 		"sectionNumber": 1,
 		"value": "Of the sons of Bani: Maadai, Amram, and Uel,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 35,
 		"sectionNumber": 1,
 		"value": "Benaiah, Bedeiah, Cheluhi,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 36,
 		"sectionNumber": 1,
 		"value": "Vaniah, Meremoth, Eliashib,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 37,
 		"sectionNumber": 1,
 		"value": "Mattaniah, Mattenai, and Jaasu,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 38,
 		"sectionNumber": 1,
 		"value": "and Bani, and Binnui, Shimei,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 39,
 		"sectionNumber": 1,
 		"value": "and Shelemiah, and Nathan, and Adaiah,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 40,
 		"sectionNumber": 1,
 		"value": "Machnadebai, Shashai, Sharai,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 41,
 		"sectionNumber": 1,
 		"value": "Azarel, and Shelemiah, Shemariah,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 42,
 		"sectionNumber": 1,
 		"value": "Shallum, Amariah, Joseph. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 42,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 43,
 		"sectionNumber": 1,
 		"value": "Of the sons of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Iddo, and Joel, Benaiah. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"

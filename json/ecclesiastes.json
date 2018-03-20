@@ -386,200 +386,333 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 1,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "a time to be born, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 2,
 		"sectionNumber": 2,
 		"value": "and a time to die; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 2,
 		"sectionNumber": 3,
 		"value": "a time to plant, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 2,
 		"sectionNumber": 4,
 		"value": "and a time to pluck up that which is planted; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 2,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "a time to kill, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 3,
 		"sectionNumber": 2,
 		"value": "and a time to heal; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 3,
 		"sectionNumber": 3,
 		"value": "a time to break down, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 3,
 		"sectionNumber": 4,
 		"value": "and a time to build up; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 3,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "a time to weep, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 4,
 		"sectionNumber": 2,
 		"value": "and a time to laugh; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 4,
 		"sectionNumber": 3,
 		"value": "a time to mourn, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 4,
 		"sectionNumber": 4,
 		"value": "and a time to dance; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 4,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "a time to cast away stones, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 5,
 		"sectionNumber": 2,
 		"value": "and a time to gather stones together; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 5,
 		"sectionNumber": 3,
 		"value": "a time to embrace, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 5,
 		"sectionNumber": 4,
 		"value": "and a time to refrain from embracing; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 5,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "a time to seek, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 6,
 		"sectionNumber": 2,
 		"value": "and a time to lose; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 6,
 		"sectionNumber": 3,
 		"value": "a time to keep, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 6,
 		"sectionNumber": 4,
 		"value": "and a time to cast away; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 6,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "a time to tear, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "and a time to sew; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 7,
 		"sectionNumber": 3,
 		"value": "a time to keep silence, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 7,
 		"sectionNumber": 4,
 		"value": "and a time to speak; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 7,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "a time to love, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "and a time to hate; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 8,
 		"sectionNumber": 3,
 		"value": "a time for war, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 8,
 		"sectionNumber": 4,
 		"value": "and a time for peace. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1670,46 +1803,72 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 18,
+		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Dead flies cause the oil of the perfumer to produce an evil odor; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 1,
 		"sectionNumber": 2,
 		"value": "so does a little folly outweigh wisdom and honor. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 1,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "A wise man’s heart is at his right hand, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 2,
 		"sectionNumber": 2,
 		"value": "but a fool’s heart at his left.  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "Yes also when the fool walks by the way, his understanding fails him, and he says to everyone that he is a fool.  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "If the spirit of the ruler rises up against you, don’t leave your place; for gentleness lays great offenses to rest. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1820,102 +1979,179 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 15,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "Woe to you, land, when your king is a child, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 16,
 		"sectionNumber": 2,
 		"value": "and your princes eat in the morning! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "Happy are you, land, when your king is the son of nobles, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 17,
 		"sectionNumber": 2,
 		"value": "and your princes eat in due season, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 17,
 		"sectionNumber": 3,
 		"value": "for strength, and not for drunkenness! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 17,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 18,
 		"sectionNumber": 1,
 		"value": "By slothfulness the roof sinks in; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 18,
 		"sectionNumber": 2,
 		"value": "and through idleness of the hands the house leaks. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 19,
 		"sectionNumber": 1,
 		"value": "A feast is made for laughter, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 19,
 		"sectionNumber": 2,
 		"value": "and wine makes the life glad; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 19,
 		"sectionNumber": 3,
 		"value": "and money is the answer for all things. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 19,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 20,
 		"sectionNumber": 1,
 		"value": "Don’t curse the king, no, not in your thoughts; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 20,
 		"sectionNumber": 2,
 		"value": "and don’t curse the rich in your bedroom: "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 20,
 		"sectionNumber": 3,
 		"value": "for a bird of the sky may carry your voice, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 20,
 		"sectionNumber": 4,
 		"value": "and that which has wings may tell the matter. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1937,200 +2173,347 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 1,
 		"sectionNumber": 2,
 		"value": "for you shall find it after many days. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 1,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "Give a portion to seven, yes, even to eight; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 2,
 		"sectionNumber": 2,
 		"value": "for you don’t know what evil will be on the earth. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 2,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "If the clouds are full of rain, they empty themselves on the earth; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 3,
 		"sectionNumber": 2,
 		"value": "and if a tree falls toward the south, or toward the north, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 3,
 		"sectionNumber": 3,
 		"value": "in the place where the tree falls, there shall it be. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 3,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "He who observes the wind won’t sow; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 4,
 		"sectionNumber": 2,
 		"value": "and he who regards the clouds won’t reap. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "As you don’t know what is the way of the wind, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 5,
 		"sectionNumber": 2,
 		"value": "nor how the bones grow in the womb of her who is with child; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 5,
 		"sectionNumber": 3,
 		"value": "even so you don’t know the work of God who does all. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 5,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "In the morning sow your seed, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 6,
 		"sectionNumber": 2,
 		"value": "and in the evening don’t withhold your hand; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 6,
 		"sectionNumber": 3,
 		"value": "for you don’t know which will prosper, whether this or that, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 6,
 		"sectionNumber": 4,
 		"value": "or whether they both will be equally good. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 6,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "Truly the light is sweet, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "and it is a pleasant thing for the eyes to see the sun. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "Yes, if a man lives many years, let him rejoice in them all; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "but let him remember the days of darkness, for they shall be many. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 8,
 		"sectionNumber": 3,
 		"value": "All that comes is vanity. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 8,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "Rejoice, young man, in your youth, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "and let your heart cheer you in the days of your youth, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "and walk in the ways of your heart, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 9,
 		"sectionNumber": 4,
 		"value": "and in the sight of your eyes; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 9,
 		"sectionNumber": 5,
 		"value": "but know that for all these things God will bring you into judgment. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 9,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "Therefore remove sorrow from your heart, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "and put away evil from your flesh; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 10,
 		"sectionNumber": 3,
 		"value": "for youth and the dawn of life are vanity. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2152,193 +2535,323 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 1,
 		"sectionNumber": 2,
 		"value": "before the evil days come, and the years draw near, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 1,
 		"sectionNumber": 3,
 		"value": "when you will say, “I have no pleasure in them;” "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 1,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "Before the sun, the light, the moon, and the stars are darkened, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 2,
 		"sectionNumber": 2,
 		"value": "and the clouds return after the rain; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 2,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "in the day when the keepers of the house shall tremble, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 3,
 		"sectionNumber": 2,
 		"value": "and the strong men shall bow themselves, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 3,
 		"sectionNumber": 3,
 		"value": "and the grinders cease because they are few, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 3,
 		"sectionNumber": 4,
 		"value": "and those who look out of the windows are darkened, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 3,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "and the doors shall be shut in the street; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 4,
 		"sectionNumber": 2,
 		"value": "when the sound of the grinding is low, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 4,
 		"sectionNumber": 3,
 		"value": "and one shall rise up at the voice of a bird, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 4,
 		"sectionNumber": 4,
 		"value": "and all the daughters of music shall be brought low; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 4,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "yes, they shall be afraid of heights, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 5,
 		"sectionNumber": 2,
 		"value": "and terrors will be on the way; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 5,
 		"sectionNumber": 3,
 		"value": "and the almond tree shall blossom, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 5,
 		"sectionNumber": 4,
 		"value": "and the grasshopper shall be a burden, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 5,
 		"sectionNumber": 5,
 		"value": "and desire shall fail; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 5,
 		"sectionNumber": 6,
 		"value": "because man goes to his everlasting home, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 5,
 		"sectionNumber": 7,
 		"value": "and the mourners go about the streets: "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 5,
+		"sectionNumber": 8,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "before the silver cord is severed, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 6,
 		"sectionNumber": 2,
 		"value": "or the golden bowl is broken, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 6,
 		"sectionNumber": 3,
 		"value": "or the pitcher is broken at the spring, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 6,
 		"sectionNumber": 4,
 		"value": "or the wheel broken at the cistern, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 6,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "and the dust returns to the earth as it was, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "and the spirit returns to God who gave it. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "“Vanity of vanities,” says the Preacher. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "“All is vanity!” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"

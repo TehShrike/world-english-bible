@@ -1276,6 +1276,13 @@
 		"value": "Those who were counted of them, according to the number of all the males from a month old and upward, were six thousand two hundred."
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 34,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -2124,6 +2131,13 @@
 		"value": "If the woman isn’t defiled, but is clean; then she shall be free, and shall conceive offspring."
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 28,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -2367,39 +2381,75 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 6,
+		"verseNumber": 23,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 24,
 		"sectionNumber": 1,
 		"value": "‘Yahweh bless you, and keep you. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 6,
+		"verseNumber": 24,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 25,
 		"sectionNumber": 1,
 		"value": "Yahweh make his face to shine on you, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 25,
 		"sectionNumber": 2,
 		"value": "and be gracious to you. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 6,
+		"verseNumber": 25,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 26,
 		"sectionNumber": 1,
 		"value": "Yahweh lift up his face toward you, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 26,
 		"sectionNumber": 2,
 		"value": "and give you peace.’ "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2549,6 +2599,13 @@
 		"value": "one silver platter, the weight of which was one hundred thirty shekels,"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -2558,7 +2615,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 13,
-		"sectionNumber": 3,
+		"sectionNumber": 4,
 		"value": "one silver bowl of seventy shekels, according to the shekel of the sanctuary; both of them full of fine flour mixed with oil for a meal offering; "
 	},
 	{
@@ -4873,6 +4930,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
+		"verseNumber": 7,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "The people went around, gathered it, and ground it in mills, or beat it in mortars, and boiled it in pots, and made cakes of it. Its taste was like the taste of fresh oil.  "
@@ -5361,123 +5425,246 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 4,
 		"sectionNumber": 2,
 		"value": "Of the tribe of Reuben, Shammua the son of Zaccur. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "Of the tribe of Simeon, Shaphat the son of Hori. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 5,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "Of the tribe of Judah, Caleb the son of Jephunneh. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 6,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "Of the tribe of Issachar, Igal the son of Joseph. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 7,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "Of the tribe of Ephraim, Hoshea the son of Nun. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 8,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "Of the tribe of Benjamin, Palti the son of Raphu. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 9,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "Of the tribe of Zebulun, Gaddiel the son of Sodi. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 10,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "Of the tribe of Joseph, of the tribe of Manasseh, Gaddi the son of Susi. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 11,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "Of the tribe of Dan, Ammiel the son of Gemalli. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 12,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 13,
 		"sectionNumber": 1,
 		"value": "Of the tribe of Asher, Sethur the son of Michael. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 13,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 14,
 		"sectionNumber": 1,
 		"value": "Of the tribe of Naphtali, Nahbi the son of Vophsi. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 14,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 15,
 		"sectionNumber": 1,
 		"value": "Of the tribe of Gad, Geuel the son of Machi. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 15,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "These are the names of the men who Moses sent to spy out the land. Moses called Hoshea the son of Nun Joshua.  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "Moses sent them to spy out the land of Canaan, and said to them, “Go up this way by the South, and go up into the hill country.  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 18,
 		"sectionNumber": 1,
 		"value": "See the land, what it is; and the people who dwell therein, whether they are strong or weak, whether they are few or many;  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 19,
 		"sectionNumber": 1,
 		"value": "and what the land is that they dwell in, whether it is good or bad; and what cities they are that they dwell in, whether in camps, or in strongholds;  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 20,
 		"sectionNumber": 1,
 		"value": "and what the land is, whether it is fertile or poor, whether there is wood therein, or not. Be courageous, and bring some of the fruit of the land.” Now the time was the time of the first-ripe grapes. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -7161,6 +7348,13 @@
 		"value": " of the sanctuary, which weighs twenty gerahs."
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -7821,6 +8015,13 @@
 		"value": "Yahweh listened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities. The name of the place was called Hormah."
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 3,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -7961,32 +8162,51 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 17,
 		"sectionNumber": 2,
 		"value": "“Spring up, well! Sing to it, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 21,
+		"verseNumber": 17,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 18,
 		"sectionNumber": 1,
 		"value": "the well, which the princes dug, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 18,
 		"sectionNumber": 2,
 		"value": "which the nobles of the people dug, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 18,
 		"sectionNumber": 3,
 		"value": "with the scepter, and with their poles.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -8077,109 +8297,175 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 27,
 		"sectionNumber": 2,
 		"value": "“Come to Heshbon. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 27,
 		"sectionNumber": 3,
 		"value": "Let the city of Sihon be built and established; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 21,
+		"verseNumber": 27,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 28,
 		"sectionNumber": 1,
 		"value": "for a fire has gone out of Heshbon, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 28,
 		"sectionNumber": 2,
 		"value": "a flame from the city of Sihon. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 28,
 		"sectionNumber": 3,
 		"value": "It has devoured Ar of Moab, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 28,
 		"sectionNumber": 4,
 		"value": "The lords of the high places of the Arnon. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 21,
+		"verseNumber": 28,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 29,
 		"sectionNumber": 1,
 		"value": "Woe to you, Moab! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 29,
 		"sectionNumber": 2,
 		"value": "You are undone, people of Chemosh! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 29,
 		"sectionNumber": 3,
 		"value": "He has given his sons as fugitives, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 29,
 		"sectionNumber": 4,
 		"value": "and his daughters into captivity, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 29,
 		"sectionNumber": 5,
 		"value": "to Sihon king of the Amorites. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 21,
+		"verseNumber": 29,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 30,
 		"sectionNumber": 1,
 		"value": "We have shot at them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 30,
 		"sectionNumber": 2,
 		"value": "Heshbon has perished even to Dibon. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 30,
 		"sectionNumber": 3,
 		"value": "We have laid waste even to Nophah, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 30,
 		"sectionNumber": 4,
 		"value": "Which reaches to Medeba.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -8779,102 +9065,165 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "“From Aram has Balak brought me, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 7,
 		"sectionNumber": 3,
 		"value": "the king of Moab from the mountains of the East. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 7,
 		"sectionNumber": 4,
 		"value": "Come, curse Jacob for me. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 7,
 		"sectionNumber": 5,
 		"value": "Come, defy Israel. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 23,
+		"verseNumber": 7,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "How shall I curse whom God has not cursed? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "How shall I defy whom Yahweh has not defied? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 23,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "For from the top of the rocks I see him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "From the hills I see him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "Behold, it is a people that dwells alone, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 9,
 		"sectionNumber": 4,
 		"value": "and shall not be listed among the nations. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 23,
+		"verseNumber": 9,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "Who can count the dust of Jacob, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "or count the fourth part of Israel? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 10,
 		"sectionNumber": 3,
 		"value": "Let me die the death of the righteous! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 10,
 		"sectionNumber": 4,
 		"value": "Let my last end be like his!” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -8981,158 +9330,266 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 18,
 		"sectionNumber": 2,
 		"value": "“Rise up, Balak, and hear! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 18,
 		"sectionNumber": 3,
 		"value": "Listen to me, you son of Zippor. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 23,
+		"verseNumber": 18,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 19,
 		"sectionNumber": 1,
 		"value": "God is not a man, that he should lie, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 19,
 		"sectionNumber": 2,
 		"value": "nor a son of man, that he should repent. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 19,
 		"sectionNumber": 3,
 		"value": "Has he said, and will he not do it? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 19,
 		"sectionNumber": 4,
 		"value": "Or has he spoken, and will he not make it good? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 23,
+		"verseNumber": 19,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 20,
 		"sectionNumber": 1,
 		"value": "Behold, I have received a command to bless. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 20,
 		"sectionNumber": 2,
 		"value": "He has blessed, and I can’t reverse it. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 23,
+		"verseNumber": 20,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 21,
 		"sectionNumber": 1,
 		"value": "He has not seen iniquity in Jacob. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 21,
 		"sectionNumber": 2,
 		"value": "Neither has he seen perverseness in Israel. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 21,
 		"sectionNumber": 3,
 		"value": "Yahweh his God is with him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 21,
 		"sectionNumber": 4,
 		"value": "The shout of a king is among them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 23,
+		"verseNumber": 21,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 22,
 		"sectionNumber": 1,
 		"value": "God brings them out of Egypt. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 22,
 		"sectionNumber": 2,
 		"value": "He has as it were the strength of the wild ox. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 23,
+		"verseNumber": 22,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 23,
 		"sectionNumber": 1,
 		"value": "Surely there is no enchantment with Jacob; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 23,
 		"sectionNumber": 2,
 		"value": "Neither is there any divination with Israel. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 23,
 		"sectionNumber": 3,
 		"value": "Now it shall be said of Jacob and of Israel, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 23,
 		"sectionNumber": 4,
 		"value": "‘What has God done!’ "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 23,
+		"verseNumber": 23,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 24,
 		"sectionNumber": 1,
 		"value": "Behold, a people rises up as a lioness. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 24,
 		"sectionNumber": 2,
 		"value": "As a lion he lifts himself up. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 24,
 		"sectionNumber": 3,
 		"value": "He shall not lie down until he eats of the prey, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 23,
 		"verseNumber": 24,
 		"sectionNumber": 4,
 		"value": "and drinks the blood of the slain.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -9240,179 +9697,296 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 3,
 		"sectionNumber": 2,
 		"value": "“Balaam the son of Beor says, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 3,
 		"sectionNumber": 3,
 		"value": "the man whose eyes are open says; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 24,
+		"verseNumber": 3,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "he says, who hears the words of God, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 4,
 		"sectionNumber": 2,
 		"value": "who sees the vision of the Almighty, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 4,
 		"sectionNumber": 3,
 		"value": "falling down, and having his eyes open: "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 24,
+		"verseNumber": 4,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "How goodly are your tents, Jacob, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 5,
 		"sectionNumber": 2,
 		"value": "and your dwellings, Israel! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 24,
+		"verseNumber": 5,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "As valleys they are spread out, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 6,
 		"sectionNumber": 2,
 		"value": "as gardens by the riverside, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 6,
 		"sectionNumber": 3,
 		"value": "as aloes which Yahweh has planted, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 6,
 		"sectionNumber": 4,
 		"value": "as cedar trees beside the waters. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 24,
+		"verseNumber": 6,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "Water shall flow from his buckets. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "His seed shall be in many waters. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 7,
 		"sectionNumber": 3,
 		"value": "His king shall be higher than Agag. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 7,
 		"sectionNumber": 4,
 		"value": "His kingdom shall be exalted. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 24,
+		"verseNumber": 7,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "God brings him out of Egypt. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "He has as it were the strength of the wild ox. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 8,
 		"sectionNumber": 3,
 		"value": "He shall consume the nations his adversaries, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 8,
 		"sectionNumber": 4,
 		"value": "shall break their bones in pieces, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 8,
 		"sectionNumber": 5,
 		"value": "and pierce them with his arrows. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 24,
+		"verseNumber": 8,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "He couched, he lay down as a lion, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "as a lioness; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "who shall rouse him up? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 9,
 		"sectionNumber": 4,
 		"value": "Everyone who blesses you is blessed. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 9,
 		"sectionNumber": 5,
 		"value": "Everyone who curses you is cursed.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -9481,123 +10055,202 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 15,
 		"sectionNumber": 2,
 		"value": "“Balaam the son of Beor says, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 15,
 		"sectionNumber": 3,
 		"value": "the man whose eyes are open says; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 24,
+		"verseNumber": 15,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "he says, who hears the words of God, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 16,
 		"sectionNumber": 2,
 		"value": "knows the knowledge of the Most High, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 16,
 		"sectionNumber": 3,
 		"value": "and who sees the vision of the Almighty, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 16,
 		"sectionNumber": 4,
 		"value": "Falling down, and having his eyes open: "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 24,
+		"verseNumber": 16,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "I see him, but not now. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 17,
 		"sectionNumber": 2,
 		"value": "I see him, but not near. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 17,
 		"sectionNumber": 3,
 		"value": "A star will come out of Jacob. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 17,
 		"sectionNumber": 4,
 		"value": "A scepter will rise out of Israel, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 17,
 		"sectionNumber": 5,
 		"value": "and shall strike through the corners of Moab, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 17,
 		"sectionNumber": 6,
 		"value": "and crush all the sons of Sheth. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 24,
+		"verseNumber": 17,
+		"sectionNumber": 7,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 18,
 		"sectionNumber": 1,
 		"value": "Edom shall be a possession. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 18,
 		"sectionNumber": 2,
 		"value": "Seir, his enemies, also shall be a possession, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 18,
 		"sectionNumber": 3,
 		"value": "while Israel does valiantly. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 24,
+		"verseNumber": 18,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 19,
 		"sectionNumber": 1,
 		"value": "Out of Jacob shall one have dominion, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 19,
 		"sectionNumber": 2,
 		"value": "and shall destroy the remnant from the city.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -9619,18 +10272,24 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 20,
 		"sectionNumber": 2,
 		"value": "“Amalek was the first of the nations, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 20,
 		"sectionNumber": 3,
 		"value": "But his latter end shall come to destruction.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -9652,32 +10311,51 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 21,
 		"sectionNumber": 2,
 		"value": "“Your dwelling place is strong. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 21,
 		"sectionNumber": 3,
 		"value": "Your nest is set in the rock. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 24,
+		"verseNumber": 21,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 22,
 		"sectionNumber": 1,
 		"value": "Nevertheless Kain shall be wasted, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 22,
 		"sectionNumber": 2,
 		"value": "until Asshur carries you away captive.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -9699,32 +10377,51 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 23,
 		"sectionNumber": 2,
 		"value": "“Alas, who shall live when God does this? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 24,
+		"verseNumber": 23,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 24,
 		"sectionNumber": 1,
 		"value": "But ships shall come from the coast of Kittim. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 24,
 		"sectionNumber": 2,
 		"value": "They shall afflict Asshur, and shall afflict Eber. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 24,
 		"verseNumber": 24,
 		"sectionNumber": 3,
 		"value": "He also shall come to destruction.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -11783,6 +12480,13 @@
 		"verseNumber": 52,
 		"sectionNumber": 1,
 		"value": "All the gold of the wave offering that they offered up to Yahweh, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred fifty shekels."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 31,
+		"verseNumber": 52,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",

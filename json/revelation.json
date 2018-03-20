@@ -101,28 +101,49 @@
 		"chapterNumber": 1,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "“I am the Alpha and the Omega,"
+		"value": " "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 8,
 		"sectionNumber": 2,
-		"value": "”"
+		"value": "“I am the Alpha and the Omega,"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 8,
 		"sectionNumber": 3,
-		"value": " says the Lord God,"
+		"value": "”"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 8,
 		"sectionNumber": 4,
+		"value": " says the Lord God,"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 8,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 8,
+		"sectionNumber": 6,
 		"value": "“who is and who was and who is to come, the Almighty.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 8,
+		"sectionNumber": 7,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -163,7 +184,21 @@
 		"chapterNumber": 1,
 		"verseNumber": 11,
 		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 11,
+		"sectionNumber": 4,
 		"value": " to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and to Laodicea.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 11,
+		"sectionNumber": 5,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -243,30 +278,86 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
+		"verseNumber": 17,
+		"sectionNumber": 4,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
 		"verseNumber": 18,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 18,
+		"sectionNumber": 2,
 		"value": "and the Living one. I was dead, and behold, I am alive forever and ever. Amen. I have the keys of Death and of Hades."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 19,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 19,
+		"sectionNumber": 2,
 		"value": "Write therefore the things which you have seen, and the things which are, and the things which will happen hereafter. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 19,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 20,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 20,
+		"sectionNumber": 2,
 		"value": "The mystery of the seven stars which you saw in my right hand, and the seven golden lamp stands is this: The seven stars are the angels"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 20,
-		"sectionNumber": 2,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 20,
+		"sectionNumber": 4,
 		"value": "of the seven assemblies. The seven lamp stands are seven assemblies."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 20,
+		"sectionNumber": 5,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -279,7 +370,21 @@
 		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 1,
+		"sectionNumber": 2,
 		"value": "“To the angel of the assembly in Ephesus write:"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 1,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -291,8 +396,15 @@
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 1,
-		"sectionNumber": 2,
+		"sectionNumber": 4,
 		"value": "“He who holds the seven stars in his right hand, he who walks among the seven golden lamp stands says these things:"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 1,
+		"sectionNumber": 5,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -305,49 +417,140 @@
 		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 2,
+		"sectionNumber": 2,
 		"value": "“I know your works, and your toil and perseverance, and that you can’t tolerate evil men, and have tested those who call themselves apostles, and they are not, and found them false. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 2,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 3,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 3,
+		"sectionNumber": 2,
 		"value": "You have perseverance and have endured for my name’s sake, and have "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 3,
-		"sectionNumber": 2,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 3,
+		"sectionNumber": 4,
 		"value": "not grown weary. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 3,
+		"sectionNumber": 5,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 4,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 4,
+		"sectionNumber": 2,
 		"value": "But I have this against you, that you left your first love. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 5,
+		"sectionNumber": 2,
 		"value": "Remember therefore from where you have fallen, and repent and do the first works; or else I am coming to you swiftly, and will move your lamp stand out of its place, unless you repent. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 5,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 6,
+		"sectionNumber": 2,
 		"value": "But this you have, that you hate the works of the Nicolaitans, which I also hate. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 6,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 7,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 7,
+		"sectionNumber": 2,
 		"value": "He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes I will give to eat from the tree of life, which is in the Paradise of my God."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -360,7 +563,21 @@
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 8,
+		"sectionNumber": 2,
 		"value": "“To the angel of the assembly in Smyrna write:"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -372,8 +589,15 @@
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 8,
-		"sectionNumber": 2,
+		"sectionNumber": 4,
 		"value": "“The first and the last, who was dead, and has come to life says these things:"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 8,
+		"sectionNumber": 5,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -386,21 +610,63 @@
 		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 9,
+		"sectionNumber": 2,
 		"value": "“I know your works, oppression, and your poverty (but you are rich), and the blasphemy of those who say they are Jews, and they are not, but are a synagogue of Satan. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 9,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 10,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 10,
+		"sectionNumber": 2,
 		"value": "Don’t be afraid of the things which you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested; and you will have oppression for ten days. Be faithful to death, and I will give you the crown of life. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 11,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 11,
+		"sectionNumber": 2,
 		"value": "He who has an ear, let him hear what the Spirit says to the assemblies. He who overcomes won’t be harmed by the second death."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -413,7 +679,21 @@
 		"chapterNumber": 2,
 		"verseNumber": 12,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 12,
+		"sectionNumber": 2,
 		"value": "“To the angel of the assembly in Pergamum write:"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -425,8 +705,15 @@
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 12,
-		"sectionNumber": 2,
+		"sectionNumber": 4,
 		"value": "“He who has the sharp two-edged sword says these things:"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 12,
+		"sectionNumber": 5,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -439,42 +726,119 @@
 		"chapterNumber": 2,
 		"verseNumber": 13,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 13,
+		"sectionNumber": 2,
 		"value": "“I know your works and where you dwell, where Satan’s throne is. You hold firmly to my name, and didn’t deny my faith in the days of Antipas my witness, my faithful one, who was killed among you, where Satan dwells. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 14,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 14,
+		"sectionNumber": 2,
 		"value": "But I have a few things against you, because you have there some who hold the teaching of Balaam, who taught Balak to throw a stumbling block before the children of Israel, to eat things sacrificed to idols, and to commit sexual immorality. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 15,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 15,
+		"sectionNumber": 2,
 		"value": "So you also have some who hold to the teaching of the Nicolaitans likewise."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 16,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 16,
+		"sectionNumber": 2,
 		"value": "Repent therefore, or else I am coming to you quickly, and I will make war against them with the sword of my mouth. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 17,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 17,
+		"sectionNumber": 2,
 		"value": "He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes, to him I will give of the hidden manna, "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 17,
-		"sectionNumber": 2,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 17,
+		"sectionNumber": 4,
 		"value": "and I will give him a white stone, and on the stone a new name written, which no one knows but he who receives it."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 17,
+		"sectionNumber": 5,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -487,7 +851,21 @@
 		"chapterNumber": 2,
 		"verseNumber": 18,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 18,
+		"sectionNumber": 2,
 		"value": "“To the angel of the assembly in Thyatira write:"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -499,8 +877,15 @@
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 18,
-		"sectionNumber": 2,
+		"sectionNumber": 4,
 		"value": "“The Son of God, who has his eyes like a flame of fire, and his feet are like burnished brass, says these things:"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 18,
+		"sectionNumber": 5,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -513,91 +898,259 @@
 		"chapterNumber": 2,
 		"verseNumber": 19,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 19,
+		"sectionNumber": 2,
 		"value": "“I know your works, your love, faith, service, patient endurance, and that your last works are more than the first. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 19,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 20,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 20,
+		"sectionNumber": 2,
 		"value": "But I have this against you, that you tolerate your"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 20,
-		"sectionNumber": 2,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 20,
+		"sectionNumber": 4,
 		"value": "woman, Jezebel, who calls herself a prophetess. She teaches and seduces my servants to commit sexual immorality, and to eat things sacrificed to idols. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 20,
+		"sectionNumber": 5,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 21,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 21,
+		"sectionNumber": 2,
 		"value": "I gave her time to repent, but she refuses to repent of her sexual immorality. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 21,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 22,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 22,
+		"sectionNumber": 2,
 		"value": "Behold, I will throw her into a bed, and those who commit adultery with her into great oppression, unless they repent of her works. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 22,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 23,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 23,
+		"sectionNumber": 2,
 		"value": "I will kill her children with Death, and all the assemblies will know that I am he who searches the minds and hearts. I will give to each one of you according to your deeds. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 23,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 24,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 24,
+		"sectionNumber": 2,
 		"value": "But to you I say, to the rest who are in Thyatira, as many as don’t have this teaching, who don’t know what some call ‘the deep things of Satan,’ to you I say, I am not putting any other burden on you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 24,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 25,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 25,
+		"sectionNumber": 2,
 		"value": "Nevertheless, hold that which you have firmly until I come. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 25,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 26,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 26,
+		"sectionNumber": 2,
 		"value": "He who overcomes, and he who keeps my works to the end, to him I will give authority over the nations. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 27,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 27,
+		"sectionNumber": 2,
 		"value": "He will rule them with a rod of iron, shattering them like clay pots;"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 27,
-		"sectionNumber": 2,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 27,
+		"sectionNumber": 4,
 		"value": "as I also have received of my Father: "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 27,
+		"sectionNumber": 5,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 28,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 28,
+		"sectionNumber": 2,
 		"value": "and I will give him the morning star. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 28,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 29,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 29,
+		"sectionNumber": 2,
 		"value": "He who has an ear, let him hear what the Spirit says to the assemblies."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 29,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -610,68 +1163,166 @@
 		"chapterNumber": 3,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "“And to the angel of the assembly in Sardis write:"
-	},
-	{
-		"type": "paragraph end"
-	},
-	{
-		"type": "paragraph start"
+		"value": " "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 1,
 		"sectionNumber": 2,
-		"value": "“He who has the seven Spirits of God, and the seven stars says these things:"
-	},
-	{
-		"type": "paragraph end"
-	},
-	{
-		"type": "paragraph start"
+		"value": "“And to the angel of the assembly in Sardis write:"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 1,
 		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 1,
+		"sectionNumber": 4,
+		"value": "“He who has the seven Spirits of God, and the seven stars says these things:"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 1,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 1,
+		"sectionNumber": 6,
 		"value": "“I know your works, that you have a reputation of being alive, but you are dead. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 1,
+		"sectionNumber": 7,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 2,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 2,
+		"sectionNumber": 2,
 		"value": "Wake up, and keep the things that remain, which you were about to throw away, for I have found no works of yours perfected before my God. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 2,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 3,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 3,
+		"sectionNumber": 2,
 		"value": "Remember therefore how you have received and heard. Keep it and repent. If therefore you won’t watch, I will come as a thief, and you won’t know what hour I will come upon you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 3,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 4,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 4,
+		"sectionNumber": 2,
 		"value": "Nevertheless you have a few names in Sardis that didn’t defile their garments. They will walk with me in white, for they are worthy. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 5,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 5,
+		"sectionNumber": 2,
 		"value": "He who overcomes will be arrayed in white garments, and I will in no way blot his name out of the book of life, and I will confess his name before my Father, and before his angels. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 5,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 6,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 6,
+		"sectionNumber": 2,
 		"value": "He who has an ear, let him hear what the Spirit says to the assemblies."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 6,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -684,7 +1335,21 @@
 		"chapterNumber": 3,
 		"verseNumber": 7,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 7,
+		"sectionNumber": 2,
 		"value": "“To the angel of the assembly in Philadelphia write:"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -696,8 +1361,15 @@
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 7,
-		"sectionNumber": 2,
+		"sectionNumber": 4,
 		"value": "“He who is holy, he who is true, he who has the key of David, he who opens and no one can shut, and who shuts and no one opens, says these things: "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 7,
+		"sectionNumber": 5,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -710,42 +1382,126 @@
 		"chapterNumber": 3,
 		"verseNumber": 8,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 8,
+		"sectionNumber": 2,
 		"value": "“I know your works (behold, I have set before you an open door, which no one can shut), that you have a little power, and kept my word, and didn’t deny my name. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 9,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 9,
+		"sectionNumber": 2,
 		"value": "Behold, I give some of the synagogue of Satan, of those who say they are Jews, and they are not, but lie—behold, I will make them to come and worship before your feet, and to know that I have loved you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 9,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 10,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 10,
+		"sectionNumber": 2,
 		"value": "Because you kept my command to endure, I also will keep you from the hour of testing which is to come on the whole world, to test those who dwell on the earth. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 11,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 11,
+		"sectionNumber": 2,
 		"value": "I am coming quickly! Hold firmly that which you have, so that no one takes your crown. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 12,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 12,
+		"sectionNumber": 2,
 		"value": "He who overcomes, I will make him a pillar in the temple of my God, and he will go out from there no more. I will write on him the name of my God and the name of the city of my God, the new Jerusalem, which comes down out of heaven from my God, and my own new name. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 13,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 13,
+		"sectionNumber": 2,
 		"value": "He who has an ear, let him hear what the Spirit says to the assemblies."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -758,7 +1514,21 @@
 		"chapterNumber": 3,
 		"verseNumber": 14,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 14,
+		"sectionNumber": 2,
 		"value": "“To the angel of the assembly in Laodicea write:"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -770,15 +1540,29 @@
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 14,
-		"sectionNumber": 2,
+		"sectionNumber": 4,
 		"value": "“The Amen, the Faithful and True Witness, the Beginning"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 14,
-		"sectionNumber": 3,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 14,
+		"sectionNumber": 6,
 		"value": "of God’s creation, says these things:"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 14,
+		"sectionNumber": 7,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -791,56 +1575,168 @@
 		"chapterNumber": 3,
 		"verseNumber": 15,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 15,
+		"sectionNumber": 2,
 		"value": "“I know your works, that you are neither cold nor hot. I wish you were cold or hot. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 16,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 16,
+		"sectionNumber": 2,
 		"value": "So, because you are lukewarm, and neither hot nor cold, I will vomit you out of my mouth. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 17,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 17,
+		"sectionNumber": 2,
 		"value": "Because you say, ‘I am rich, and have gotten riches, and have need of nothing;’ and don’t know that you are the wretched one, miserable, poor, blind, and naked; "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 17,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 18,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 18,
+		"sectionNumber": 2,
 		"value": "I counsel you to buy from me gold refined by fire, that you may become rich; and white garments, that you may clothe yourself, and that the shame of your nakedness may not be revealed; and eye salve to anoint your eyes, that you may see. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 19,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 19,
+		"sectionNumber": 2,
 		"value": "As many as I love, I reprove and chasten. Be zealous therefore, and repent. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 19,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 20,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 20,
+		"sectionNumber": 2,
 		"value": "Behold, I stand at the door and knock. If anyone hears my voice and opens the door, then I will come in to him, and will dine with him, and he with me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 20,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 21,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 21,
+		"sectionNumber": 2,
 		"value": "He who overcomes, I will give to him to sit down with me on my throne, as I also overcame, and sat down with my Father on his throne. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 21,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 22,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 22,
+		"sectionNumber": 2,
 		"value": "He who has an ear, let him hear what the Spirit says to the assemblies.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 22,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -1027,53 +1923,81 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "“You are worthy to take the book "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "and to open its seals: "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 9,
 		"sectionNumber": 4,
 		"value": "for you were killed, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 9,
 		"sectionNumber": 5,
 		"value": "and bought us for God with your blood "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 9,
 		"sectionNumber": 6,
 		"value": "out of every tribe, language, people, and nation, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 9,
+		"sectionNumber": 7,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "and made us kings and priests to our God, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "and we will reign on the earth.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1109,6 +2033,13 @@
 		"value": "I heard every created thing which is in heaven, on the earth, under the earth, on the sea, and everything in them, saying, “To him who sits on the throne, and to the Lamb be the blessing, the honor, the glory, and the dominion, forever and ever! Amen!”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 13,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -1127,6 +2058,13 @@
 		"verseNumber": 14,
 		"sectionNumber": 2,
 		"value": " elders fell down and worshiped."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -1345,88 +2283,152 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 7,
+		"verseNumber": 4,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "of the tribe of Judah twelve thousand were sealed, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 5,
 		"sectionNumber": 2,
 		"value": "of the tribe of Reuben twelve thousand, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 5,
 		"sectionNumber": 3,
 		"value": "of the tribe of Gad twelve thousand, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 7,
+		"verseNumber": 5,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "of the tribe of Asher twelve thousand, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 6,
 		"sectionNumber": 2,
 		"value": "of the tribe of Naphtali twelve thousand, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 6,
 		"sectionNumber": 3,
 		"value": "of the tribe of Manasseh twelve thousand, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 7,
+		"verseNumber": 6,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "of the tribe of Simeon twelve thousand, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "of the tribe of Levi twelve thousand, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 7,
 		"sectionNumber": 3,
 		"value": "of the tribe of Issachar twelve thousand, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 7,
+		"verseNumber": 7,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "of the tribe of Zebulun twelve thousand, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "of the tribe of Joseph twelve thousand, and "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 8,
 		"sectionNumber": 3,
 		"value": "of the tribe of Benjamin twelve thousand were sealed. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1772,6 +2774,13 @@
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": " but in Greek, he has the name “Apollyon”. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -2492,6 +3501,13 @@
 		"value": "In their mouth was found no lie, for they are blameless."
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 5,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -2653,6 +3669,13 @@
 		"value": "The wine press was trodden outside of the city, and blood came out of the wine press, even to the bridles of the horses, as far as one thousand six hundred stadia."
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 20,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -2693,53 +3716,81 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 3,
 		"sectionNumber": 2,
 		"value": "“Great and marvelous are your works, Lord God, the Almighty! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 3,
 		"sectionNumber": 3,
 		"value": "Righteous and true are your ways, you King of the nations. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 3,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "Who wouldn’t fear you, Lord, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 4,
 		"sectionNumber": 2,
 		"value": "and glorify your name? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 4,
 		"sectionNumber": 3,
 		"value": "For you only are holy. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 4,
 		"sectionNumber": 4,
 		"value": "For all the nations will come and worship before you. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 4,
 		"sectionNumber": 5,
 		"value": "For your righteous acts have been revealed.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2932,7 +3983,21 @@
 		"chapterNumber": 16,
 		"verseNumber": 15,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 15,
+		"sectionNumber": 2,
 		"value": "“Behold, I come like a thief. Blessed is he who watches, and keeps his clothes, so that he doesn’t walk naked, and they see his shame.” "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -3050,6 +4115,13 @@
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "The beast that you saw was, and is not; and is about to come up out of the abyss and to go into destruction. Those who dwell on the earth and whose names have not been written in the book of life from the foundation of the world will marvel when they see that the beast was, and is not, and shall be present."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 8,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -3484,6 +4556,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 19,
+		"verseNumber": 17,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 19,
 		"verseNumber": 18,
 		"sectionNumber": 1,
 		"value": "that you may eat the flesh of kings, the flesh of captains, the flesh of mighty men, and the flesh of horses and of those who sit on them, and the flesh of all men, both free and slave, small and great.”  "
@@ -3717,6 +4796,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
+		"verseNumber": 5,
+		"sectionNumber": 5,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "He said to me, "
@@ -3733,28 +4819,77 @@
 		"chapterNumber": 21,
 		"verseNumber": 6,
 		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 6,
+		"sectionNumber": 4,
 		"value": "I will give freely to him who is thirsty from the spring of the water of life. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 6,
+		"sectionNumber": 5,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 7,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 7,
+		"sectionNumber": 2,
 		"value": "He who overcomes, I will give him these things. I will be his God, and he will be my son. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "But for the cowardly, unbelieving, sinners, abominable, murderers, sexually immoral, sorcerers,"
+		"value": " "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 8,
 		"sectionNumber": 2,
+		"value": "But for the cowardly, unbelieving, sinners, abominable, murderers, sexually immoral, sorcerers,"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 8,
+		"sectionNumber": 4,
 		"value": "idolaters, and all liars, their part is in the lake that burns with fire and sulfur, which is the second death.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 8,
+		"sectionNumber": 5,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3988,7 +5123,21 @@
 		"chapterNumber": 22,
 		"verseNumber": 7,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 7,
+		"sectionNumber": 2,
 		"value": "“Behold, I come quickly. Blessed is he who keeps the words of the prophecy of this book.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -4035,42 +5184,119 @@
 		"chapterNumber": 22,
 		"verseNumber": 12,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 12,
+		"sectionNumber": 2,
 		"value": "“Behold, I come quickly. My reward is with me, to repay to each man according to his work. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 22,
 		"verseNumber": 13,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 13,
+		"sectionNumber": 2,
 		"value": "I am the Alpha and the Omega, the First and the Last, the Beginning and the End. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 22,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Blessed are those who do his commandments,"
+		"value": " "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 22,
 		"verseNumber": 14,
 		"sectionNumber": 2,
+		"value": "Blessed are those who do his commandments,"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 14,
+		"sectionNumber": 4,
 		"value": "that they may have the right to the tree of life, and may enter in by the gates into the city. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 14,
+		"sectionNumber": 5,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 22,
 		"verseNumber": 15,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 15,
+		"sectionNumber": 2,
 		"value": "Outside are the dogs, the sorcerers, the sexually immoral, the murderers, the idolaters, and everyone who loves and practices falsehood. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 22,
 		"verseNumber": 16,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 16,
+		"sectionNumber": 2,
 		"value": "I, Jesus, have sent my angel to testify these things to you for the assemblies. I am the root and the offspring of David, the Bright and Morning Star.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -4121,6 +5347,13 @@
 		"value": "“Yes, I come quickly.” "
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 20,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -4130,7 +5363,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 22,
 		"verseNumber": 20,
-		"sectionNumber": 3,
+		"sectionNumber": 4,
 		"value": "Amen! Yes, come, Lord Jesus. "
 	},
 	{

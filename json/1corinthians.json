@@ -161,18 +161,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 19,
 		"sectionNumber": 2,
 		"value": "“I will destroy the wisdom of the wise. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 19,
 		"sectionNumber": 3,
 		"value": "I will bring the discernment of the discerning to nothing.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 1,
+		"verseNumber": 19,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -271,6 +284,13 @@
 		"value": "that, as it is written, “He who boasts, let him boast in the Lord.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 31,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -352,25 +372,41 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "“Things which an eye didn’t see, and an ear didn’t hear, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "which didn’t enter into the heart of man, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 4,
 		"value": "these God has prepared for those who love him.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 9,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -594,9 +630,23 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
+		"verseNumber": 19,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
 		"verseNumber": 20,
 		"sectionNumber": 1,
 		"value": "And again, “The Lord knows the reasoning of the wise, that it is worthless.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 20,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -894,6 +944,13 @@
 		"value": "But those who are outside, God judges. “Put away the wicked man from among yourselves.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 13,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -1016,6 +1073,13 @@
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "Or don’t you know that he who is joined to a prostitute is one body? For, “The two”, he says, “will become one flesh.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 16,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -1725,6 +1789,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
+		"verseNumber": 7,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "Let’s not commit sexual immorality, as some of them committed, and in one day twenty-three thousand fell.  "
@@ -1885,6 +1956,13 @@
 		"verseNumber": 26,
 		"sectionNumber": 1,
 		"value": "for “the earth is the Lord’s, and its fullness.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 26,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -2164,6 +2242,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
+		"verseNumber": 24,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
 		"verseNumber": 25,
 		"sectionNumber": 1,
 		"value": "In the same way he also took the cup, after supper, saying, "
@@ -2174,6 +2259,13 @@
 		"verseNumber": 25,
 		"sectionNumber": 2,
 		"value": "“This cup is the new covenant in my blood. Do this, as often as you drink, in memory of me.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 25,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -2770,6 +2862,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
+		"verseNumber": 21,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
 		"verseNumber": 22,
 		"sectionNumber": 1,
 		"value": "Therefore other languages are for a sign, not to those who believe, but to the unbelieving; but prophesying is for a sign, not to the unbelieving, but to those who believe.  "
@@ -2863,6 +2962,13 @@
 		"verseNumber": 34,
 		"sectionNumber": 1,
 		"value": "Let the wives be quiet in the assemblies, for it has not been permitted for them to be talking except in submission, as the law also says,"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 34,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -3176,6 +3282,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
+		"verseNumber": 32,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
 		"verseNumber": 33,
 		"sectionNumber": 1,
 		"value": "Don’t be deceived! “Evil companionships corrupt good morals.”  "
@@ -3374,31 +3487,58 @@
 		"value": "But when this perishable body will have become imperishable, and this mortal will have put on immortality, then what is written will happen: “Death is swallowed up in victory.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 54,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 54,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 55,
 		"sectionNumber": 1,
 		"value": "“Death, where is your sting? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 55,
 		"sectionNumber": 2,
 		"value": "Hades,"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 55,
 		"sectionNumber": 3,
 		"value": " where is your victory?”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 55,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -3629,6 +3769,13 @@
 		"verseNumber": 22,
 		"sectionNumber": 2,
 		"value": " Come, Lord!"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 22,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",

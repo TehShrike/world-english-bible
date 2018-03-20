@@ -40,9 +40,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
 		"verseNumber": 5,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 5,
+		"sectionNumber": 2,
 		"value": "For John indeed baptized in water, but you will be baptized in the Holy Spirit not many days from now.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 5,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -80,9 +101,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
 		"verseNumber": 8,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 8,
+		"sectionNumber": 2,
 		"value": "But you will receive power when the Holy Spirit has come upon you. You will be witnesses to me in Jerusalem, in all Judea and Samaria, and to the uttermost parts of the earth.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -200,18 +242,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 20,
 		"sectionNumber": 2,
 		"value": "‘Let his habitation be made desolate. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 20,
 		"sectionNumber": 3,
 		"value": "Let no one dwell in it;’"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 1,
+		"verseNumber": 20,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -223,7 +278,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 20,
-		"sectionNumber": 4,
+		"sectionNumber": 5,
 		"value": "and, "
 	},
 	{
@@ -233,11 +288,21 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 20,
-		"sectionNumber": 5,
+		"sectionNumber": 6,
 		"value": "‘Let another take his office.’"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 1,
+		"verseNumber": 20,
+		"sectionNumber": 7,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -413,6 +478,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
+		"verseNumber": 15,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "But this is what has been spoken through the prophet Joel: "
@@ -424,102 +496,186 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 16,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "‘It will be in the last days, says God, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 17,
 		"sectionNumber": 2,
 		"value": "that I will pour out my Spirit on all flesh. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 17,
 		"sectionNumber": 3,
 		"value": "Your sons and your daughters will prophesy. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 17,
 		"sectionNumber": 4,
 		"value": "Your young men will see visions. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 17,
 		"sectionNumber": 5,
 		"value": "Your old men will dream dreams. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 17,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 18,
 		"sectionNumber": 1,
 		"value": "Yes, and on my servants and on my handmaidens in those days, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 18,
 		"sectionNumber": 2,
 		"value": "I will pour out my Spirit, and they will prophesy. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 19,
 		"sectionNumber": 1,
 		"value": "I will show wonders in the sky above, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 19,
 		"sectionNumber": 2,
 		"value": "and signs on the earth beneath: "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 19,
 		"sectionNumber": 3,
 		"value": "blood, and fire, and billows of smoke. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 19,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 20,
 		"sectionNumber": 1,
 		"value": "The sun will be turned into darkness, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 20,
 		"sectionNumber": 2,
 		"value": "and the moon into blood, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 20,
 		"sectionNumber": 3,
 		"value": "before the great and glorious day of the Lord comes. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 20,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 21,
 		"sectionNumber": 1,
 		"value": "It will be that whoever will call on the name of the Lord will be saved.’"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 21,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -562,60 +718,119 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 25,
 		"sectionNumber": 2,
 		"value": "‘I saw the Lord always before my face, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 25,
 		"sectionNumber": 3,
 		"value": "for he is on my right hand, that I should not be moved. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 25,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 26,
 		"sectionNumber": 1,
 		"value": "Therefore my heart was glad, and my tongue rejoiced. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 26,
 		"sectionNumber": 2,
 		"value": "Moreover my flesh also will dwell in hope; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 27,
 		"sectionNumber": 1,
 		"value": "because you will not leave my soul in Hades,"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 27,
 		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 27,
+		"sectionNumber": 3,
 		"value": "neither will you allow your Holy One to see decay. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 27,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 28,
 		"sectionNumber": 1,
 		"value": "You made known to me the ways of life. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 28,
 		"sectionNumber": 2,
 		"value": "You will make me full of gladness with your presence.’"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 28,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -679,18 +894,38 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 34,
 		"sectionNumber": 2,
 		"value": "‘The Lord said to my Lord, “Sit by my right hand "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 34,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 35,
 		"sectionNumber": 1,
 		"value": "until I make your enemies a footstool for your feet.” ’"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 35,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -812,6 +1047,13 @@
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Peter and John were going up into the temple at the hour of prayer, the ninth hour."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 1,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -995,6 +1237,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
+		"verseNumber": 23,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
 		"verseNumber": 24,
 		"sectionNumber": 1,
 		"value": "Yes, and all the prophets from Samuel and those who followed after, as many as have spoken, they also told of these days.  "
@@ -1005,6 +1254,13 @@
 		"verseNumber": 25,
 		"sectionNumber": 1,
 		"value": "You are the children of the prophets, and of the covenant which God made with our fathers, saying to Abraham, ‘All the families of the earth will be blessed through your offspring.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 25,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -1107,6 +1363,13 @@
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "He is ‘the stone which was regarded as worthless by you, the builders, which has become the head of the corner.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 11,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -1237,39 +1500,68 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 25,
 		"sectionNumber": 2,
 		"value": "‘Why do the nations rage, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 25,
 		"sectionNumber": 3,
 		"value": "and the peoples plot a vain thing? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 4,
+		"verseNumber": 25,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 26,
 		"sectionNumber": 1,
 		"value": "The kings of the earth take a stand, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 26,
 		"sectionNumber": 2,
 		"value": "and the rulers take council together, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 26,
 		"sectionNumber": 3,
 		"value": "against the Lord, and against his Christ.’"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 4,
+		"verseNumber": 26,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1912,6 +2204,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
+		"verseNumber": 3,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "Then he came out of the land of the Chaldaeans and lived in Haran. From there, when his father was dead, God moved him into this land, where you are now living.  "
@@ -1936,6 +2235,13 @@
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "‘I will judge the nation to which they will be in bondage,’ said God, ‘and after that they will come out, and serve me in this place.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 7,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -2112,6 +2418,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
+		"verseNumber": 28,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
 		"verseNumber": 29,
 		"sectionNumber": 1,
 		"value": "Moses fled at this saying, and became a stranger in the land of Midian, where he became the father of two sons. "
@@ -2165,6 +2478,13 @@
 		"value": "I have surely seen the affliction of my people that is in Egypt, and have heard their groaning. I have come down to deliver them. Now come, I will send you into Egypt.’"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 34,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -2194,6 +2514,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
+		"verseNumber": 37,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
 		"verseNumber": 38,
 		"sectionNumber": 1,
 		"value": "This is he who was in the assembly in the wilderness with the angel that spoke to him on Mount Sinai, and with our fathers, who received living revelations to give to us,  "
@@ -2211,6 +2538,13 @@
 		"verseNumber": 40,
 		"sectionNumber": 1,
 		"value": "saying to Aaron, ‘Make us gods that will go before us, for as for this Moses, who led us out of the land of Egypt, we don’t know what has become of him.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 40,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -2240,53 +2574,78 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 42,
 		"sectionNumber": 3,
 		"value": "‘Did you offer to me slain animals and sacrifices "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 42,
 		"sectionNumber": 4,
 		"value": "forty years in the wilderness, O house of Israel? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 7,
+		"verseNumber": 42,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 43,
 		"sectionNumber": 1,
 		"value": "You took up the tabernacle of Moloch, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 43,
 		"sectionNumber": 2,
 		"value": "the star of your god Rephan, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 43,
 		"sectionNumber": 3,
 		"value": "the figures which you made to worship. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 43,
 		"sectionNumber": 4,
 		"value": "I will carry you away"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 43,
 		"sectionNumber": 5,
 		"value": " beyond Babylon.’ "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2336,39 +2695,75 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 7,
+		"verseNumber": 48,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 49,
 		"sectionNumber": 1,
 		"value": "‘heaven is my throne, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 49,
 		"sectionNumber": 2,
 		"value": "and the earth a footstool for my feet. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 49,
 		"sectionNumber": 3,
 		"value": "What kind of house will you build me?’ says the Lord. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 49,
 		"sectionNumber": 4,
 		"value": "‘Or what is the place of my rest? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 7,
+		"verseNumber": 49,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 50,
 		"sectionNumber": 1,
 		"value": "Didn’t my hand make all these things?’"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 7,
+		"verseNumber": 50,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2743,46 +3138,78 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 32,
 		"sectionNumber": 2,
 		"value": "“He was led as a sheep to the slaughter. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 32,
 		"sectionNumber": 3,
 		"value": "As a lamb before his shearer is silent, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 32,
 		"sectionNumber": 4,
 		"value": "so he doesn’t open his mouth. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 8,
+		"verseNumber": 32,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 33,
 		"sectionNumber": 1,
 		"value": "In his humiliation, his judgment was taken away. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 33,
 		"sectionNumber": 2,
 		"value": "Who will declare His generation? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 33,
 		"sectionNumber": 3,
 		"value": "For his life is taken from the earth.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 8,
+		"verseNumber": 33,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2822,6 +3249,20 @@
 	},
 	{
 		"type": "paragraph start"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 37,
+		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 37,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -2892,6 +3333,13 @@
 		"value": "“Saul, Saul, why do you persecute me?”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -2927,16 +3375,44 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
+		"verseNumber": 5,
+		"sectionNumber": 4,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "But"
+		"value": " "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 6,
 		"sectionNumber": 2,
+		"value": "But"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 6,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 6,
+		"sectionNumber": 4,
 		"value": "rise up and enter into the city, then you will be told what you must do.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 6,
+		"sectionNumber": 5,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -2986,6 +3462,13 @@
 		"value": "“Ananias!”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -2995,7 +3478,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 10,
-		"sectionNumber": 3,
+		"sectionNumber": 4,
 		"value": "He said, “Behold, it’s me, Lord.” "
 	},
 	{
@@ -3023,14 +3506,42 @@
 		"chapterNumber": 9,
 		"verseNumber": 11,
 		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 11,
+		"sectionNumber": 4,
 		"value": "for one named Saul, a man of Tarsus. For behold, he is praying, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 11,
+		"sectionNumber": 5,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 12,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 12,
+		"sectionNumber": 2,
 		"value": "and in a vision he has seen a man named Ananias coming in and laying his hands on him, that he might receive his sight.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3075,9 +3586,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
 		"verseNumber": 16,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 16,
+		"sectionNumber": 2,
 		"value": "For I will show him how many things he must suffer for my name’s sake.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3409,6 +3941,13 @@
 		"value": "He is staying with a tanner named Simon, whose house is by the seaside. "
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 6,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -3471,6 +4010,13 @@
 		"value": "“Rise, Peter, kill and eat!”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -3502,6 +4048,13 @@
 		"verseNumber": 15,
 		"sectionNumber": 2,
 		"value": "“What God has cleansed, you must not call unclean.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -3876,6 +4429,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "But I said, ‘Not so, Lord, for nothing unholy or unclean has ever entered into my mouth.’  "
@@ -3893,6 +4453,13 @@
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "‘What God has cleansed, don’t you call unclean.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 9,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -3949,6 +4516,13 @@
 		"verseNumber": 16,
 		"sectionNumber": 2,
 		"value": "‘John indeed baptized in water, but you will be baptized in the Holy Spirit.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -4519,6 +5093,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
+		"verseNumber": 24,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
 		"verseNumber": 25,
 		"sectionNumber": 1,
 		"value": "As John was fulfilling his course, he said, ‘What do you suppose that I am? I am not he. But behold, one comes after me, the sandals of whose feet I am not worthy to untie.’  "
@@ -4586,18 +5167,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 33,
 		"sectionNumber": 2,
 		"value": "‘You are my Son. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 33,
 		"sectionNumber": 3,
 		"value": "Today I have become your father.’"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 33,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -4615,9 +5209,23 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
+		"verseNumber": 34,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
 		"verseNumber": 35,
 		"sectionNumber": 1,
 		"value": "Therefore he says also in another psalm, ‘You will not allow your Holy One to see decay.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 35,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -4668,25 +5276,48 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 40,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 41,
 		"sectionNumber": 1,
 		"value": "‘Behold, you scoffers, and wonder, and perish; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 41,
 		"sectionNumber": 2,
 		"value": "for I work a work in your days, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 41,
 		"sectionNumber": 3,
 		"value": "a work which you will in no way believe, if one declares it to you.’ ” "
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 41,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -4749,18 +5380,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 47,
 		"sectionNumber": 2,
 		"value": "‘I have set you as a light for the Gentiles, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 47,
 		"sectionNumber": 3,
 		"value": "that you should bring salvation to the uttermost parts of the earth.’ ” "
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 47,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -5193,53 +5837,85 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 15,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "‘After these things I will return. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 16,
 		"sectionNumber": 2,
 		"value": "I will again build the tabernacle of David, which has fallen. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 16,
 		"sectionNumber": 3,
 		"value": "I will again build its ruins. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 16,
 		"sectionNumber": 4,
 		"value": "I will set it up  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "that the rest of men may seek after the Lord; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 17,
 		"sectionNumber": 2,
 		"value": "all the Gentiles who are called by my name, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 17,
 		"sectionNumber": 3,
 		"value": "says the Lord, who does all these things.’"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 17,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -5287,6 +5963,13 @@
 		"verseNumber": 22,
 		"sectionNumber": 1,
 		"value": "Then it seemed good to the apostles and the elders, with the whole assembly, to choose men out of their company, and send them to Antioch with Paul and Barnabas: Judas called Barsabbas, and Silas, chief men among the brothers. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 22,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -5383,6 +6066,20 @@
 		"verseNumber": 33,
 		"sectionNumber": 1,
 		"value": "After they had spent some time there, they were sent back with greetings from the brothers to the apostles.  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 34,
+		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 34,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -6215,9 +6912,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 18,
+		"verseNumber": 9,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
 		"verseNumber": 10,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 10,
+		"sectionNumber": 2,
 		"value": "for I am with you, and no one will attack you to harm you, for I have many people in this city.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -6592,6 +7310,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 19,
+		"verseNumber": 19,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 19,
 		"verseNumber": 20,
 		"sectionNumber": 1,
 		"value": "So the word of the Lord was growing and becoming mighty. "
@@ -6950,6 +7675,13 @@
 		"verseNumber": 21,
 		"sectionNumber": 1,
 		"value": "testifying both to Jews and to Greeks repentance toward God, and faith toward our Lord Jesus."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 20,
+		"verseNumber": 21,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -7553,6 +8285,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 22,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "I answered, ‘Who are you, Lord?’ He said to me, "
@@ -7563,6 +8302,13 @@
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "‘I am Jesus of Nazareth, whom you persecute.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -7590,6 +8336,13 @@
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "‘Arise, and go into Damascus. There you will be told about all things which are appointed for you to do.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -7659,6 +8412,13 @@
 		"verseNumber": 18,
 		"sectionNumber": 2,
 		"value": "‘Hurry and get out of Jerusalem quickly, because they will not receive testimony concerning me from you.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -7894,6 +8654,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 23,
+		"verseNumber": 5,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 23,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "But when Paul perceived that the one part were Sadducees and the other Pharisees, he cried out in the council, “Men and brothers, I am a Pharisee, a son of Pharisees. Concerning the hope and resurrection of the dead I am being judged!” "
@@ -7957,6 +8724,13 @@
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "“Cheer up, Paul, for as you have testified about me at Jerusalem, so you must testify also at Rome.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 23,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -8077,6 +8851,13 @@
 		"verseNumber": 23,
 		"sectionNumber": 1,
 		"value": "He called to himself two of the centurions, and said, “Prepare two hundred soldiers to go as far as Caesarea, with seventy horsemen, and two hundred men armed with spears, at the third hour of the night.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 23,
+		"verseNumber": 23,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -8231,8 +9012,36 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 24,
+		"verseNumber": 6,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 24,
+		"verseNumber": 7,
+		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 24,
+		"verseNumber": 7,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 24,
 		"verseNumber": 8,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 24,
+		"verseNumber": 8,
+		"sectionNumber": 2,
 		"value": "By examining him yourself you may ascertain all these things of which we accuse him.” "
 	},
 	{
@@ -8773,6 +9582,13 @@
 		"value": "‘Saul, Saul, why are you persecuting me? It is hard for you to kick against the goads.’"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -8808,23 +9624,72 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 26,
+		"verseNumber": 15,
+		"sectionNumber": 4,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
 		"verseNumber": 16,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
+		"verseNumber": 16,
+		"sectionNumber": 2,
 		"value": "But arise, and stand on your feet, for I have appeared to you for this purpose: to appoint you a servant and a witness both of the things which you have seen, and of the things which I will reveal to you; "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 26,
 		"verseNumber": 17,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
+		"verseNumber": 17,
+		"sectionNumber": 2,
 		"value": "delivering you from the people, and from the Gentiles, to whom I send you, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
+		"verseNumber": 17,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 26,
 		"verseNumber": 18,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
+		"verseNumber": 18,
+		"sectionNumber": 2,
 		"value": "to open their eyes, that they may turn from darkness to light and from the power of Satan to God, that they may receive remission of sins and an inheritance among those who are sanctified by faith in me.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -9079,6 +9944,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 27,
+		"verseNumber": 14,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 27,
 		"verseNumber": 15,
 		"sectionNumber": 1,
 		"value": "When the ship was caught and couldn’t face the wind, we gave way to it and were driven along.  "
@@ -9192,6 +10064,13 @@
 		"verseNumber": 28,
 		"sectionNumber": 2,
 		"value": " After a little while, they took soundings again, and found fifteen fathoms."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 27,
+		"verseNumber": 28,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -9556,95 +10435,148 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 28,
 		"verseNumber": 26,
 		"sectionNumber": 2,
 		"value": "‘Go to this people and say, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 28,
 		"verseNumber": 26,
 		"sectionNumber": 3,
 		"value": "in hearing, you will hear, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 28,
 		"verseNumber": 26,
 		"sectionNumber": 4,
 		"value": "but will in no way understand. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 28,
 		"verseNumber": 26,
 		"sectionNumber": 5,
 		"value": "In seeing, you will see, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 28,
 		"verseNumber": 26,
 		"sectionNumber": 6,
 		"value": "but will in no way perceive. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 28,
+		"verseNumber": 26,
+		"sectionNumber": 7,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 28,
 		"verseNumber": 27,
 		"sectionNumber": 1,
 		"value": "For this people’s heart has grown callous. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 28,
 		"verseNumber": 27,
 		"sectionNumber": 2,
 		"value": "Their ears are dull of hearing. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 28,
 		"verseNumber": 27,
 		"sectionNumber": 3,
 		"value": "Their eyes they have closed. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 28,
 		"verseNumber": 27,
 		"sectionNumber": 4,
 		"value": "Lest they should see with their eyes, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 28,
 		"verseNumber": 27,
 		"sectionNumber": 5,
 		"value": "hear with their ears, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 28,
 		"verseNumber": 27,
 		"sectionNumber": 6,
 		"value": "understand with their heart, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 28,
 		"verseNumber": 27,
 		"sectionNumber": 7,
 		"value": "and would turn again, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 28,
 		"verseNumber": 27,
 		"sectionNumber": 8,
 		"value": "then I would heal them.’"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 28,
+		"verseNumber": 27,
+		"sectionNumber": 9,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -9671,6 +10603,13 @@
 		"verseNumber": 29,
 		"sectionNumber": 1,
 		"value": "When he had said these words, the Jews departed, having a great dispute among themselves."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 28,
+		"verseNumber": 29,
+		"sectionNumber": 2,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"

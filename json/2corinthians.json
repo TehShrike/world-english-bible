@@ -845,18 +845,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 2,
 		"sectionNumber": 2,
 		"value": "“At an acceptable time I listened to you. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 2,
 		"sectionNumber": 3,
 		"value": "In a day of salvation I helped you.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 6,
+		"verseNumber": 2,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -868,7 +881,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 2,
-		"sectionNumber": 4,
+		"sectionNumber": 5,
 		"value": "Behold, now is the acceptable time. Behold, now is the day of salvation.  "
 	},
 	{
@@ -978,6 +991,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
+		"verseNumber": 16,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "Therefore "
@@ -989,46 +1009,78 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 17,
 		"sectionNumber": 2,
 		"value": "“ ‘Come out from among them, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 17,
 		"sectionNumber": 3,
 		"value": "and be separate,’ says the Lord. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 17,
 		"sectionNumber": 4,
 		"value": "‘Touch no unclean thing. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 17,
 		"sectionNumber": 5,
 		"value": "I will receive you."
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 6,
+		"verseNumber": 17,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 6,
+		"verseNumber": 17,
+		"sectionNumber": 7,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 18,
 		"sectionNumber": 1,
 		"value": "I will be to you a Father. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 18,
 		"sectionNumber": 2,
 		"value": "You will be to me sons and daughters,’ "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1042,6 +1094,13 @@
 		"verseNumber": 18,
 		"sectionNumber": 3,
 		"value": "says the Lord Almighty.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 18,
+		"sectionNumber": 4,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -1291,6 +1350,13 @@
 		"value": "As it is written, “He who gathered much had nothing left over, and he who gathered little had no lack.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 15,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -1441,18 +1507,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "“He has scattered abroad. He has given to the poor. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "His righteousness remains forever.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 9,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1626,6 +1705,13 @@
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "But “he who boasts, let him boast in the Lord.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 17,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -2087,6 +2173,13 @@
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "This is the third time I am coming to you. “At the mouth of two or three witnesses shall every word be established.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 1,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",

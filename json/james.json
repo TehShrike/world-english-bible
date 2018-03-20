@@ -195,6 +195,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
+		"verseNumber": 21,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
 		"verseNumber": 22,
 		"sectionNumber": 1,
 		"value": "But be doers of the word, and not only hearers, deluding your own selves.  "
@@ -533,6 +540,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
+		"verseNumber": 6,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "For every kind of animal, bird, creeping thing, and sea creature, is tamed, and has been tamed by mankind;  "
@@ -671,6 +685,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
+		"verseNumber": 6,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "Be subject therefore to God. Resist the devil, and he will flee from you.  "
@@ -794,6 +815,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
+		"verseNumber": 4,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "You have lived in luxury on the earth, and taken your pleasure. You have nourished your hearts as in a day of slaughter.  "
@@ -864,6 +892,13 @@
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "But above all things, my brothers, don’t swear— not by heaven, or by the earth, or by any other oath; but let your “yes” be “yes”, and your “no”, “no”, so that you don’t fall into hypocrisy."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 12,
+		"sectionNumber": 2,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"

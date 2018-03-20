@@ -589,39 +589,65 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "“When he ascended on high, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 8,
 		"sectionNumber": 3,
 		"value": "he led captivity captive, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 8,
 		"sectionNumber": 4,
 		"value": "and gave gifts to people.”"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 4,
+		"verseNumber": 8,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 4,
+		"verseNumber": 8,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "Now this, “He ascended”, what is it but that he also first descended into the lower parts of the earth?  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "He who descended is the one who also ascended far above all the heavens, that he might fill all things. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1078,6 +1104,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
+		"verseNumber": 31,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
 		"verseNumber": 32,
 		"sectionNumber": 1,
 		"value": "This mystery is great, but I speak concerning Christ and of the assembly.  "
@@ -1115,6 +1148,13 @@
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "“that it may be well with you, and you may live long on the earth.” "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 3,
+		"sectionNumber": 2,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"

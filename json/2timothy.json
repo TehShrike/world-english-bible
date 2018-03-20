@@ -268,67 +268,108 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "“For if we died with him, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 11,
 		"sectionNumber": 3,
 		"value": "we will also live with him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 11,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "If we endure, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 12,
 		"sectionNumber": 2,
 		"value": "we will also reign with him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 12,
 		"sectionNumber": 3,
 		"value": "If we deny him, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 12,
 		"sectionNumber": 4,
 		"value": "he also will deny us. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 12,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 13,
 		"sectionNumber": 1,
 		"value": "If we are faithless, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 13,
 		"sectionNumber": 2,
 		"value": "he remains faithful; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 13,
 		"sectionNumber": 3,
 		"value": "for he can’t deny himself.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"

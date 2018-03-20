@@ -212,130 +212,209 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 2,
 		"value": "“I called because of my affliction to Yahweh. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 3,
 		"value": "He answered me. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 4,
 		"value": "Out of the belly of Sheol"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 5,
 		"value": " I cried. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 6,
 		"value": "You heard my voice. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 2,
+		"sectionNumber": 7,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "For you threw me into the depths, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 3,
 		"sectionNumber": 2,
 		"value": "in the heart of the seas. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 3,
 		"sectionNumber": 3,
 		"value": "The flood was all around me. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 3,
 		"sectionNumber": 4,
 		"value": "All your waves and your billows passed over me. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 3,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "I said, ‘I have been banished from your sight; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 4,
 		"sectionNumber": 2,
 		"value": "yet I will look again toward your holy temple.’ "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "The waters surrounded me, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 2,
 		"value": "even to the soul. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 3,
 		"value": "The deep was around me. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 4,
 		"value": "The weeds were wrapped around my head. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 5,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "I went down to the bottoms of the mountains. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 2,
 		"value": "The earth barred me in forever: "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 3,
 		"value": "yet have you brought up my life from the pit, Yahweh my God. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -344,46 +423,85 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 6,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "“When my soul fainted within me, I remembered Yahweh. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "My prayer came in to you, into your holy temple. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "Those who regard lying vanities forsake their own mercy. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 8,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "But I will sacrifice to you with the voice of thanksgiving. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "I will pay that which I have vowed. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "Salvation belongs to Yahweh.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"

@@ -446,6 +446,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
+		"verseNumber": 8,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "The weight of the nails was fifty shekels"
@@ -579,6 +586,13 @@
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "It was a handbreadth thick; and its brim was made like the brim of a cup, like the flower of a lily. It received and held three thousand baths."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 5,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -846,32 +860,41 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 13,
 		"sectionNumber": 2,
 		"value": "“For he is good; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 13,
 		"sectionNumber": 3,
 		"value": "for his loving kindness endures forever!” "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 13,
 		"sectionNumber": 4,
 		"value": "then the house was filled with a cloud, even Yahweh’s house,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 14,
 		"sectionNumber": 1,
 		"value": "so that the priests could not stand to minister by reason of the cloud; for Yahweh’s glory filled God’s house. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1310,18 +1333,24 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 3,
 		"sectionNumber": 2,
 		"value": "“For he is good; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 3,
 		"sectionNumber": 3,
 		"value": "for his loving kindness endures forever.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1632,6 +1661,13 @@
 		"value": "even as the duty of every day required, offering according to the commandment of Moses, on the Sabbaths, on the new moons, and on the set feasts, three times per year, during the feast of unleavened bread, during the feast of weeks, and during the feast of booths."
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 13,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -1724,6 +1760,13 @@
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "the food of his table, the seating of his servants, the attendance of his ministers, their clothing, his cup bearers also, their clothing, and his ascent by which he went up to Yahweh’s house; there was no more spirit in her."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 4,
+		"sectionNumber": 2,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -5063,6 +5106,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 25,
+		"verseNumber": 23,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 25,
 		"verseNumber": 24,
 		"sectionNumber": 1,
 		"value": "He took all the gold and silver, and all the vessels that were found in God’s house with Obed-Edom, and the treasures of the king’s house, the hostages also, and returned to Samaria. "
@@ -6751,6 +6801,13 @@
 		"verseNumber": 19,
 		"sectionNumber": 1,
 		"value": "His prayer also, and how God was entreated of him, and all his sin and his trespass, and the places in which he built high places, and set up the Asherah poles and the engraved images, before he humbled himself: behold, they are written in the history of Hozai."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 33,
+		"verseNumber": 19,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",

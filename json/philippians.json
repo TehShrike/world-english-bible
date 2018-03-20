@@ -32,6 +32,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
+		"verseNumber": 1,
+		"sectionNumber": 4,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "Grace to you, and peace from God our Father and the Lord Jesus Christ.  "

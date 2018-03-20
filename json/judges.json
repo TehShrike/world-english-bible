@@ -1044,723 +1044,1211 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 1,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "“Because the leaders took the lead in Israel, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 2,
 		"sectionNumber": 2,
 		"value": "because the people offered themselves willingly, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 2,
 		"sectionNumber": 3,
 		"value": "be blessed, Yahweh! "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 2,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "“Hear, you kings! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 3,
 		"sectionNumber": 2,
 		"value": "Give ear, you princes! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 3,
 		"sectionNumber": 3,
 		"value": "I, even I, will sing to Yahweh. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 3,
 		"sectionNumber": 4,
 		"value": "I will sing praise to Yahweh, the God of Israel. "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 3,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "“Yahweh, when you went out of Seir, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 4,
 		"sectionNumber": 2,
 		"value": "when you marched out of the field of Edom, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 4,
 		"sectionNumber": 3,
 		"value": "the earth trembled, the sky also dropped. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 4,
 		"sectionNumber": 4,
 		"value": "Yes, the clouds dropped water. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 4,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "The mountains quaked Yahweh’s presence, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 5,
 		"sectionNumber": 2,
 		"value": "even Sinai at the presence of Yahweh, the God of Israel. "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 5,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "“In the days of Shamgar the son of Anath, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 6,
 		"sectionNumber": 2,
 		"value": "in the days of Jael, the highways were unoccupied. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 6,
 		"sectionNumber": 3,
 		"value": "The travelers walked through byways. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 6,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "The rulers ceased in Israel. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "They ceased until I, Deborah, arose; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 7,
 		"sectionNumber": 3,
 		"value": "Until I arose a mother in Israel. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 7,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "They chose new gods. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "Then war was in the gates. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 8,
 		"sectionNumber": 3,
 		"value": "Was there a shield or spear seen among forty thousand in Israel? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 8,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "My heart is toward the governors of Israel, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "who offered themselves willingly among the people. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "Bless Yahweh! "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 9,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "“Speak, you who ride on white donkeys, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "you who sit on rich carpets, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 10,
 		"sectionNumber": 3,
 		"value": "and you who walk by the way. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 10,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "Far from the noise of archers, in the places of drawing water, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "there they will rehearse Yahweh’s righteous acts, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 11,
 		"sectionNumber": 3,
 		"value": "the righteous acts of his rule in Israel. "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 11,
 		"sectionNumber": 4,
 		"value": "“Then Yahweh’s people went down to the gates. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 11,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "‘Awake, awake, Deborah! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 12,
 		"sectionNumber": 2,
 		"value": "Awake, awake, utter a song! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 12,
 		"sectionNumber": 3,
 		"value": "Arise, Barak, and lead away your captives, you son of Abinoam.’ "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 12,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 13,
 		"sectionNumber": 1,
 		"value": "“Then a remnant of the nobles and the people came down. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 13,
 		"sectionNumber": 2,
 		"value": "Yahweh came down for me against the mighty. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 14,
 		"sectionNumber": 1,
 		"value": "Those whose root is in Amalek came out of Ephraim, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 14,
 		"sectionNumber": 2,
 		"value": "after you, Benjamin, among your peoples. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 14,
 		"sectionNumber": 3,
 		"value": "Governors come down out of Machir. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 14,
 		"sectionNumber": 4,
 		"value": "Those who handle the marshal’s staff came out of Zebulun. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 14,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 15,
 		"sectionNumber": 1,
 		"value": "The princes of Issachar were with Deborah. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 15,
 		"sectionNumber": 2,
 		"value": "As was Issachar, so was Barak. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 15,
 		"sectionNumber": 3,
 		"value": "They rushed into the valley at his feet. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 15,
 		"sectionNumber": 4,
 		"value": "By the watercourses of Reuben, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 15,
 		"sectionNumber": 5,
 		"value": "there were great resolves of heart. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 15,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "Why did you sit among the sheepfolds? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 16,
 		"sectionNumber": 2,
 		"value": "To hear the whistling for the flocks? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 16,
 		"sectionNumber": 3,
 		"value": "At the watercourses of Reuben, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 16,
 		"sectionNumber": 4,
 		"value": "there were great searchings of heart. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 16,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "Gilead lived beyond the Jordan. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 17,
 		"sectionNumber": 2,
 		"value": "Why did Dan remain in ships? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 17,
 		"sectionNumber": 3,
 		"value": "Asher sat still at the haven of the sea, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 17,
 		"sectionNumber": 4,
 		"value": "and lived by his creeks. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 17,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 18,
 		"sectionNumber": 1,
 		"value": "Zebulun was a people that jeopardized their lives to the death; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 18,
 		"sectionNumber": 2,
 		"value": "Naphtali also, on the high places of the field. "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 19,
 		"sectionNumber": 1,
 		"value": "“The kings came and fought, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 19,
 		"sectionNumber": 2,
 		"value": "then the kings of Canaan fought at Taanach by the waters of Megiddo. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 19,
 		"sectionNumber": 3,
 		"value": "They took no plunder of silver. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 19,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 20,
 		"sectionNumber": 1,
 		"value": "From the sky the stars fought. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 20,
 		"sectionNumber": 2,
 		"value": "From their courses, they fought against Sisera. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 20,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 21,
 		"sectionNumber": 1,
 		"value": "The river Kishon swept them away, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 21,
 		"sectionNumber": 2,
 		"value": "that ancient river, the river Kishon. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 21,
 		"sectionNumber": 3,
 		"value": "My soul, march on with strength. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 21,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 22,
 		"sectionNumber": 1,
 		"value": "Then the horse hoofs stamped because of the prancing, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 22,
 		"sectionNumber": 2,
 		"value": "the prancing of their strong ones. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 22,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 23,
 		"sectionNumber": 1,
 		"value": "‘Curse Meroz,’ said Yahweh’s angel. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 23,
 		"sectionNumber": 2,
 		"value": "‘Curse bitterly its inhabitants, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 23,
 		"sectionNumber": 3,
 		"value": "because they didn’t come to help Yahweh, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 23,
 		"sectionNumber": 4,
 		"value": "to help Yahweh against the mighty.’ "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 23,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 24,
 		"sectionNumber": 1,
 		"value": "“Jael shall be blessed above women, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 24,
 		"sectionNumber": 2,
 		"value": "the wife of Heber the Kenite; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 24,
 		"sectionNumber": 3,
 		"value": "blessed shall she be above women in the tent. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 24,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 25,
 		"sectionNumber": 1,
 		"value": "He asked for water. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 25,
 		"sectionNumber": 2,
 		"value": "She gave him milk. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 25,
 		"sectionNumber": 3,
 		"value": "She brought him butter in a lordly dish. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 25,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 26,
 		"sectionNumber": 1,
 		"value": "She put her hand to the tent peg, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 26,
 		"sectionNumber": 2,
 		"value": "and her right hand to the workmen’s hammer. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 26,
 		"sectionNumber": 3,
 		"value": "With the hammer she struck Sisera. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 26,
 		"sectionNumber": 4,
 		"value": "She struck through his head. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 26,
 		"sectionNumber": 5,
 		"value": "Yes, she pierced and struck through his temples. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 26,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 27,
 		"sectionNumber": 1,
 		"value": "At her feet he bowed, he fell, he lay. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 27,
 		"sectionNumber": 2,
 		"value": "At her feet he bowed, he fell. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 27,
 		"sectionNumber": 3,
 		"value": "Where he bowed, there he fell down dead. "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 27,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 28,
 		"sectionNumber": 1,
 		"value": "“Through the window she looked out, and cried: "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 28,
 		"sectionNumber": 2,
 		"value": "Sisera’s mother looked through the lattice. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 28,
 		"sectionNumber": 3,
 		"value": "‘Why is his chariot so long in coming? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 28,
 		"sectionNumber": 4,
 		"value": "Why do the wheels of his chariots wait?’ "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 28,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 29,
 		"sectionNumber": 1,
 		"value": "Her wise ladies answered her, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 29,
 		"sectionNumber": 2,
 		"value": "Yes, she returned answer to herself, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 29,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 30,
 		"sectionNumber": 1,
 		"value": "‘Have they not found, have they not divided the plunder? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 30,
 		"sectionNumber": 2,
 		"value": "A lady, two ladies to every man; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 30,
 		"sectionNumber": 3,
 		"value": "to Sisera a plunder of dyed garments, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 30,
 		"sectionNumber": 4,
 		"value": "a plunder of dyed garments embroidered, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 30,
 		"sectionNumber": 5,
 		"value": "of dyed garments embroidered on both sides, on the necks of the plunder?’ "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1769,18 +2257,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 30,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 31,
 		"sectionNumber": 1,
 		"value": "“So let all your enemies perish, Yahweh, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 31,
 		"sectionNumber": 2,
 		"value": "but let those who love him be as the sun when it rises in its strength.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -4552,18 +5053,24 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 14,
 		"verseNumber": 14,
 		"sectionNumber": 2,
 		"value": "“Out of the eater came out food. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 14,
 		"verseNumber": 14,
 		"sectionNumber": 3,
 		"value": "Out of the strong came out sweetness.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -4651,18 +5158,24 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 14,
 		"verseNumber": 18,
 		"sectionNumber": 3,
 		"value": "“If you hadn’t plowed with my heifer, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 14,
 		"verseNumber": 18,
 		"sectionNumber": 4,
 		"value": "you wouldn’t have found out my riddle.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -4921,6 +5434,13 @@
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "When he had finished speaking, he threw the jawbone out of his hand; and that place was called Ramath Lehi."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 17,
+		"sectionNumber": 2,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"

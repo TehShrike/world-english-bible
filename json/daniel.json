@@ -419,102 +419,165 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 20,
 		"sectionNumber": 2,
 		"value": "“Blessed be the name of God forever and ever; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 20,
 		"sectionNumber": 3,
 		"value": "for wisdom and might are his. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 20,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 21,
 		"sectionNumber": 1,
 		"value": "He changes the times and the seasons. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 21,
 		"sectionNumber": 2,
 		"value": "He removes kings, and sets up kings. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 21,
 		"sectionNumber": 3,
 		"value": "He gives wisdom to the wise, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 21,
 		"sectionNumber": 4,
 		"value": "and knowledge to those who have understanding. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 21,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 22,
 		"sectionNumber": 1,
 		"value": "He reveals the deep and secret things. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 22,
 		"sectionNumber": 2,
 		"value": "He knows what is in the darkness, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 22,
 		"sectionNumber": 3,
 		"value": "and the light dwells with him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 22,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 23,
 		"sectionNumber": 1,
 		"value": "I thank you, and praise you, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 23,
 		"sectionNumber": 2,
 		"value": "you God of my fathers, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 23,
 		"sectionNumber": 3,
 		"value": "who have given me wisdom and might, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 23,
 		"sectionNumber": 4,
 		"value": "and have now made known to me what we desired of you; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 23,
 		"sectionNumber": 5,
 		"value": "for you have made known to us the king’s matter.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1145,32 +1208,51 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 4,
+		"verseNumber": 2,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "How great are his signs! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 3,
 		"sectionNumber": 2,
 		"value": "How mighty are his wonders! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 3,
 		"sectionNumber": 3,
 		"value": "His kingdom is an everlasting kingdom. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 3,
 		"sectionNumber": 4,
 		"value": "His dominion is from generation to generation. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1481,53 +1563,81 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 34,
 		"sectionNumber": 2,
 		"value": "for his dominion is an everlasting dominion, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 34,
 		"sectionNumber": 3,
 		"value": "and his kingdom from generation to generation. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 4,
+		"verseNumber": 34,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 35,
 		"sectionNumber": 1,
 		"value": "All the inhabitants of the earth are reputed as nothing; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 35,
 		"sectionNumber": 2,
 		"value": "and he does according to his will in the army of heaven, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 35,
 		"sectionNumber": 3,
 		"value": "and among the inhabitants of the earth; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 35,
 		"sectionNumber": 4,
 		"value": "and no one can stop his hand, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 35,
 		"sectionNumber": 5,
 		"value": "or ask him, “What are you doing?” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -1804,25 +1914,48 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 26,
 		"sectionNumber": 2,
 		"value": "MENE: God has counted your kingdom, and brought it to an end. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 27,
 		"sectionNumber": 1,
 		"value": "TEKEL: you are weighed in the balances, and are found wanting. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 27,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 28,
 		"sectionNumber": 1,
 		"value": "PERES: your kingdom is divided, and given to the Medes and Persians.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2156,53 +2289,81 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 26,
 		"sectionNumber": 2,
 		"value": "“for he is the living God, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 26,
 		"sectionNumber": 3,
 		"value": "and steadfast forever. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 26,
 		"sectionNumber": 4,
 		"value": "His kingdom is that which will not be destroyed. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 26,
 		"sectionNumber": 5,
 		"value": "His dominion will be even to the end. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 6,
+		"verseNumber": 26,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 27,
 		"sectionNumber": 1,
 		"value": "He delivers and rescues. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 27,
 		"sectionNumber": 2,
 		"value": "He works signs and wonders in heaven and in earth, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 6,
 		"verseNumber": 27,
 		"sectionNumber": 3,
 		"value": "who has delivered Daniel from the power of the lions.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2322,81 +2483,128 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 7,
+		"verseNumber": 8,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "“I watched until thrones were placed, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "and one who was ancient of days sat. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "His clothing was white as snow, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 9,
 		"sectionNumber": 4,
 		"value": "and the hair of his head like pure wool. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 9,
 		"sectionNumber": 5,
 		"value": "His throne was fiery flames, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 9,
 		"sectionNumber": 6,
 		"value": "and its wheels burning fire. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 7,
+		"verseNumber": 9,
+		"sectionNumber": 7,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "A fiery stream issued and came out from before him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "Thousands of thousands ministered to him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 10,
 		"sectionNumber": 3,
 		"value": "Ten thousand times ten thousand stood before him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 10,
 		"sectionNumber": 4,
 		"value": "The judgment was set. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 7,
 		"verseNumber": 10,
 		"sectionNumber": 5,
 		"value": "The books were opened. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"

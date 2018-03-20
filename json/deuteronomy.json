@@ -1417,11 +1417,21 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 5,
+		"verseNumber": 5,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 5,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "“I am Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -7365,550 +7375,945 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 30,
+		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Give ear, you heavens, and I will speak. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 1,
 		"sectionNumber": 2,
 		"value": "Let the earth hear the words of my mouth. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 1,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "My doctrine will drop as the rain. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 2,
 		"sectionNumber": 2,
 		"value": "My speech will condense as the dew, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 2,
 		"sectionNumber": 3,
 		"value": "as the misty rain on the tender grass, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 2,
 		"sectionNumber": 4,
 		"value": "as the showers on the herb. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 2,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "For I will proclaim Yahweh’s name. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 3,
 		"sectionNumber": 2,
 		"value": "Ascribe greatness to our God! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 3,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "The Rock: his work is perfect, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 4,
 		"sectionNumber": 2,
 		"value": "for all his ways are just. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 4,
 		"sectionNumber": 3,
 		"value": "A God of faithfulness who does no wrong, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 4,
 		"sectionNumber": 4,
 		"value": "just and right is he. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 4,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "They have dealt corruptly with him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 5,
 		"sectionNumber": 2,
 		"value": "They are not his children, because of their defect. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 5,
 		"sectionNumber": 3,
 		"value": "They are a perverse and crooked generation. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 5,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "Is this the way you repay Yahweh, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 6,
 		"sectionNumber": 2,
 		"value": "foolish and unwise people? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 6,
 		"sectionNumber": 3,
 		"value": "Isn’t he your father who has bought you? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 6,
 		"sectionNumber": 4,
 		"value": "He has made you and established you. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 6,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "Remember the days of old. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "Consider the years of many generations. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 7,
 		"sectionNumber": 3,
 		"value": "Ask your father, and he will show you; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 7,
 		"sectionNumber": 4,
 		"value": "your elders, and they will tell you. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 7,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "When the Most High gave to the nations their inheritance, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "when he separated the children of men, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 8,
 		"sectionNumber": 3,
 		"value": "he set the bounds of the peoples "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 8,
 		"sectionNumber": 4,
 		"value": "according to the number of the children of Israel. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 8,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "For Yahweh’s portion is his people. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "Jacob is the lot of his inheritance. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 9,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "He found him in a desert land, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "in the waste howling wilderness. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 10,
 		"sectionNumber": 3,
 		"value": "He surrounded him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 10,
 		"sectionNumber": 4,
 		"value": "He cared for him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 10,
 		"sectionNumber": 5,
 		"value": "He kept him as the apple of his eye. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 10,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "As an eagle that stirs up her nest, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "that flutters over her young, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 11,
 		"sectionNumber": 3,
 		"value": "he spread abroad his wings, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 11,
 		"sectionNumber": 4,
 		"value": "he took them, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 11,
 		"sectionNumber": 5,
 		"value": "he bore them on his feathers. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 11,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "Yahweh alone led him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 12,
 		"sectionNumber": 2,
 		"value": "There was no foreign god with him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 13,
 		"sectionNumber": 1,
 		"value": "He made him ride on the high places of the earth. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 13,
 		"sectionNumber": 2,
 		"value": "He ate the increase of the field. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 13,
 		"sectionNumber": 3,
 		"value": "He caused him to suck honey out of the rock, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 13,
 		"sectionNumber": 4,
 		"value": "oil out of the flinty rock; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 13,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 14,
 		"sectionNumber": 1,
 		"value": "butter from the herd, and milk from the flock, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 14,
 		"sectionNumber": 2,
 		"value": "with fat of lambs, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 14,
 		"sectionNumber": 3,
 		"value": "rams of the breed of Bashan, and goats, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 14,
 		"sectionNumber": 4,
 		"value": "with the finest of the wheat. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 14,
 		"sectionNumber": 5,
 		"value": "From the blood of the grape, you drank wine. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 14,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 15,
 		"sectionNumber": 1,
 		"value": "But Jeshurun grew fat, and kicked. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 15,
 		"sectionNumber": 2,
 		"value": "You have grown fat. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 15,
 		"sectionNumber": 3,
 		"value": "You have grown thick. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 15,
 		"sectionNumber": 4,
 		"value": "You have become sleek. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 15,
 		"sectionNumber": 5,
 		"value": "Then he abandoned God who made him, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 15,
 		"sectionNumber": 6,
 		"value": "and rejected the Rock of his salvation. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 15,
+		"sectionNumber": 7,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "They moved him to jealousy with strange gods. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 16,
 		"sectionNumber": 2,
 		"value": "They provoked him to anger with abominations. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "They sacrificed to demons, not God, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 17,
 		"sectionNumber": 2,
 		"value": "to gods that they didn’t know, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 17,
 		"sectionNumber": 3,
 		"value": "to new gods that came up recently, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 17,
 		"sectionNumber": 4,
 		"value": "which your fathers didn’t dread. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 17,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 18,
 		"sectionNumber": 1,
 		"value": "Of the Rock who became your father, you are unmindful, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 18,
 		"sectionNumber": 2,
 		"value": "and have forgotten God who gave you birth. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 19,
 		"sectionNumber": 1,
 		"value": "Yahweh saw and abhorred, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 19,
 		"sectionNumber": 2,
 		"value": "because of the provocation of his sons and his daughters. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 19,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 20,
 		"sectionNumber": 1,
 		"value": "He said, “I will hide my face from them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 20,
 		"sectionNumber": 2,
 		"value": "I will see what their end will be; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 20,
 		"sectionNumber": 3,
 		"value": "for they are a very perverse generation, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 20,
 		"sectionNumber": 4,
 		"value": "children in whom is no faithfulness. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 20,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 21,
 		"sectionNumber": 1,
 		"value": "They have moved me to jealousy with that which is not God. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 21,
 		"sectionNumber": 2,
 		"value": "They have provoked me to anger with their vanities. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 21,
 		"sectionNumber": 3,
 		"value": "I will move them to jealousy with those who are not a people. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 21,
 		"sectionNumber": 4,
 		"value": "I will provoke them to anger with a foolish nation. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 21,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 22,
 		"sectionNumber": 1,
 		"value": "For a fire is kindled in my anger, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 22,
 		"sectionNumber": 2,
 		"value": "that burns to the lowest Sheol,"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 22,
 		"sectionNumber": 3,
-		"value": "devours the earth with its increase, "
+		"value": " "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 22,
 		"sectionNumber": 4,
+		"value": "devours the earth with its increase, "
+	},
+	{
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 22,
+		"sectionNumber": 5,
 		"value": "and sets the foundations of the mountains on fire. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -7917,469 +8322,798 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 22,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 23,
 		"sectionNumber": 1,
 		"value": "“I will heap evils on them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 23,
 		"sectionNumber": 2,
 		"value": "I will spend my arrows on them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 23,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 24,
 		"sectionNumber": 1,
 		"value": "They shall be wasted with hunger, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 24,
 		"sectionNumber": 2,
 		"value": "and devoured with burning heat "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 24,
 		"sectionNumber": 3,
 		"value": "and bitter destruction. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 24,
 		"sectionNumber": 4,
 		"value": "I will send the teeth of animals on them, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 24,
 		"sectionNumber": 5,
 		"value": "with the venom of vipers that glide in the dust. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 24,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 25,
 		"sectionNumber": 1,
 		"value": "Outside the sword will bereave, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 25,
 		"sectionNumber": 2,
 		"value": "and in the rooms, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 25,
 		"sectionNumber": 3,
 		"value": "terror on both young man and virgin, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 25,
 		"sectionNumber": 4,
 		"value": "the nursing infant with the gray-haired man. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 25,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 26,
 		"sectionNumber": 1,
 		"value": "I said that I would scatter them afar. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 26,
 		"sectionNumber": 2,
 		"value": "I would make their memory to cease from among men; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 27,
 		"sectionNumber": 1,
 		"value": "were it not that I feared the provocation of the enemy, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 27,
 		"sectionNumber": 2,
 		"value": "lest their adversaries should judge wrongly, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 27,
 		"sectionNumber": 3,
 		"value": "lest they should say, ‘Our hand is exalted, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 27,
 		"sectionNumber": 4,
 		"value": "Yahweh has not done all this.’ ” "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 27,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 28,
 		"sectionNumber": 1,
 		"value": "For they are a nation void of counsel. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 28,
 		"sectionNumber": 2,
 		"value": "There is no understanding in them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 28,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 29,
 		"sectionNumber": 1,
 		"value": "Oh that they were wise, that they understood this, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 29,
 		"sectionNumber": 2,
 		"value": "that they would consider their latter end! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 29,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 30,
 		"sectionNumber": 1,
 		"value": "How could one chase a thousand, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 30,
 		"sectionNumber": 2,
 		"value": "and two put ten thousand to flight, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 30,
 		"sectionNumber": 3,
 		"value": "unless their Rock had sold them, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 30,
 		"sectionNumber": 4,
 		"value": "and Yahweh had delivered them up? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 30,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 31,
 		"sectionNumber": 1,
 		"value": "For their rock is not as our Rock, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 31,
 		"sectionNumber": 2,
 		"value": "even our enemies themselves concede. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 31,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 32,
 		"sectionNumber": 1,
 		"value": "For their vine is of the vine of Sodom, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 32,
 		"sectionNumber": 2,
 		"value": "of the fields of Gomorrah. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 32,
 		"sectionNumber": 3,
 		"value": "Their grapes are poison grapes. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 32,
 		"sectionNumber": 4,
 		"value": "Their clusters are bitter. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 32,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 33,
 		"sectionNumber": 1,
 		"value": "Their wine is the poison of serpents, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 33,
 		"sectionNumber": 2,
 		"value": "the cruel venom of asps. "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 33,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 34,
 		"sectionNumber": 1,
 		"value": "“Isn’t this laid up in store with me, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 34,
 		"sectionNumber": 2,
 		"value": "sealed up among my treasures? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 34,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 35,
 		"sectionNumber": 1,
 		"value": "Vengeance is mine, and recompense, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 35,
 		"sectionNumber": 2,
 		"value": "at the time when their foot slides; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 35,
 		"sectionNumber": 3,
 		"value": "for the day of their calamity is at hand. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 35,
 		"sectionNumber": 4,
 		"value": "Their doom rushes at them.” "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 35,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 36,
 		"sectionNumber": 1,
 		"value": "For Yahweh will judge his people, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 36,
 		"sectionNumber": 2,
 		"value": "and have compassion on his servants, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 36,
 		"sectionNumber": 3,
 		"value": "when he sees that their power is gone; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 36,
 		"sectionNumber": 4,
 		"value": "that there is no one remaining, shut up or left at large. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 36,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 37,
 		"sectionNumber": 1,
 		"value": "He will say, “Where are their gods, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 37,
 		"sectionNumber": 2,
 		"value": "the rock in which they took refuge; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 37,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 38,
 		"sectionNumber": 1,
 		"value": "which ate the fat of their sacrifices, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 38,
 		"sectionNumber": 2,
 		"value": "and drank the wine of their drink offering? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 38,
 		"sectionNumber": 3,
 		"value": "Let them rise up and help you! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 38,
 		"sectionNumber": 4,
 		"value": "Let them be your protection. "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 38,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 39,
 		"sectionNumber": 1,
 		"value": "“See now that I myself am he. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 39,
 		"sectionNumber": 2,
 		"value": "There is no god with me. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 39,
 		"sectionNumber": 3,
 		"value": "I kill and I make alive. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 39,
 		"sectionNumber": 4,
 		"value": "I wound and I heal. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 39,
 		"sectionNumber": 5,
 		"value": "There is no one who can deliver out of my hand. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 39,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 40,
 		"sectionNumber": 1,
 		"value": "For I lift up my hand to heaven and declare, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 40,
 		"sectionNumber": 2,
 		"value": "as I live forever, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 40,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 41,
 		"sectionNumber": 1,
 		"value": "if I sharpen my glittering sword, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 41,
 		"sectionNumber": 2,
 		"value": "my hand grasps it in judgment; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 41,
 		"sectionNumber": 3,
 		"value": "I will take vengeance on my adversaries, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 41,
 		"sectionNumber": 4,
 		"value": "and will repay those who hate me. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 41,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 42,
 		"sectionNumber": 1,
 		"value": "I will make my arrows drunk with blood. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 42,
 		"sectionNumber": 2,
 		"value": "My sword shall devour flesh with the blood of the slain and the captives, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 42,
 		"sectionNumber": 3,
 		"value": "from the head of the leaders of the enemy.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -8388,32 +9122,58 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 42,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 43,
 		"sectionNumber": 1,
 		"value": "Rejoice, you nations, with his people, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 43,
 		"sectionNumber": 2,
 		"value": "for he will avenge the blood of his servants. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 43,
 		"sectionNumber": 3,
 		"value": "He will take vengeance on his adversaries, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 32,
 		"verseNumber": 43,
 		"sectionNumber": 4,
 		"value": "and will make atonement for his land and for his people."
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 32,
+		"verseNumber": 43,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -8517,102 +9277,172 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 2,
 		"sectionNumber": 2,
 		"value": "“Yahweh came from Sinai, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 2,
 		"sectionNumber": 3,
 		"value": "and rose from Seir to them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 2,
 		"sectionNumber": 4,
 		"value": "He shone from Mount Paran. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 2,
 		"sectionNumber": 5,
 		"value": "He came from the ten thousands of holy ones. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 2,
 		"sectionNumber": 6,
 		"value": "At his right hand was a fiery law for them."
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 2,
+		"sectionNumber": 7,
+		"value": " "
+	},
+	{
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 2,
+		"sectionNumber": 8,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "Yes, he loves the people. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 3,
 		"sectionNumber": 2,
 		"value": "All his saints are in your hand. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 3,
 		"sectionNumber": 3,
 		"value": "They sat down at your feet. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 3,
 		"sectionNumber": 4,
 		"value": "Each receives your words. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 3,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "Moses commanded us a law, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 4,
 		"sectionNumber": 2,
 		"value": "an inheritance for the assembly of Jacob. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "He was king in Jeshurun, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 5,
 		"sectionNumber": 2,
 		"value": "when the heads of the people were gathered, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 5,
 		"sectionNumber": 3,
 		"value": "all the tribes of Israel together. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -8621,18 +9451,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 5,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "“Let Reuben live, and not die; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 6,
 		"sectionNumber": 2,
 		"value": "Nor let his men be few.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -8654,32 +9497,44 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "“Hear, Yahweh, the voice of Judah. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 7,
 		"sectionNumber": 3,
 		"value": "Bring him in to his people. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 7,
 		"sectionNumber": 4,
 		"value": "With his hands he contended for himself. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 7,
 		"sectionNumber": 5,
 		"value": "You shall be a help against his adversaries.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -8701,116 +9556,185 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "“Your Thummim and your Urim are with your godly one, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 8,
 		"sectionNumber": 3,
 		"value": "whom you proved at Massah, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 8,
 		"sectionNumber": 4,
 		"value": "with whom you contended at the waters of Meribah. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 8,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "He said of his father, and of his mother, ‘I have not seen him.’ "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "He didn’t acknowledge his brothers, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "nor did he know his own children; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 9,
 		"sectionNumber": 4,
 		"value": "for they have observed your word, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 9,
 		"sectionNumber": 5,
 		"value": "and keep your covenant. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 9,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "They shall teach Jacob your ordinances, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "and Israel your law. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 10,
 		"sectionNumber": 3,
 		"value": "They shall put incense before you, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 10,
 		"sectionNumber": 4,
 		"value": "and whole burnt offering on your altar. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 10,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "Yahweh, bless his skills. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "Accept the work of his hands. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 11,
 		"sectionNumber": 3,
 		"value": "Strike through the hips of those who rise up against him, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 11,
 		"sectionNumber": 4,
 		"value": "of those who hate him, that they not rise again.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -8832,25 +9756,34 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 12,
 		"sectionNumber": 2,
 		"value": "“The beloved of Yahweh will dwell in safety by him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 12,
 		"sectionNumber": 3,
 		"value": "He covers him all day long. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 12,
 		"sectionNumber": 4,
 		"value": "He dwells between his shoulders.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -8872,116 +9805,199 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 13,
 		"sectionNumber": 2,
 		"value": "“His land is blessed by Yahweh, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 13,
 		"sectionNumber": 3,
 		"value": "for the precious things of the heavens, for the dew, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 13,
 		"sectionNumber": 4,
 		"value": "for the deep that couches beneath, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 13,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 14,
 		"sectionNumber": 1,
 		"value": "for the precious things of the fruits of the sun, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 14,
 		"sectionNumber": 2,
 		"value": "for the precious things that the moon can yield, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 15,
 		"sectionNumber": 1,
 		"value": "for the best things of the ancient mountains, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 15,
 		"sectionNumber": 2,
 		"value": "for the precious things of the everlasting hills, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "for the precious things of the earth and its fullness, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 16,
 		"sectionNumber": 2,
 		"value": "the good will of him who lived in the bush."
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 16,
 		"sectionNumber": 3,
-		"value": "Let this come on the head of Joseph, "
+		"value": " "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 16,
 		"sectionNumber": 4,
+		"value": "Let this come on the head of Joseph, "
+	},
+	{
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 16,
+		"sectionNumber": 5,
 		"value": "on the crown of the head of him who was separated from his brothers. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 16,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "Majesty belongs to the firstborn of his herd. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 17,
 		"sectionNumber": 2,
 		"value": "His horns are the horns of the wild ox. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 17,
 		"sectionNumber": 3,
 		"value": "With them he will push all the peoples to the ends of the earth. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 17,
 		"sectionNumber": 4,
 		"value": "They are the ten thousands of Ephraim. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 17,
 		"sectionNumber": 5,
 		"value": "They are the thousands of Manasseh.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -9003,46 +10019,71 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 18,
 		"sectionNumber": 2,
 		"value": "“Rejoice, Zebulun, in your going out; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 18,
 		"sectionNumber": 3,
 		"value": "and Issachar, in your tents. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 18,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 19,
 		"sectionNumber": 1,
 		"value": "They will call the peoples to the mountain. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 19,
 		"sectionNumber": 2,
 		"value": "There they will offer sacrifices of righteousness, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 19,
 		"sectionNumber": 3,
 		"value": "for they will draw out the abundance of the seas, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 19,
 		"sectionNumber": 4,
 		"value": "the hidden treasures of the sand.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -9064,60 +10105,91 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 20,
 		"sectionNumber": 2,
 		"value": "“He who enlarges Gad is blessed. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 20,
 		"sectionNumber": 3,
 		"value": "He dwells as a lioness, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 20,
 		"sectionNumber": 4,
 		"value": "and tears the arm and the crown of the head. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 20,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 21,
 		"sectionNumber": 1,
 		"value": "He provided the first part for himself, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 21,
 		"sectionNumber": 2,
 		"value": "for the lawgiver’s portion reserved was reserved for him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 21,
 		"sectionNumber": 3,
 		"value": "He came with the heads of the people. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 21,
 		"sectionNumber": 4,
 		"value": "He executed the righteousness of Yahweh, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 21,
 		"sectionNumber": 5,
 		"value": "His ordinances with Israel.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -9139,18 +10211,24 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 22,
 		"sectionNumber": 2,
 		"value": "“Dan is a lion’s cub "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 22,
 		"sectionNumber": 3,
 		"value": "that leaps out of Bashan.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -9172,25 +10250,34 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 23,
 		"sectionNumber": 2,
 		"value": "“Naphtali, satisfied with favor, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 23,
 		"sectionNumber": 3,
 		"value": "full of Yahweh’s blessing, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 23,
 		"sectionNumber": 4,
 		"value": "Possess the west and the south.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -9212,39 +10299,61 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 24,
 		"sectionNumber": 2,
 		"value": "“Asher is blessed with children. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 24,
 		"sectionNumber": 3,
 		"value": "Let him be acceptable to his brothers. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 24,
 		"sectionNumber": 4,
 		"value": "Let him dip his foot in oil. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 24,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 25,
 		"sectionNumber": 1,
 		"value": "Your bars will be iron and bronze. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 25,
 		"sectionNumber": 2,
 		"value": "As your days, so your strength will be. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -9253,123 +10362,202 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 25,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 26,
 		"sectionNumber": 1,
 		"value": "“There is no one like God, Jeshurun, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 26,
 		"sectionNumber": 2,
 		"value": "who rides on the heavens for your help, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 26,
 		"sectionNumber": 3,
 		"value": "in his excellency on the skies. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 26,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 27,
 		"sectionNumber": 1,
 		"value": "The eternal God is your dwelling place. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 27,
 		"sectionNumber": 2,
 		"value": "Underneath are the everlasting arms. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 27,
 		"sectionNumber": 3,
 		"value": "He thrust out the enemy from before you, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 27,
 		"sectionNumber": 4,
 		"value": "and said, ‘Destroy!’ "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 27,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 28,
 		"sectionNumber": 1,
 		"value": "Israel dwells in safety, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 28,
 		"sectionNumber": 2,
 		"value": "the fountain of Jacob alone, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 28,
 		"sectionNumber": 3,
 		"value": "In a land of grain and new wine. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 28,
 		"sectionNumber": 4,
 		"value": "Yes, his heavens drop down dew. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 33,
+		"verseNumber": 28,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 29,
 		"sectionNumber": 1,
 		"value": "You are happy, Israel! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 29,
 		"sectionNumber": 2,
 		"value": "Who is like you, a people saved by Yahweh, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 29,
 		"sectionNumber": 3,
 		"value": "the shield of your help, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 29,
 		"sectionNumber": 4,
 		"value": "the sword of your excellency? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 29,
 		"sectionNumber": 5,
 		"value": "Your enemies will submit themselves to you. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 33,
 		"verseNumber": 29,
 		"sectionNumber": 6,
 		"value": "You will tread on their high places.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"

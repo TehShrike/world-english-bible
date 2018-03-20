@@ -136,6 +136,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
+		"verseNumber": 16,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "If you call on him as Father, who without respect of persons judges according to each man’s work, pass the time of your living as foreigners here in reverent fear,  "
@@ -202,32 +209,58 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 24,
 		"sectionNumber": 2,
 		"value": "“All flesh is like grass, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 24,
 		"sectionNumber": 3,
 		"value": "and all of man’s glory like the flower in the grass. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 24,
 		"sectionNumber": 4,
 		"value": "The grass withers, and its flower falls; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 1,
+		"verseNumber": 24,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 1,
 		"verseNumber": 25,
 		"sectionNumber": 1,
 		"value": "but the Lord’s word endures forever.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 1,
+		"verseNumber": 25,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -239,7 +272,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 25,
-		"sectionNumber": 2,
+		"sectionNumber": 3,
 		"value": "This is the word of Good News which was preached to you. "
 	},
 	{
@@ -297,25 +330,38 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 2,
 		"value": "“Behold,"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 3,
 		"value": " I lay in Zion a chief cornerstone, chosen and precious: "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 4,
 		"value": "He who believes in him will not be disappointed.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 6,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -337,18 +383,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "“The stone which the builders rejected "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 7,
 		"sectionNumber": 3,
 		"value": "has become the chief cornerstone,”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 7,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -370,11 +429,21 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "“a stumbling stone and a rock of offense.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -386,7 +455,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 8,
-		"sectionNumber": 3,
+		"sectionNumber": 4,
 		"value": "For they stumble at the word, being disobedient, to which also they were appointed.  "
 	},
 	{
@@ -521,6 +590,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
+		"verseNumber": 22,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
 		"verseNumber": 23,
 		"sectionNumber": 1,
 		"value": "When he was cursed, he didn’t curse back. When he suffered, he didn’t threaten, but committed himself to him who judges righteously.  "
@@ -531,6 +607,13 @@
 		"verseNumber": 24,
 		"sectionNumber": 1,
 		"value": "He himself bore our sins in his body on the tree, that we, having died to sins, might live to righteousness. You were healed by his wounds."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 24,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -641,67 +724,115 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "“He who would love life "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 10,
 		"sectionNumber": 3,
 		"value": "and see good days, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 10,
 		"sectionNumber": 4,
 		"value": "let him keep his tongue from evil "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 10,
 		"sectionNumber": 5,
 		"value": "and his lips from speaking deceit. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 10,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "Let him turn away from evil and do good. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "Let him seek peace and pursue it. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "For the eyes of the Lord are on the righteous, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 12,
 		"sectionNumber": 2,
 		"value": "and his ears open to their prayer; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 12,
 		"sectionNumber": 3,
 		"value": "but the face of the Lord is against those who do evil.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 12,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -722,6 +853,13 @@
 		"verseNumber": 14,
 		"sectionNumber": 1,
 		"value": "But even if you should suffer for righteousness’ sake, you are blessed. “Don’t fear what they fear, neither be troubled.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 14,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -926,6 +1064,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
+		"verseNumber": 18,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
 		"verseNumber": 19,
 		"sectionNumber": 1,
 		"value": "Therefore let them also who suffer according to the will of God in doing good entrust their souls to him, as to a faithful Creator. "
@@ -976,6 +1121,13 @@
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "Likewise, you younger ones, be subject to the elder. Yes, all of you clothe yourselves with humility, to subject yourselves to one another; for “God resists the proud, but gives grace to the humble.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 5,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",

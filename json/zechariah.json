@@ -969,6 +969,13 @@
 		"value": "Those who are far off shall come and build in Yahweh’s temple; and you shall know that Yahweh of Armies has sent me to you. This will happen, if you will diligently obey Yahweh your God’s voice.” ’ ”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 15,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -1319,872 +1326,1458 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 1,
 		"sectionNumber": 2,
 		"value": "Yahweh’s word is against the land of Hadrach, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 1,
 		"sectionNumber": 3,
 		"value": "and will rest upon Damascus; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 1,
 		"sectionNumber": 4,
 		"value": "for the eye of man "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 1,
 		"sectionNumber": 5,
 		"value": "and of all the tribes of Israel is toward Yahweh; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 1,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "and Hamath, also, which borders on it; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 2,
 		"sectionNumber": 2,
 		"value": "Tyre and Sidon, because they are very wise. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 2,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "Tyre built herself a stronghold, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 3,
 		"sectionNumber": 2,
 		"value": "and heaped up silver like the dust, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 3,
 		"sectionNumber": 3,
 		"value": "and fine gold like the mire of the streets. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 3,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "Behold, the Lord will dispossess her, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 4,
 		"sectionNumber": 2,
 		"value": "and he will strike her power in the sea; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 4,
 		"sectionNumber": 3,
 		"value": "and she will be devoured with fire. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 4,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "Ashkelon will see it, and fear; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 5,
 		"sectionNumber": 2,
 		"value": "Gaza also, and will writhe in agony; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 5,
 		"sectionNumber": 3,
 		"value": "as will Ekron, for her expectation will be disappointed; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 5,
 		"sectionNumber": 4,
 		"value": "and the king will perish from Gaza, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 5,
 		"sectionNumber": 5,
 		"value": "and Ashkelon will not be inhabited. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 5,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "Foreigners will dwell in Ashdod, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 6,
 		"sectionNumber": 2,
 		"value": "and I will cut off the pride of the Philistines. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 6,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "I will take away his blood out of his mouth, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "and his abominations from between his teeth; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 7,
 		"sectionNumber": 3,
 		"value": "and he also will be a remnant for our God; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 7,
 		"sectionNumber": 4,
 		"value": "and he will be as a chieftain in Judah, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 7,
 		"sectionNumber": 5,
 		"value": "and Ekron as a Jebusite. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 7,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "I will encamp around my house against the army, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "that no one pass through or return; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 8,
 		"sectionNumber": 3,
 		"value": "and no oppressor will pass through them any more: "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 8,
 		"sectionNumber": 4,
 		"value": "for now I have seen with my eyes. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 8,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "Rejoice greatly, daughter of Zion! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "Shout, daughter of Jerusalem! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "Behold, your King comes to you! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 9,
 		"sectionNumber": 4,
 		"value": "He is righteous, and having salvation; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 9,
 		"sectionNumber": 5,
 		"value": "lowly, and riding on a donkey, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 9,
 		"sectionNumber": 6,
 		"value": "even on a colt, the foal of a donkey. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 9,
+		"sectionNumber": 7,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "I will cut off the chariot from Ephraim, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "and the horse from Jerusalem; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 10,
 		"sectionNumber": 3,
 		"value": "and the battle bow will be cut off; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 10,
 		"sectionNumber": 4,
 		"value": "and he will speak peace to the nations: "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 10,
 		"sectionNumber": 5,
 		"value": "and his dominion will be from sea to sea, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 10,
 		"sectionNumber": 6,
 		"value": "and from the River to the ends of the earth. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 10,
+		"sectionNumber": 7,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "As for you also, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "because of the blood of your covenant, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 11,
 		"sectionNumber": 3,
 		"value": "I have set free your prisoners from the pit in which is no water. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 11,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "Turn to the stronghold, you prisoners of hope! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 12,
 		"sectionNumber": 2,
 		"value": "Even today I declare that I will restore double to you. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 13,
 		"sectionNumber": 1,
 		"value": "For indeed I bend Judah as a bow for me. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 13,
 		"sectionNumber": 2,
 		"value": "I have filled the bow with Ephraim; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 13,
 		"sectionNumber": 3,
 		"value": "and I will stir up your sons, Zion, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 13,
 		"sectionNumber": 4,
 		"value": "against your sons, Greece, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 13,
 		"sectionNumber": 5,
 		"value": "and will make you like the sword of a mighty man. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 13,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 14,
 		"sectionNumber": 1,
 		"value": "Yahweh will be seen over them; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 14,
 		"sectionNumber": 2,
 		"value": "and his arrow will go flash like lightning; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 14,
 		"sectionNumber": 3,
 		"value": "and the Lord Yahweh will blow the trumpet, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 14,
 		"sectionNumber": 4,
 		"value": "and will go with whirlwinds of the south. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 14,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 15,
 		"sectionNumber": 1,
 		"value": "Yahweh of Armies will defend them; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 15,
 		"sectionNumber": 2,
 		"value": "and they will destroy and overcome with sling stones; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 15,
 		"sectionNumber": 3,
 		"value": "and they will drink, and roar as through wine; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 15,
 		"sectionNumber": 4,
 		"value": "and they will be filled like bowls, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 15,
 		"sectionNumber": 5,
 		"value": "like the corners of the altar. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 15,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "Yahweh their God will save them in that day as the flock of his people; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 16,
 		"sectionNumber": 2,
 		"value": "for they are like the jewels of a crown, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 16,
 		"sectionNumber": 3,
 		"value": "lifted on high over his land. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 16,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "For how great is his goodness, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 17,
 		"sectionNumber": 2,
 		"value": "and how great is his beauty! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 17,
 		"sectionNumber": 3,
 		"value": "Grain will make the young men flourish, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 17,
 		"sectionNumber": 4,
 		"value": "and new wine the virgins. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 17,
+		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Ask of Yahweh rain in the spring time, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 1,
 		"sectionNumber": 2,
 		"value": "Yahweh who makes storm clouds, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 1,
 		"sectionNumber": 3,
 		"value": "and he gives rain showers to everyone for the plants in the field. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 1,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "For the teraphim"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 2,
 		"sectionNumber": 2,
 		"value": " have spoken vanity, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 2,
 		"sectionNumber": 3,
 		"value": "and the diviners have seen a lie; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 2,
 		"sectionNumber": 4,
 		"value": "and they have told false dreams. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 2,
 		"sectionNumber": 5,
 		"value": "They comfort in vain. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 2,
 		"sectionNumber": 6,
 		"value": "Therefore they go their way like sheep. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 2,
 		"sectionNumber": 7,
 		"value": "They are oppressed, because there is no shepherd. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 2,
+		"sectionNumber": 8,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "My anger is kindled against the shepherds, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 3,
 		"sectionNumber": 2,
 		"value": "and I will punish the male goats; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 3,
 		"sectionNumber": 3,
 		"value": "For Yahweh of Armies has visited his flock, the house of Judah, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 3,
 		"sectionNumber": 4,
 		"value": "and will make them as his majestic horse in the battle. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 3,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "From him will come the cornerstone, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 4,
 		"sectionNumber": 2,
 		"value": "from him the nail, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 4,
 		"sectionNumber": 3,
 		"value": "from him the battle bow, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 4,
 		"sectionNumber": 4,
 		"value": "from him every ruler together. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 4,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "They shall be as mighty men, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 5,
 		"sectionNumber": 2,
 		"value": "treading down muddy streets in the battle; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 5,
 		"sectionNumber": 3,
 		"value": "and they shall fight, because Yahweh is with them; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 5,
 		"sectionNumber": 4,
 		"value": "and the riders on horses will be confounded. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 5,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "“I will strengthen the house of Judah, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 6,
 		"sectionNumber": 2,
 		"value": "and I will save the house of Joseph, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 6,
 		"sectionNumber": 3,
 		"value": "and I will bring them back; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 6,
 		"sectionNumber": 4,
 		"value": "for I have mercy on them; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 6,
 		"sectionNumber": 5,
 		"value": "and they will be as though I had not cast them off: "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 6,
 		"sectionNumber": 6,
 		"value": "for I am Yahweh their God, and I will hear them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 6,
+		"sectionNumber": 7,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "Ephraim will be like a mighty man, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "and their heart will rejoice as through wine; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 7,
 		"sectionNumber": 3,
 		"value": "yes, their children will see it, and rejoice. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 7,
 		"sectionNumber": 4,
 		"value": "Their heart will be glad in Yahweh. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 7,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "I will signal for them, and gather them; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "for I have redeemed them; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 8,
 		"sectionNumber": 3,
 		"value": "and they will increase as they have increased. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 8,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "I will sow them among the peoples; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "and they will remember me in far countries; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "and they will live with their children, and will return. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 9,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "I will bring them again also out of the land of Egypt, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "and gather them out of Assyria; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 10,
 		"sectionNumber": 3,
 		"value": "and I will bring them into the land of Gilead and Lebanon; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 10,
 		"sectionNumber": 4,
 		"value": "and there won’t be room enough for them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 10,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "He will pass through the sea of affliction, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "and will strike the waves in the sea, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 11,
 		"sectionNumber": 3,
 		"value": "and all the depths of the Nile will dry up; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 11,
 		"sectionNumber": 4,
 		"value": "and the pride of Assyria will be brought down, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 11,
 		"sectionNumber": 5,
 		"value": "and the scepter of Egypt will depart. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 11,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "I will strengthen them in Yahweh; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 12,
 		"sectionNumber": 2,
 		"value": "and they will walk up and down in his name,” says Yahweh. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 12,
+		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Open your doors, Lebanon, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 1,
 		"sectionNumber": 2,
 		"value": "that the fire may devour your cedars. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 1,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "Wail, cypress tree, for the cedar has fallen, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 2,
 		"sectionNumber": 2,
 		"value": "because the stately ones are destroyed. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 2,
 		"sectionNumber": 3,
 		"value": "Wail, you oaks of Bashan, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 2,
 		"sectionNumber": 4,
 		"value": "for the strong forest has come down. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 2,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "A voice of the wailing of the shepherds! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 3,
 		"sectionNumber": 2,
 		"value": "For their glory is destroyed: a voice of the roaring of young lions! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 3,
 		"sectionNumber": 3,
 		"value": "For the pride of the Jordan is ruined. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2468,95 +3061,155 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 6,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "“Awake, sword, against my shepherd, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "and against the man who is close to me,” says Yahweh of Armies. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 7,
 		"sectionNumber": 3,
 		"value": "“Strike the shepherd, and the sheep will be scattered; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 7,
 		"sectionNumber": 4,
 		"value": "and I will turn my hand against the little ones. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 7,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "It shall happen that in all the land,” says Yahweh, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "“two parts in it will be cut off and die; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 8,
 		"sectionNumber": 3,
 		"value": "but the third will be left in it. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 13,
+		"verseNumber": 8,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "I will bring the third part into the fire, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "and will refine them as silver is refined, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "and will test them like gold is tested. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 9,
 		"sectionNumber": 4,
 		"value": "They will call on my name, and I will hear them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 9,
 		"sectionNumber": 5,
 		"value": "I will say, ‘It is my people;’ "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 13,
 		"verseNumber": 9,
 		"sectionNumber": 6,
 		"value": "and they will say, ‘Yahweh is my God.’ ” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2598,6 +3251,13 @@
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "You shall flee by the valley of my mountains; for the valley of the mountains shall reach to Azel; yes, you shall flee, just like you fled from before the earthquake in the days of Uzziah king of Judah. Yahweh my God will come, and all the holy ones with you."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 5,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",

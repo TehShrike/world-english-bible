@@ -463,53 +463,71 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 16,
 		"sectionNumber": 2,
 		"value": "God"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 16,
 		"sectionNumber": 3,
 		"value": " was revealed in the flesh, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 16,
 		"sectionNumber": 4,
 		"value": "justified in the spirit, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 16,
 		"sectionNumber": 5,
 		"value": "seen by angels, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 16,
 		"sectionNumber": 6,
 		"value": "preached among the nations, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 16,
 		"sectionNumber": 7,
 		"value": "believed on in the world, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 16,
 		"sectionNumber": 8,
 		"value": "and received up in glory. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -807,6 +825,13 @@
 		"value": "“The laborer is worthy of his wages.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 18,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -913,6 +938,13 @@
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "constant friction of people of corrupt minds and destitute of the truth, who suppose that godliness is a means of gain. Withdraw yourself from such. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 5,
+		"sectionNumber": 2,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"

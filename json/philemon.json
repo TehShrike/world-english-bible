@@ -87,6 +87,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
+		"verseNumber": 10,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "who once was useless to you, but now is useful to you and to me.  "

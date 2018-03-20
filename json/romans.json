@@ -143,6 +143,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
+		"verseNumber": 17,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
 		"verseNumber": 18,
 		"sectionNumber": 1,
 		"value": "For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men who suppress the truth in unrighteousness,  "
@@ -304,6 +311,13 @@
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "who “will pay back to everyone according to their works:”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 6,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -526,18 +540,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 4,
 		"sectionNumber": 2,
 		"value": "“that you might be justified in your words, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 4,
 		"sectionNumber": 3,
 		"value": "and might prevail when you come into judgment.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 4,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -600,116 +627,262 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "“There is no one righteous; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 10,
 		"sectionNumber": 3,
 		"value": "no, not one. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 10,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "There is no one who understands. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "There is no one who seeks after God. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "They have all turned away. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 12,
 		"sectionNumber": 2,
 		"value": "They have together become unprofitable. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 12,
 		"sectionNumber": 3,
 		"value": "There is no one who does good, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 12,
 		"sectionNumber": 4,
 		"value": "no, not so much as one.”"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 12,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 12,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 13,
 		"sectionNumber": 1,
 		"value": "“Their throat is an open tomb. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 13,
 		"sectionNumber": 2,
 		"value": "With their tongues they have used deceit.”"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 13,
 		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 13,
+		"sectionNumber": 4,
 		"value": "“The poison of vipers is under their lips.”"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 13,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 13,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 14,
 		"sectionNumber": 1,
 		"value": "“Their mouth is full of cursing and bitterness.”"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 14,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 15,
 		"sectionNumber": 1,
 		"value": "“Their feet are swift to shed blood. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 15,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "Destruction and misery are in their ways. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 16,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "The way of peace, they haven’t known.”"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 17,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 17,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 3,
 		"verseNumber": 18,
 		"sectionNumber": 1,
 		"value": "“There is no fear of God before their eyes.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 3,
+		"verseNumber": 18,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -863,6 +1036,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
+		"verseNumber": 3,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "Now to him who works, the reward is not counted as grace, but as something owed.  "
@@ -888,25 +1068,55 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 4,
+		"verseNumber": 6,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "“Blessed are they whose iniquities are forgiven, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "whose sins are covered. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 4,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "Blessed is the man whom the Lord will by no means charge with sin.” "
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 4,
+		"verseNumber": 8,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -994,6 +1204,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
+		"verseNumber": 18,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
 		"verseNumber": 19,
 		"sectionNumber": 1,
 		"value": "Without being weakened in faith, he didn’t consider his own body, already having been worn out, (he being about a hundred years old), and the deadness of Sarah’s womb.  "
@@ -1018,6 +1235,13 @@
 		"verseNumber": 22,
 		"sectionNumber": 1,
 		"value": "Therefore it also was “credited to him for righteousness.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 22,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -1461,6 +1685,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
+		"verseNumber": 7,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "But sin, finding occasion through the commandment, produced in me all kinds of coveting. For apart from the law, sin is dead.  "
@@ -1602,6 +1833,13 @@
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "There is therefore now no condemnation to those who are in Christ Jesus, who don’t walk according to the flesh, but according to the Spirit."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 1,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -1839,6 +2077,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
+		"verseNumber": 29,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
 		"verseNumber": 30,
 		"sectionNumber": 1,
 		"value": "Whom he predestined, those he also called. Whom he called, those he also justified. Whom he justified, those he also glorified. "
@@ -1904,39 +2149,62 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 36,
 		"sectionNumber": 2,
 		"value": "“For your sake we are killed all day long. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 36,
 		"sectionNumber": 3,
 		"value": "We were accounted as sheep for the slaughter.”"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 8,
+		"verseNumber": 36,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 8,
+		"verseNumber": 36,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 37,
 		"sectionNumber": 1,
 		"value": "No, in all these things, we are more than conquerors through him who loved us.  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 38,
 		"sectionNumber": 1,
 		"value": "For I am persuaded that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 8,
 		"verseNumber": 39,
 		"sectionNumber": 1,
 		"value": "nor height, nor depth, nor any other created thing will be able to separate us from God’s love which is in Christ Jesus our Lord. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2002,6 +2270,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
+		"verseNumber": 7,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "That is, it is not the children of the flesh who are children of God, but the children of the promise are counted as heirs.  "
@@ -2012,6 +2287,13 @@
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "For this is a word of promise, “At the appointed time I will come, and Sarah will have a son.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 9,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -2030,6 +2312,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
+		"verseNumber": 11,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "it was said to her, “The elder will serve the younger.”"
@@ -2037,9 +2326,23 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
+		"verseNumber": 12,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
 		"verseNumber": 13,
 		"sectionNumber": 1,
 		"value": "Even as it is written, “Jacob I loved, but Esau I hated.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 13,
+		"sectionNumber": 2,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -2064,6 +2367,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
+		"verseNumber": 15,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "So then it is not of him who wills, nor of him who runs, but of God who has mercy.  "
@@ -2074,6 +2384,13 @@
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "For the Scripture says to Pharaoh, “For this very purpose I caused you to be raised up, that I might show in you my power, and that my name might be proclaimed in all the earth.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 17,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -2101,6 +2418,13 @@
 		"verseNumber": 20,
 		"sectionNumber": 1,
 		"value": "But indeed, O man, who are you to reply against God? Will the thing formed ask him who formed it, “Why did you make me like this?”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 20,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -2144,32 +2468,65 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 25,
 		"sectionNumber": 2,
 		"value": "“I will call them ‘my people,’ which were not my people; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 25,
 		"sectionNumber": 3,
 		"value": "and her ‘beloved,’ who was not beloved.”"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 25,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 25,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 26,
 		"sectionNumber": 1,
 		"value": "“It will be that in the place where it was said to them, ‘You are not my people,’ "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 26,
 		"sectionNumber": 2,
 		"value": "there they will be called ‘children of the living God.’ ”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2191,32 +2548,58 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 27,
 		"sectionNumber": 2,
 		"value": "“If the number of the children of Israel are as the sand of the sea, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 27,
 		"sectionNumber": 3,
 		"value": "it is the remnant who will be saved; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 27,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 28,
 		"sectionNumber": 1,
 		"value": "for He will finish the work and cut it short in righteousness, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 28,
 		"sectionNumber": 2,
 		"value": "because the LORD will make a short work upon the earth.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 28,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2238,32 +2621,48 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 29,
 		"sectionNumber": 2,
 		"value": "“Unless the Lord of Armies"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 29,
 		"sectionNumber": 3,
 		"value": " had left us a seed, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 29,
 		"sectionNumber": 4,
 		"value": "we would have become like Sodom, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 29,
 		"sectionNumber": 5,
 		"value": "and would have been made like Gomorrah.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 29,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2306,25 +2705,38 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 33,
 		"sectionNumber": 2,
 		"value": "“Behold,"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 33,
 		"sectionNumber": 3,
 		"value": " I lay in Zion a stumbling stone and a rock of offense; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 9,
 		"verseNumber": 33,
 		"sectionNumber": 4,
 		"value": "and no one who believes in him will be disappointed.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 9,
+		"verseNumber": 33,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2373,6 +2785,13 @@
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "For Moses writes about the righteousness of the law, “The one who does them will live by them.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 5,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -2438,6 +2857,13 @@
 		"value": "For the Scripture says, “Whoever believes in him will not be disappointed.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 11,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -2460,6 +2886,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
+		"verseNumber": 13,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
 		"verseNumber": 14,
 		"sectionNumber": 1,
 		"value": "How then will they call on him in whom they have not believed? How will they believe in him whom they have not heard? How will they hear without a preacher?  "
@@ -2478,18 +2911,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 15,
 		"sectionNumber": 2,
 		"value": "“How beautiful are the feet of those who preach the Good News of peace, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 15,
 		"sectionNumber": 3,
 		"value": "who bring glad tidings of good things!”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 15,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2503,6 +2949,13 @@
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "But they didn’t all listen to the glad news. For Isaiah says, “Lord, who has believed our report?”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 16,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -2525,18 +2978,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 18,
 		"sectionNumber": 2,
 		"value": "“Their sound went out into all the earth, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 18,
 		"sectionNumber": 3,
 		"value": "their words to the ends of the world.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 18,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2558,18 +3024,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 19,
 		"sectionNumber": 2,
 		"value": "“I will provoke you to jealousy with that which is no nation. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 19,
 		"sectionNumber": 3,
 		"value": "I will make you angry with a nation void of understanding.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 19,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2591,18 +3070,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 20,
 		"sectionNumber": 2,
 		"value": "“I was found by those who didn’t seek me. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 20,
 		"sectionNumber": 3,
 		"value": "I was revealed to those who didn’t ask for me.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 10,
+		"verseNumber": 20,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2616,6 +3108,13 @@
 		"verseNumber": 21,
 		"sectionNumber": 1,
 		"value": "But about Israel he says, “All day long I stretched out my hands to a disobedient and contrary people.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 21,
+		"sectionNumber": 2,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -2647,9 +3146,23 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
+		"verseNumber": 3,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "But how does God answer him? “I have reserved for myself seven thousand men who have not bowed the knee to Baal.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 4,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -2688,6 +3201,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
+		"verseNumber": 8,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "David says, "
@@ -2699,32 +3219,58 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "“Let their table be made a snare, a trap, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "a stumbling block, and a retribution to them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 9,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "Let their eyes be darkened, that they may not see. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "Always keep their backs bent.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2864,32 +3410,58 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 26,
 		"sectionNumber": 2,
 		"value": "“There will come out of Zion the Deliverer, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 26,
 		"sectionNumber": 3,
 		"value": "and he will turn away ungodliness from Jacob. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 26,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 27,
 		"sectionNumber": 1,
 		"value": "This is my covenant with them, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 27,
 		"sectionNumber": 2,
 		"value": "when I will take away their sins.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 27,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -2952,32 +3524,72 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 33,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 34,
 		"sectionNumber": 1,
 		"value": "“For who has known the mind of the Lord? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 34,
 		"sectionNumber": 2,
 		"value": "Or who has been his counselor?”"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 34,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 34,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 35,
 		"sectionNumber": 1,
 		"value": "“Or who has first given to him, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 11,
 		"verseNumber": 35,
 		"sectionNumber": 2,
 		"value": "and it will be repaid to him again?”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 11,
+		"verseNumber": 35,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -3146,6 +3758,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
+		"verseNumber": 19,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
 		"verseNumber": 20,
 		"sectionNumber": 1,
 		"value": "Therefore "
@@ -3157,25 +3776,41 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 20,
 		"sectionNumber": 2,
 		"value": "“If your enemy is hungry, feed him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 20,
 		"sectionNumber": 3,
 		"value": "If he is thirsty, give him a drink; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 20,
 		"sectionNumber": 4,
 		"value": "for in doing so, you will heap coals of fire on his head.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 20,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -3278,6 +3913,13 @@
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": " and whatever other commandments there are, are all summed up in this saying, namely, “You shall love your neighbor as yourself.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 9,
+		"sectionNumber": 4,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -3422,18 +4064,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 14,
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "“ ‘As I live,’ says the Lord, ‘to me every knee will bow. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 14,
 		"verseNumber": 11,
 		"sectionNumber": 3,
 		"value": "Every tongue will confess to God.’ ”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 14,
+		"verseNumber": 11,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -3565,6 +4220,13 @@
 		"value": "to the only wise God, through Jesus Christ, to whom be the glory forever! Amen."
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 26,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -3590,6 +4252,13 @@
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "For even Christ didn’t please himself. But, as it is written, “The reproaches of those who reproached you fell on me.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 3,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -3653,18 +4322,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "“Therefore I will give praise to you among the Gentiles "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "and sing to your name.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 9,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -3686,11 +4368,21 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "“Rejoice, you Gentiles, with his people.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -3712,18 +4404,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "“Praise the Lord, all you Gentiles! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 11,
 		"sectionNumber": 3,
 		"value": "Let all the peoples praise him.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 11,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -3745,25 +4450,41 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 12,
 		"sectionNumber": 2,
 		"value": "“There will be the root of Jesse, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 12,
 		"sectionNumber": 3,
 		"value": "he who arises to rule over the Gentiles; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 12,
 		"sectionNumber": 4,
 		"value": "in him the Gentiles will hope.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 12,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -3854,18 +4575,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 21,
 		"sectionNumber": 2,
 		"value": "“They will see, to whom no news of him came. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 21,
 		"sectionNumber": 3,
 		"value": "They who haven’t heard will understand.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 21,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -4181,6 +4915,20 @@
 		"verseNumber": 24,
 		"sectionNumber": 1,
 		"value": "The grace of our Lord Jesus Christ be with you all! Amen.  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 25,
+		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 25,
+		"sectionNumber": 2,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"

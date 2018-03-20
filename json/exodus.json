@@ -3475,6 +3475,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
+		"verseNumber": 8,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "The Egyptians pursued them. All the horses and chariots of Pharaoh, his horsemen, and his army overtook them encamping by the sea, beside Pihahiroth, before Baal Zephon. "
@@ -3683,326 +3690,583 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 1,
 		"sectionNumber": 2,
 		"value": "“I will sing to Yahweh, for he has triumphed gloriously. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 1,
 		"sectionNumber": 3,
 		"value": "He has thrown the horse and his rider into the sea. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 1,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "Yah is my strength and song. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 2,
 		"sectionNumber": 2,
 		"value": "He has become my salvation. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 2,
 		"sectionNumber": 3,
 		"value": "This is my God, and I will praise him; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 2,
 		"sectionNumber": 4,
 		"value": "my father’s God, and I will exalt him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 2,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "Yahweh is a man of war. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 3,
 		"sectionNumber": 2,
 		"value": "Yahweh is his name. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 3,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "He has cast Pharaoh’s chariots and his army into the sea. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 4,
 		"sectionNumber": 2,
 		"value": "His chosen captains are sunk in the Red Sea. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "The deeps cover them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 5,
 		"sectionNumber": 2,
 		"value": "They went down into the depths like a stone. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 5,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "Your right hand, Yahweh, is glorious in power. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 6,
 		"sectionNumber": 2,
 		"value": "Your right hand, Yahweh, dashes the enemy in pieces. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 6,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "In the greatness of your excellency, you overthrow those who rise up against you. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "You send out your wrath. It consumes them as stubble. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "With the blast of your nostrils, the waters were piled up. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "The floods stood upright as a heap. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 8,
 		"sectionNumber": 3,
 		"value": "The deeps were congealed in the heart of the sea. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 8,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "The enemy said, ‘I will pursue. I will overtake. I will divide the plunder. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "My desire will be satisfied on them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "I will draw my sword. My hand will destroy them.’ "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 9,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "You blew with your wind. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "The sea covered them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 10,
 		"sectionNumber": 3,
 		"value": "They sank like lead in the mighty waters. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 10,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "Who is like you, Yahweh, among the gods? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "Who is like you, glorious in holiness, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 11,
 		"sectionNumber": 3,
 		"value": "fearful in praises, doing wonders? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 11,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "You stretched out your right hand. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 12,
 		"sectionNumber": 2,
 		"value": "The earth swallowed them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 13,
 		"sectionNumber": 1,
 		"value": "“You, in your loving kindness, have led the people that you have redeemed. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 13,
 		"sectionNumber": 2,
 		"value": "You have guided them in your strength to your holy habitation. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 14,
 		"sectionNumber": 1,
 		"value": "The peoples have heard. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 14,
 		"sectionNumber": 2,
 		"value": "They tremble. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 14,
 		"sectionNumber": 3,
 		"value": "Pangs have taken hold of the inhabitants of Philistia. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 14,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 15,
 		"sectionNumber": 1,
 		"value": "Then the chiefs of Edom were dismayed. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 15,
 		"sectionNumber": 2,
 		"value": "Trembling takes hold of the mighty men of Moab. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 15,
 		"sectionNumber": 3,
 		"value": "All the inhabitants of Canaan have melted away. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 15,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "Terror and dread falls on them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 16,
 		"sectionNumber": 2,
 		"value": "By the greatness of your arm they are as still as a stone, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 16,
 		"sectionNumber": 3,
 		"value": "until your people pass over, Yahweh, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 16,
 		"sectionNumber": 4,
 		"value": "until the people you have purchased pass over. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 16,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "You will bring them in, and plant them in the mountain of your inheritance, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 17,
 		"sectionNumber": 2,
 		"value": "the place, Yahweh, which you have made for yourself to dwell in; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 17,
 		"sectionNumber": 3,
 		"value": "the sanctuary, Lord, which your hands have established. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 17,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 18,
 		"sectionNumber": 1,
 		"value": "Yahweh will reign forever and ever.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -4038,18 +4302,24 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 21,
 		"sectionNumber": 2,
 		"value": "“Sing to Yahweh, for he has triumphed gloriously. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 21,
 		"sectionNumber": 3,
 		"value": "The horse and his rider he has thrown into the sea.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -4070,6 +4340,13 @@
 		"verseNumber": 23,
 		"sectionNumber": 1,
 		"value": "When they came to Marah, they couldn’t drink from the waters of Marah, for they were bitter. Therefore its name was called Marah."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 23,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -4402,6 +4679,13 @@
 		"value": "Now an omer is one tenth of an ephah."
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 36,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -4562,6 +4846,13 @@
 		"verseNumber": 15,
 		"sectionNumber": 1,
 		"value": "Moses built an altar, and called its name “Yahweh our Banner”."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 15,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -7143,6 +7434,13 @@
 		"verseNumber": 1,
 		"sectionNumber": 2,
 		"value": " long, and five cubits wide. The altar shall be square. Its height shall be three cubits."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 27,
+		"verseNumber": 1,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -10606,6 +10904,13 @@
 		"verseNumber": 29,
 		"sectionNumber": 2,
 		"value": " and two thousand four hundred shekels."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 38,
+		"verseNumber": 29,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",

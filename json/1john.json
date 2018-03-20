@@ -316,6 +316,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
+		"verseNumber": 20,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
 		"verseNumber": 21,
 		"sectionNumber": 1,
 		"value": "I have not written to you because you don’t know the truth, but because you know it, and because no lie is of the truth.  "
@@ -800,6 +807,13 @@
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "For there are three who testify:"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 7,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",

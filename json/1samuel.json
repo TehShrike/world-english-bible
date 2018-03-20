@@ -313,253 +313,412 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 2,
 		"value": "“My heart exults in Yahweh! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 3,
 		"value": "My horn is exalted in Yahweh. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 4,
 		"value": "My mouth is enlarged over my enemies, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 5,
 		"value": "because I rejoice in your salvation. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 1,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "There is no one as holy as Yahweh, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 2,
 		"value": "for there is no one besides you, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 3,
 		"value": "nor is there any rock like our God. "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 2,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 3,
 		"sectionNumber": 1,
 		"value": "“Don’t keep talking so exceedingly proudly. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 3,
 		"sectionNumber": 2,
 		"value": "Don’t let arrogance come out of your mouth, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 3,
 		"sectionNumber": 3,
 		"value": "for Yahweh is a God of knowledge. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 3,
 		"sectionNumber": 4,
 		"value": "By him actions are weighed. "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 3,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 4,
 		"sectionNumber": 1,
 		"value": "“The bows of the mighty men are broken. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 4,
 		"sectionNumber": 2,
 		"value": "Those who stumbled are armed with strength. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "Those who were full have hired themselves out for bread. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 2,
 		"value": "Those who were hungry are satisfied. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 3,
 		"value": "Yes, the barren has borne seven. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 4,
 		"value": "She who has many children languishes. "
 	},
 	{
+		"type": "line break"
+	},
+	{
 		"type": "stanza end"
 	},
 	{
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 5,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 1,
 		"value": "“Yahweh kills and makes alive. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 2,
 		"value": "He brings down to Sheol"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 3,
 		"value": " and brings up. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 6,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "Yahweh makes poor and makes rich. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "He brings low, he also lifts up. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "He raises up the poor out of the dust. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "He lifts up the needy from the dunghill "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 3,
 		"value": "to make them sit with princes "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 4,
 		"value": "and inherit the throne of glory. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 5,
 		"value": "For the pillars of the earth are Yahweh’s. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 6,
 		"value": "He has set the world on them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 8,
+		"sectionNumber": 7,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "He will keep the feet of his holy ones, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "but the wicked will be put to silence in darkness; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "for no man will prevail by strength. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 2,
+		"verseNumber": 9,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "Those who strive with Yahweh shall be broken to pieces. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "He will thunder against them in the sky. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -568,25 +727,34 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 10,
 		"sectionNumber": 3,
 		"value": "“Yahweh will judge the ends of the earth. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 10,
 		"sectionNumber": 4,
 		"value": "He will give strength to his king, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 2,
 		"verseNumber": 10,
 		"sectionNumber": 5,
 		"value": "and exalt the horn of his anointed.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -3007,6 +3175,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
+		"verseNumber": 1,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
 		"verseNumber": 2,
 		"sectionNumber": 1,
 		"value": "Saul chose for himself three thousand men of Israel, of which two thousand were with Saul in Michmash and in the Mount of Bethel, and one thousand were with Jonathan in Gibeah of Benjamin. He sent the rest of the people to their own tents.  "
@@ -5019,18 +5194,24 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 18,
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "“Saul has slain his thousands, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 18,
 		"verseNumber": 7,
 		"sectionNumber": 3,
 		"value": "and David his ten thousands.” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -6007,18 +6188,24 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "‘Saul has slain his thousands, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 21,
 		"verseNumber": 11,
 		"sectionNumber": 3,
 		"value": "and David his ten thousands?’ ” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -6610,6 +6797,13 @@
 		"value": "So Saul returned from pursuing David, and went against the Philistines. Therefore they called that place Sela Hammahlekoth."
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 23,
+		"verseNumber": 28,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -7037,6 +7231,13 @@
 		"value": "God do so to the enemies of David, and more also, if I leave of all that belongs to him by the morning light so much as one who urinates on a wall.” "
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 25,
+		"verseNumber": 22,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -7138,6 +7339,13 @@
 		"verseNumber": 34,
 		"sectionNumber": 1,
 		"value": "For indeed, as Yahweh, the God of Israel, lives, who has withheld me from harming you, unless you had hurried and come to meet me, surely there wouldn’t have been left to Nabal by the morning light so much as one who urinates on a wall.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 25,
+		"verseNumber": 34,
+		"sectionNumber": 2,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -8026,18 +8234,24 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 29,
 		"verseNumber": 5,
 		"sectionNumber": 2,
 		"value": "‘Saul has slain his thousands, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 29,
 		"verseNumber": 5,
 		"sectionNumber": 3,
 		"value": "and David his ten thousands?’ ” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"

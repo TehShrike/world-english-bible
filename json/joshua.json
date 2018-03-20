@@ -2618,228 +2618,436 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 8,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "the king of Jericho, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "the king of Ai, which is beside Bethel, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 9,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "the king of Jerusalem, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "the king of Hebron, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "the king of Jarmuth, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "the king of Lachish, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "the king of Eglon, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 12,
 		"sectionNumber": 2,
 		"value": "the king of Gezer, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 13,
 		"sectionNumber": 1,
 		"value": "the king of Debir, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 13,
 		"sectionNumber": 2,
 		"value": "the king of Geder, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 14,
 		"sectionNumber": 1,
 		"value": "the king of Hormah, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 14,
 		"sectionNumber": 2,
 		"value": "the king of Arad, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 15,
 		"sectionNumber": 1,
 		"value": "the king of Libnah, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 15,
 		"sectionNumber": 2,
 		"value": "the king of Adullam, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "the king of Makkedah, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 16,
 		"sectionNumber": 2,
 		"value": "the king of Bethel, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "the king of Tappuah, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 17,
 		"sectionNumber": 2,
 		"value": "the king of Hepher, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 17,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 18,
 		"sectionNumber": 1,
 		"value": "the king of Aphek, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 18,
 		"sectionNumber": 2,
 		"value": "the king of Lassharon, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 19,
 		"sectionNumber": 1,
 		"value": "the king of Madon, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 19,
 		"sectionNumber": 2,
 		"value": "the king of Hazor, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 19,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 20,
 		"sectionNumber": 1,
 		"value": "the king of Shimron Meron, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 20,
 		"sectionNumber": 2,
 		"value": "the king of Achshaph, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 20,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 21,
 		"sectionNumber": 1,
 		"value": "the king of Taanach, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 21,
 		"sectionNumber": 2,
 		"value": "the king of Megiddo, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 21,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 22,
 		"sectionNumber": 1,
 		"value": "the king of Kedesh, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 22,
 		"sectionNumber": 2,
 		"value": "the king of Jokneam in Carmel, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 22,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 23,
 		"sectionNumber": 1,
 		"value": "the king of Dor in the height of Dor, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 23,
 		"sectionNumber": 2,
 		"value": "the king of Goiim in Gilgal, one; "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 23,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 24,
 		"sectionNumber": 1,
 		"value": "the king of Tirzah, one: "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 24,
 		"sectionNumber": 2,
 		"value": "all the kings thirty-one. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -3505,214 +3713,304 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 32,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 33,
 		"sectionNumber": 1,
 		"value": "In the lowland, Eshtaol, Zorah, Ashnah,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 34,
 		"sectionNumber": 1,
 		"value": "Zanoah, En Gannim, Tappuah, Enam,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 35,
 		"sectionNumber": 1,
 		"value": "Jarmuth, Adullam, Socoh, Azekah,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 36,
 		"sectionNumber": 1,
 		"value": "Shaaraim, Adithaim and Gederah (or Gederothaim); fourteen cities with their villages. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 36,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 37,
 		"sectionNumber": 1,
 		"value": "Zenan, Hadashah, Migdal Gad,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 38,
 		"sectionNumber": 1,
 		"value": "Dilean, Mizpah, Joktheel,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 39,
 		"sectionNumber": 1,
 		"value": "Lachish, Bozkath, Eglon,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 40,
 		"sectionNumber": 1,
 		"value": "Cabbon, Lahmam, Chitlish,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 41,
 		"sectionNumber": 1,
 		"value": "Gederoth, Beth Dagon, Naamah, and Makkedah; sixteen cities with their villages. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 41,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 42,
 		"sectionNumber": 1,
 		"value": "Libnah, Ether, Ashan,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 43,
 		"sectionNumber": 1,
 		"value": "Iphtah, Ashnah, Nezib,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 44,
 		"sectionNumber": 1,
 		"value": "Keilah, Achzib, and Mareshah; nine cities with their villages. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 44,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 45,
 		"sectionNumber": 1,
 		"value": "Ekron, with its towns and its villages;  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 46,
 		"sectionNumber": 1,
 		"value": "from Ekron even to the sea, all that were by the side of Ashdod, with their villages.  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 47,
 		"sectionNumber": 1,
 		"value": "Ashdod, its towns and its villages; Gaza, its towns and its villages; to the brook of Egypt, and the great sea with its coastline. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 47,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 48,
 		"sectionNumber": 1,
 		"value": "In the hill country, Shamir, Jattir, Socoh,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 49,
 		"sectionNumber": 1,
 		"value": "Dannah, Kiriath Sannah (which is Debir),  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 50,
 		"sectionNumber": 1,
 		"value": "Anab, Eshtemoh, Anim,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 51,
 		"sectionNumber": 1,
 		"value": "Goshen, Holon, and Giloh; eleven cities with their villages. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 51,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 52,
 		"sectionNumber": 1,
 		"value": "Arab, Dumah, Eshan,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 53,
 		"sectionNumber": 1,
 		"value": "Janim, Beth Tappuah, Aphekah,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 54,
 		"sectionNumber": 1,
 		"value": "Humtah, Kiriath Arba (also called Hebron), and Zior; nine cities with their villages. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 54,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 55,
 		"sectionNumber": 1,
 		"value": "Maon, Carmel, Ziph, Jutah,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 56,
 		"sectionNumber": 1,
 		"value": "Jezreel, Jokdeam, Zanoah,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 57,
 		"sectionNumber": 1,
 		"value": "Kain, Gibeah, and Timnah; ten cities with their villages. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 57,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 58,
 		"sectionNumber": 1,
 		"value": "Halhul, Beth Zur, Gedor,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 59,
 		"sectionNumber": 1,
 		"value": "Maarath, Beth Anoth, and Eltekon; six cities with their villages.  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 60,
 		"sectionNumber": 1,
 		"value": "Kiriath Baal (also called Kiriath Jearim), and Rabbah; two cities with their villages. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 15,
+		"verseNumber": 60,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 61,
 		"sectionNumber": 1,
 		"value": "In the wilderness, Beth Arabah, Middin, Secacah,  "
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 15,
 		"verseNumber": 62,
 		"sectionNumber": 1,
 		"value": "Nibshan, the City of Salt, and En Gedi; six cities with their villages. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"

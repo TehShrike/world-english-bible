@@ -1971,18 +1971,24 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 3,
 		"sectionNumber": 2,
 		"value": "‘I will show myself holy to those who come near me, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 10,
 		"verseNumber": 3,
 		"sectionNumber": 3,
 		"value": "and before all the people I will be glorified.’ ” "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -6250,6 +6256,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 23,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 23,
 		"verseNumber": 14,
 		"sectionNumber": 1,
 		"value": "You must not eat bread, or roasted grain, or fresh grain, until this same day, until you have brought the offering of your God. This is a statute forever throughout your generations in all your dwellings. "
@@ -6512,6 +6525,13 @@
 		"verseNumber": 42,
 		"sectionNumber": 2,
 		"value": " for seven days. All who are native-born in Israel shall dwell in temporary shelters,"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 23,
+		"verseNumber": 42,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -7833,6 +7853,13 @@
 		"verseNumber": 25,
 		"sectionNumber": 2,
 		"value": " to the shekel."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 27,
+		"verseNumber": 25,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"

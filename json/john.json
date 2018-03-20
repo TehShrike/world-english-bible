@@ -403,6 +403,13 @@
 		"value": "“What are you looking for?”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 38,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -412,7 +419,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 38,
-		"sectionNumber": 3,
+		"sectionNumber": 4,
 		"value": "They said to him, “Rabbi” (which is to say, being interpreted, Teacher), “where are you staying?” "
 	},
 	{
@@ -436,6 +443,13 @@
 		"value": "“Come, and see.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 39,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -445,8 +459,15 @@
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 39,
-		"sectionNumber": 3,
+		"sectionNumber": 4,
 		"value": "They came and saw where he was staying, and they stayed with him that day. It was about the tenth hour."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 39,
+		"sectionNumber": 5,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -493,6 +514,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
+		"verseNumber": 42,
+		"sectionNumber": 4,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
 		"verseNumber": 43,
 		"sectionNumber": 1,
 		"value": "On the next day, he was determined to go out into Galilee, and he found Philip. Jesus said to him, "
@@ -503,6 +531,13 @@
 		"verseNumber": 43,
 		"sectionNumber": 2,
 		"value": "“Follow me.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 43,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -565,6 +600,13 @@
 		"value": "“Behold, an Israelite indeed, in whom is no deceit!”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 47,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -596,6 +638,13 @@
 		"verseNumber": 48,
 		"sectionNumber": 3,
 		"value": "“Before Philip called you, when you were under the fig tree, I saw you.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 48,
+		"sectionNumber": 4,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -633,6 +682,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
+		"verseNumber": 50,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
 		"verseNumber": 51,
 		"sectionNumber": 1,
 		"value": "He said to him, "
@@ -643,6 +699,13 @@
 		"verseNumber": 51,
 		"sectionNumber": 2,
 		"value": "“Most certainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 51,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -690,6 +753,13 @@
 		"verseNumber": 4,
 		"sectionNumber": 2,
 		"value": "“Woman, what does that have to do with you and me? My hour has not yet come.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -832,9 +902,23 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "His disciples remembered that it was written, “Zeal for your house will eat me up.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 17,
+		"sectionNumber": 2,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -868,6 +952,13 @@
 		"verseNumber": 19,
 		"sectionNumber": 2,
 		"value": "“Destroy this temple, and in three days I will raise it up.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 2,
+		"verseNumber": 19,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -968,7 +1059,21 @@
 		"chapterNumber": 3,
 		"verseNumber": 3,
 		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 3,
+		"sectionNumber": 4,
 		"value": "he can’t see God’s Kingdom.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 3,
+		"sectionNumber": 5,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -1006,30 +1111,86 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
+		"verseNumber": 5,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
 		"verseNumber": 6,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 6,
+		"sectionNumber": 2,
 		"value": "That which is born of the flesh is flesh. That which is born of the Spirit is spirit. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 6,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 7,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 7,
+		"sectionNumber": 2,
 		"value": "Don’t marvel that I said to you, ‘You must be born anew.’ "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "The wind"
+		"value": " "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 8,
 		"sectionNumber": 2,
+		"value": "The wind"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 8,
+		"sectionNumber": 4,
 		"value": "blows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 8,
+		"sectionNumber": 5,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -1067,79 +1228,240 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
 		"verseNumber": 11,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 11,
+		"sectionNumber": 2,
 		"value": "Most certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 12,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 12,
+		"sectionNumber": 2,
 		"value": "If I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things? "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 13,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 13,
+		"sectionNumber": 2,
 		"value": "No one has ascended into heaven but he who descended out of heaven, the Son of Man, who is in heaven. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 14,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 14,
+		"sectionNumber": 2,
 		"value": "As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 15,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 15,
+		"sectionNumber": 2,
 		"value": "that whoever believes in him should not perish, but have eternal life. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 16,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 16,
+		"sectionNumber": 2,
 		"value": "For God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 17,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 17,
+		"sectionNumber": 2,
 		"value": "For God didn’t send his Son into the world to judge the world, but that the world should be saved through him. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 17,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 18,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 18,
+		"sectionNumber": 2,
 		"value": "He who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 19,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 19,
+		"sectionNumber": 2,
 		"value": "This is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 19,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 20,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 20,
+		"sectionNumber": 2,
 		"value": "For everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 20,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 21,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 21,
+		"sectionNumber": 2,
 		"value": "But he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 21,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -1316,6 +1638,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
+		"verseNumber": 6,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "A woman of Samaria came to draw water. Jesus said to her, "
@@ -1326,6 +1655,13 @@
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "“Give me a drink.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -1366,6 +1702,13 @@
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "“If you knew the gift of God, and who it is who says to you, ‘Give me a drink,’ you would have asked him, and he would have given you living water.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -1410,9 +1753,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
 		"verseNumber": 14,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 14,
+		"sectionNumber": 2,
 		"value": "but whoever drinks of the water that I will give him will never thirst again; but the water that I will give him will become in him a well of water springing up to eternal life.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -1446,6 +1810,13 @@
 		"verseNumber": 16,
 		"sectionNumber": 2,
 		"value": "“Go, call your husband, and come here.” "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -1483,9 +1854,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
+		"verseNumber": 17,
+		"sectionNumber": 4,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
 		"verseNumber": 18,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 18,
+		"sectionNumber": 2,
 		"value": "for you have had five husbands; and he whom you now have is not your husband. This you have said truly.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -1530,23 +1922,72 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
+		"verseNumber": 21,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
 		"verseNumber": 22,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 22,
+		"sectionNumber": 2,
 		"value": "You worship that which you don’t know. We worship that which we know; for salvation is from the Jews. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 22,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 23,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 23,
+		"sectionNumber": 2,
 		"value": "But the hour comes, and now is, when the true worshipers will worship the Father in spirit and truth, for the Father seeks such to be his worshipers. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 23,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 24,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 24,
+		"sectionNumber": 2,
 		"value": "God is spirit, and those who worship him must worship in spirit and truth.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 24,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -1580,6 +2021,13 @@
 		"verseNumber": 26,
 		"sectionNumber": 2,
 		"value": "“I am he, the one who speaks to you.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -1643,6 +2091,13 @@
 		"value": "“I have food to eat that you don’t know about.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 32,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -1678,30 +2133,93 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
+		"verseNumber": 34,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
 		"verseNumber": 35,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 35,
+		"sectionNumber": 2,
 		"value": "Don’t you say, ‘There are yet four months until the harvest?’ Behold, I tell you, lift up your eyes and look at the fields, that they are white for harvest already. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 35,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 36,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 36,
+		"sectionNumber": 2,
 		"value": "He who reaps receives wages and gathers fruit to eternal life; that both he who sows and he who reaps may rejoice together. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 36,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 37,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 37,
+		"sectionNumber": 2,
 		"value": "For in this the saying is true, ‘One sows, and another reaps.’ "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 37,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 38,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 38,
+		"sectionNumber": 2,
 		"value": "I sent you to reap that for which you haven’t labored. Others have labored, and you have entered into their labor.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 38,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -1791,6 +2309,13 @@
 		"verseNumber": 48,
 		"sectionNumber": 2,
 		"value": "“Unless you see signs and wonders, you will in no way believe.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 48,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -1912,6 +2437,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
+		"verseNumber": 4,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "A certain man was there who had been sick for thirty-eight years.  "
@@ -1929,6 +2461,13 @@
 		"verseNumber": 6,
 		"sectionNumber": 2,
 		"value": "“Do you want to be made well?”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 6,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -1962,6 +2501,13 @@
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "“Arise, take up your mat, and walk.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -2084,6 +2630,13 @@
 		"value": "“Behold, you are made well. Sin no more, so that nothing worse happens to you.” "
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -2120,6 +2673,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
+		"verseNumber": 17,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
 		"verseNumber": 18,
 		"sectionNumber": 1,
 		"value": "For this cause therefore the Jews sought all the more to kill him, because he not only broke the Sabbath, but also called God his own Father, making himself equal with God.  "
@@ -2141,30 +2701,93 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
+		"verseNumber": 19,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
 		"verseNumber": 20,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 20,
+		"sectionNumber": 2,
 		"value": "For the Father has affection for the Son, and shows him all things that he himself does. He will show him greater works than these, that you may marvel. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 20,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 21,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 21,
+		"sectionNumber": 2,
 		"value": "For as the Father raises the dead and gives them life, even so the Son also gives life to whom he desires. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 21,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 22,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 22,
+		"sectionNumber": 2,
 		"value": "For the Father judges no one, but he has given all judgment to the Son, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 22,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 23,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 23,
+		"sectionNumber": 2,
 		"value": "that all may honor the Son, even as they honor the Father. He who doesn’t honor the Son doesn’t honor the Father who sent him."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 23,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -2177,49 +2800,147 @@
 		"chapterNumber": 5,
 		"verseNumber": 24,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 24,
+		"sectionNumber": 2,
 		"value": "“Most certainly I tell you, he who hears my word and believes him who sent me has eternal life, and doesn’t come into judgment, but has passed out of death into life. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 24,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 25,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 25,
+		"sectionNumber": 2,
 		"value": "Most certainly I tell you, the hour comes, and now is, when the dead will hear the Son of God’s voice; and those who hear will live. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 25,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 26,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 26,
+		"sectionNumber": 2,
 		"value": "For as the Father has life in himself, even so he gave to the Son also to have life in himself. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 27,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 27,
+		"sectionNumber": 2,
 		"value": "He also gave him authority to execute judgment, because he is a son of man. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 27,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 28,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 28,
+		"sectionNumber": 2,
 		"value": "Don’t marvel at this, for the hour comes in which all who are in the tombs will hear his voice, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 28,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 29,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 29,
+		"sectionNumber": 2,
 		"value": "and will come out; those who have done good, to the resurrection of life; and those who have done evil, to the resurrection of judgment. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 29,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 30,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 30,
+		"sectionNumber": 2,
 		"value": "I can of myself do nothing. As I hear, I judge, and my judgment is righteous; because I don’t seek my own will, but the will of my Father who sent me."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 30,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -2232,56 +2953,168 @@
 		"chapterNumber": 5,
 		"verseNumber": 31,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 31,
+		"sectionNumber": 2,
 		"value": "“If I testify about myself, my witness is not valid. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 31,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 32,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 32,
+		"sectionNumber": 2,
 		"value": "It is another who testifies about me. I know that the testimony which he testifies about me is true. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 32,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 33,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 33,
+		"sectionNumber": 2,
 		"value": "You have sent to John, and he has testified to the truth. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 33,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 34,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 34,
+		"sectionNumber": 2,
 		"value": "But the testimony which I receive is not from man. However, I say these things that you may be saved. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 34,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 35,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 35,
+		"sectionNumber": 2,
 		"value": "He was the burning and shining lamp, and you were willing to rejoice for a while in his light. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 35,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 36,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 36,
+		"sectionNumber": 2,
 		"value": "But the testimony which I have is greater than that of John, for the works which the Father gave me to accomplish, the very works that I do, testify about me, that the Father has sent me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 36,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 37,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 37,
+		"sectionNumber": 2,
 		"value": "The Father himself, who sent me, has testified about me. You have neither heard his voice at any time, nor seen his form. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 37,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 38,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 38,
+		"sectionNumber": 2,
 		"value": "You don’t have his word living in you, because you don’t believe him whom he sent."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 38,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -2294,42 +3127,126 @@
 		"chapterNumber": 5,
 		"verseNumber": 39,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 39,
+		"sectionNumber": 2,
 		"value": "“You search the Scriptures, because you think that in them you have eternal life; and these are they which testify about me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 39,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 40,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 40,
+		"sectionNumber": 2,
 		"value": "Yet you will not come to me, that you may have life. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 40,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 41,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 41,
+		"sectionNumber": 2,
 		"value": "I don’t receive glory from men. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 41,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 42,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 42,
+		"sectionNumber": 2,
 		"value": "But I know you, that you don’t have God’s love in yourselves. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 42,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 43,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 43,
+		"sectionNumber": 2,
 		"value": "I have come in my Father’s name, and you don’t receive me. If another comes in his own name, you will receive him. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 43,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 44,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 44,
+		"sectionNumber": 2,
 		"value": "How can you believe, who receive glory from one another, and you don’t seek the glory that comes from the only God?"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 44,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -2342,21 +3259,63 @@
 		"chapterNumber": 5,
 		"verseNumber": 45,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 45,
+		"sectionNumber": 2,
 		"value": "“Don’t think that I will accuse you to the Father. There is one who accuses you, even Moses, on whom you have set your hope. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 45,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 46,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 46,
+		"sectionNumber": 2,
 		"value": "For if you believed Moses, you would believe me; for he wrote about me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 46,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 47,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 47,
+		"sectionNumber": 2,
 		"value": "But if you don’t believe his writings, how will you believe my words?”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 47,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -2405,6 +3364,13 @@
 		"verseNumber": 5,
 		"sectionNumber": 2,
 		"value": "“Where are we to buy bread, that these may eat?”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 5,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -2504,6 +3470,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
 		"verseNumber": 13,
 		"sectionNumber": 1,
 		"value": "So they gathered them up, and filled twelve baskets with broken pieces from the five barley loaves, which were left over by those who had eaten.  "
@@ -2589,7 +3562,21 @@
 		"chapterNumber": 6,
 		"verseNumber": 20,
 		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 20,
+		"sectionNumber": 4,
 		"value": "Don’t be afraid.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 20,
+		"sectionNumber": 5,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -2655,9 +3642,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
 		"verseNumber": 27,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 27,
+		"sectionNumber": 2,
 		"value": "Don’t work for the food which perishes, but for the food which remains to eternal life, which the Son of Man will give to you. For God the Father has sealed him.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 27,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -2693,6 +3701,13 @@
 		"value": "“This is the work of God, that you believe in him whom he has sent.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 29,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -2720,6 +3735,13 @@
 		"value": " to eat.’ ”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 31,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -2742,9 +3764,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
+		"verseNumber": 32,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
 		"verseNumber": 33,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 33,
+		"sectionNumber": 2,
 		"value": "For the bread of God is that which comes down out of heaven, and gives life to the world.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 33,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -2782,37 +3825,114 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
+		"verseNumber": 35,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
 		"verseNumber": 36,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 36,
+		"sectionNumber": 2,
 		"value": "But I told you that you have seen me, and yet you don’t believe. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 36,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 37,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 37,
+		"sectionNumber": 2,
 		"value": "All those whom the Father gives me will come to me. He who comes to me I will in no way throw out. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 37,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 38,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 38,
+		"sectionNumber": 2,
 		"value": "For I have come down from heaven, not to do my own will, but the will of him who sent me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 38,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 39,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 39,
+		"sectionNumber": 2,
 		"value": "This is the will of my Father who sent me, that of all he has given to me I should lose nothing, but should raise him up at the last day. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 39,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 40,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 40,
+		"sectionNumber": 2,
 		"value": "This is the will of the one who sent me, that everyone who sees the Son, and believes in him, should have eternal life; and I will raise him up at the last day.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 40,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -2837,6 +3957,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
+		"verseNumber": 41,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
 		"verseNumber": 42,
 		"sectionNumber": 1,
 		"value": "They said, “Isn’t this Jesus, the son of Joseph, whose father and mother we know? How then does he say, "
@@ -2847,6 +3974,13 @@
 		"verseNumber": 42,
 		"sectionNumber": 2,
 		"value": "‘I have come down out of heaven?’ ” "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 42,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -2871,65 +4005,198 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
+		"verseNumber": 43,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
 		"verseNumber": 44,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 44,
+		"sectionNumber": 2,
 		"value": "No one can come to me unless the Father who sent me draws him, and I will raise him up in the last day. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 44,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 45,
 		"sectionNumber": 1,
-		"value": "It is written in the prophets, ‘They will all be taught by God.’ "
+		"value": " "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 45,
 		"sectionNumber": 2,
+		"value": "It is written in the prophets, ‘They will all be taught by God.’ "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 45,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 45,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 45,
+		"sectionNumber": 5,
 		"value": "Therefore everyone who hears from the Father and has learned, comes to me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 45,
+		"sectionNumber": 6,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 46,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 46,
+		"sectionNumber": 2,
 		"value": "Not that anyone has seen the Father, except he who is from God. He has seen the Father. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 46,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 47,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 47,
+		"sectionNumber": 2,
 		"value": "Most certainly, I tell you, he who believes in me has eternal life. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 47,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 48,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 48,
+		"sectionNumber": 2,
 		"value": "I am the bread of life. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 48,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 49,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 49,
+		"sectionNumber": 2,
 		"value": "Your fathers ate the manna in the wilderness and they died. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 49,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 50,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 50,
+		"sectionNumber": 2,
 		"value": "This is the bread which comes down out of heaven, that anyone may eat of it and not die. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 50,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 51,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 51,
+		"sectionNumber": 2,
 		"value": "I am the living bread which came down out of heaven. If anyone eats of this bread, he will live forever. Yes, the bread which I will give for the life of the world is my flesh.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 51,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -2967,37 +4234,114 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
+		"verseNumber": 53,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
 		"verseNumber": 54,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 54,
+		"sectionNumber": 2,
 		"value": "He who eats my flesh and drinks my blood has eternal life, and I will raise him up at the last day. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 54,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 55,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 55,
+		"sectionNumber": 2,
 		"value": "For my flesh is food indeed, and my blood is drink indeed. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 55,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 56,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 56,
+		"sectionNumber": 2,
 		"value": "He who eats my flesh and drinks my blood lives in me, and I in him. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 56,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 57,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 57,
+		"sectionNumber": 2,
 		"value": "As the living Father sent me, and I live because of the Father; so he who feeds on me, he will also live because of me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 57,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 58,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 58,
+		"sectionNumber": 2,
 		"value": "This is the bread which came down out of heaven—not as our fathers ate the manna, and died. He who eats this bread will live forever.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 58,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -3042,29 +4386,71 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
+		"verseNumber": 61,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
 		"verseNumber": 62,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 62,
+		"sectionNumber": 2,
 		"value": "Then what if you would see the Son of Man ascending to where he was before? "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 62,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 63,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 63,
+		"sectionNumber": 2,
 		"value": "It is the spirit who gives life. The flesh profits nothing. The words that I speak to you are spirit, and are life. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 63,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 64,
 		"sectionNumber": 1,
-		"value": "But there are some of you who don’t believe.”"
+		"value": " "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 64,
 		"sectionNumber": 2,
+		"value": "But there are some of you who don’t believe.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 64,
+		"sectionNumber": 3,
 		"value": " For Jesus knew from the beginning who they were who didn’t believe, and who it was who would betray him.  "
 	},
 	{
@@ -3080,6 +4466,13 @@
 		"verseNumber": 65,
 		"sectionNumber": 2,
 		"value": "“For this cause I have said to you that no one can come to me, unless it is given to him by my Father.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 65,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3107,6 +4500,13 @@
 		"verseNumber": 67,
 		"sectionNumber": 2,
 		"value": "“You don’t also want to go away, do you?”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 67,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3147,6 +4547,13 @@
 		"verseNumber": 70,
 		"sectionNumber": 2,
 		"value": "“Didn’t I choose you, the twelve, and one of you is a devil?”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 6,
+		"verseNumber": 70,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -3219,16 +4626,51 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
+		"verseNumber": 6,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
 		"verseNumber": 7,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 7,
+		"sectionNumber": 2,
 		"value": "The world can’t hate you, but it hates me, because I testify about it, that its works are evil. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 8,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 8,
+		"sectionNumber": 2,
 		"value": "You go up to the feast. I am not yet going up to this feast, because my time is not yet fulfilled.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3308,23 +4750,72 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
 		"verseNumber": 17,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 17,
+		"sectionNumber": 2,
 		"value": "If anyone desires to do his will, he will know about the teaching, whether it is from God, or if I am speaking from myself. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 17,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 18,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 18,
+		"sectionNumber": 2,
 		"value": "He who speaks from himself seeks his own glory, but he who seeks the glory of him who sent him is true, and no unrighteousness is in him. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 19,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 19,
+		"sectionNumber": 2,
 		"value": "Didn’t Moses give you the law, and yet none of you keeps the law? Why do you seek to kill me?”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 19,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3362,23 +4853,72 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
+		"verseNumber": 21,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
 		"verseNumber": 22,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 22,
+		"sectionNumber": 2,
 		"value": "Moses has given you circumcision (not that it is of Moses, but of the fathers), and on the Sabbath you circumcise a boy. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 22,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 23,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 23,
+		"sectionNumber": 2,
 		"value": "If a boy receives circumcision on the Sabbath, that the law of Moses may not be broken, are you angry with me, because I made a man completely healthy on the Sabbath? "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 23,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 24,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 24,
+		"sectionNumber": 2,
 		"value": "Don’t judge according to appearance, but judge righteous judgment.” "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 24,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3430,9 +4970,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
+		"verseNumber": 28,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
 		"verseNumber": 29,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 29,
+		"sectionNumber": 2,
 		"value": "I know him, because I am from him, and he sent me.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 29,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3484,9 +5045,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
+		"verseNumber": 33,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
 		"verseNumber": 34,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 34,
+		"sectionNumber": 2,
 		"value": "You will seek me, and won’t find me. You can’t come where I am.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 34,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3559,9 +5141,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
+		"verseNumber": 37,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
 		"verseNumber": 38,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 38,
+		"sectionNumber": 2,
 		"value": "He who believes in me, as the Scripture has said, from within him will flow rivers of living water.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 38,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -3713,6 +5316,13 @@
 		"value": "They answered him, “Are you also from Galilee? Search, and see that no prophet has arisen out of Galilee.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 7,
+		"verseNumber": 52,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -3804,6 +5414,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "Again he stooped down and wrote on the ground with his finger. "
@@ -3834,6 +5451,13 @@
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "“Woman, where are your accusers? Did no one condemn you?”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3869,6 +5493,13 @@
 		"value": "“Neither do I condemn you. Go your way. From now on, sin no more.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 11,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -3893,7 +5524,21 @@
 		"chapterNumber": 8,
 		"verseNumber": 12,
 		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 12,
+		"sectionNumber": 4,
 		"value": "He who follows me will not walk in the darkness, but will have the light of life.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 12,
+		"sectionNumber": 5,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3931,30 +5576,93 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
 		"verseNumber": 15,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 15,
+		"sectionNumber": 2,
 		"value": "You judge according to the flesh. I judge no one. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 16,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 16,
+		"sectionNumber": 2,
 		"value": "Even if I do judge, my judgment is true, for I am not alone, but I am with the Father who sent me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 17,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 17,
+		"sectionNumber": 2,
 		"value": "It’s also written in your law that the testimony of two people is valid."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 17,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 18,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 18,
+		"sectionNumber": 2,
 		"value": "I am one who testifies about myself, and the Father who sent me testifies about me.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3992,6 +5700,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
+		"verseNumber": 19,
+		"sectionNumber": 4,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
 		"verseNumber": 20,
 		"sectionNumber": 1,
 		"value": "Jesus spoke these words in the treasury, as he taught in the temple. Yet no one arrested him, because his hour had not yet come.  "
@@ -4009,6 +5724,13 @@
 		"verseNumber": 21,
 		"sectionNumber": 2,
 		"value": "“I am going away, and you will seek me, and you will die in your sins. Where I go, you can’t come.” "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 21,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -4060,16 +5782,44 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
+		"verseNumber": 23,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "I said therefore to you that you will die in your sins; for unless you believe that I am"
+		"value": " "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 24,
 		"sectionNumber": 2,
+		"value": "I said therefore to you that you will die in your sins; for unless you believe that I am"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 24,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 24,
+		"sectionNumber": 4,
 		"value": "he, you will die in your sins.” "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 24,
+		"sectionNumber": 5,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -4107,9 +5857,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
+		"verseNumber": 25,
+		"sectionNumber": 4,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
 		"verseNumber": 26,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 26,
+		"sectionNumber": 2,
 		"value": "I have many things to speak and to judge concerning you. However he who sent me is true; and the things which I heard from him, these I say to the world.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -4141,9 +5912,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
+		"verseNumber": 28,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
 		"verseNumber": 29,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 29,
+		"sectionNumber": 2,
 		"value": "He who sent me is with me. The Father hasn’t left me alone, for I always do the things that are pleasing to him.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 29,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -4175,9 +5967,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
+		"verseNumber": 31,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
 		"verseNumber": 32,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 32,
+		"sectionNumber": 2,
 		"value": "You will know the truth, and the truth will make you free.” "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 32,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -4229,30 +6042,93 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
+		"verseNumber": 34,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
 		"verseNumber": 35,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 35,
+		"sectionNumber": 2,
 		"value": "A bondservant doesn’t live in the house forever. A son remains forever. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 35,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 36,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 36,
+		"sectionNumber": 2,
 		"value": "If therefore the Son makes you free, you will be free indeed. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 36,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 37,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 37,
+		"sectionNumber": 2,
 		"value": "I know that you are Abraham’s offspring, yet you seek to kill me, because my word finds no place in you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 37,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 38,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 38,
+		"sectionNumber": 2,
 		"value": "I say the things which I have seen with my Father; and you also do the things which you have seen with your father.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 38,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -4290,16 +6166,51 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
+		"verseNumber": 39,
+		"sectionNumber": 4,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
 		"verseNumber": 40,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 40,
+		"sectionNumber": 2,
 		"value": "But now you seek to kill me, a man who has told you the truth which I heard from God. Abraham didn’t do this. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 40,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 41,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 41,
+		"sectionNumber": 2,
 		"value": "You do the works of your father.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 41,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -4311,7 +6222,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 41,
-		"sectionNumber": 2,
+		"sectionNumber": 4,
 		"value": "They said to him, “We were not born of sexual immorality. We have one Father, God.” "
 	},
 	{
@@ -4337,37 +6248,114 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
+		"verseNumber": 42,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
 		"verseNumber": 43,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 43,
+		"sectionNumber": 2,
 		"value": "Why don’t you understand my speech? Because you can’t hear my word. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 43,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 44,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 44,
+		"sectionNumber": 2,
 		"value": "You are of your father, the devil, and you want to do the desires of your father. He was a murderer from the beginning, and doesn’t stand in the truth, because there is no truth in him. When he speaks a lie, he speaks on his own; for he is a liar, and the father of lies. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 44,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 45,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 45,
+		"sectionNumber": 2,
 		"value": "But because I tell the truth, you don’t believe me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 45,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 46,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 46,
+		"sectionNumber": 2,
 		"value": "Which of you convicts me of sin? If I tell the truth, why do you not believe me? "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 46,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 47,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 47,
+		"sectionNumber": 2,
 		"value": "He who is of God hears the words of God. For this cause you don’t hear, because you are not of God.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 47,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -4405,16 +6393,51 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
+		"verseNumber": 49,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
 		"verseNumber": 50,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 50,
+		"sectionNumber": 2,
 		"value": "But I don’t seek my own glory. There is one who seeks and judges. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 50,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 51,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 51,
+		"sectionNumber": 2,
 		"value": "Most certainly, I tell you, if a person keeps my word, he will never see death.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 51,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -4435,6 +6458,13 @@
 		"verseNumber": 52,
 		"sectionNumber": 2,
 		"value": "‘If a man keeps my word, he will never taste of death.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 52,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -4466,16 +6496,51 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
+		"verseNumber": 54,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
 		"verseNumber": 55,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 55,
+		"sectionNumber": 2,
 		"value": "You have not known him, but I know him. If I said, ‘I don’t know him,’ I would be like you, a liar. But I know him and keep his word. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 55,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 56,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 56,
+		"sectionNumber": 2,
 		"value": "Your father Abraham rejoiced to see my day. He saw it, and was glad.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 56,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -4516,6 +6581,13 @@
 		"verseNumber": 58,
 		"sectionNumber": 3,
 		"value": "”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 8,
+		"verseNumber": 58,
+		"sectionNumber": 4,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -4573,16 +6645,51 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
+		"verseNumber": 3,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
 		"verseNumber": 4,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 4,
+		"sectionNumber": 2,
 		"value": "I must work the works of him who sent me while it is day. The night is coming, when no one can work. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 5,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 5,
+		"sectionNumber": 2,
 		"value": "While I am in the world, I am the light of the world.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 5,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -4908,6 +7015,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
+		"verseNumber": 31,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
 		"verseNumber": 32,
 		"sectionNumber": 1,
 		"value": "Since the world began it has never been heard of that anyone opened the eyes of someone born blind.  "
@@ -4953,6 +7067,13 @@
 		"value": "“Do you believe in the Son of God?”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 35,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -4984,6 +7105,13 @@
 		"verseNumber": 37,
 		"sectionNumber": 2,
 		"value": "“You have both seen him, and it is he who speaks with you.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 37,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -5019,6 +7147,13 @@
 		"value": "“I came into this world for judgment, that those who don’t see may see; and that those who see may become blind.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 39,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -5052,6 +7187,13 @@
 		"value": "“If you were blind, you would have no sin; but now you say, ‘We see.’ Therefore your sin remains."
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 41,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -5062,35 +7204,105 @@
 		"chapterNumber": 10,
 		"verseNumber": 1,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 1,
+		"sectionNumber": 2,
 		"value": "“Most certainly, I tell you, one who doesn’t enter by the door into the sheep fold, but climbs up some other way, is a thief and a robber. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 1,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 2,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 2,
+		"sectionNumber": 2,
 		"value": "But one who enters in by the door is the shepherd of the sheep. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 2,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 3,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 3,
+		"sectionNumber": 2,
 		"value": "The gatekeeper opens the gate for him, and the sheep listen to his voice. He calls his own sheep by name, and leads them out. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 3,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 4,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 4,
+		"sectionNumber": 2,
 		"value": "Whenever he brings out his own sheep, he goes before them, and the sheep follow him, for they know his voice. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 5,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 5,
+		"sectionNumber": 2,
 		"value": "They will by no means follow a stranger, but will flee from him; for they don’t know the voice of strangers.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 5,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -5122,100 +7334,282 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
 		"verseNumber": 8,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 8,
+		"sectionNumber": 2,
 		"value": "All who came before me are thieves and robbers, but the sheep didn’t listen to them. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 9,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 9,
+		"sectionNumber": 2,
 		"value": "I am the door. If anyone enters in by me, he will be saved, and will go in and go out, and will find pasture. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 9,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 10,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 10,
+		"sectionNumber": 2,
 		"value": "The thief only comes to steal, kill, and destroy. I came that they may have life, and may have it abundantly. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 11,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 11,
+		"sectionNumber": 2,
 		"value": "I am the good shepherd."
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 11,
-		"sectionNumber": 2,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 11,
+		"sectionNumber": 4,
 		"value": "The good shepherd lays down his life for the sheep. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 11,
+		"sectionNumber": 5,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 12,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 12,
+		"sectionNumber": 2,
 		"value": "He who is a hired hand, and not a shepherd, who doesn’t own the sheep, sees the wolf coming, leaves the sheep, and flees. The wolf snatches the sheep, and scatters them. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 13,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 13,
+		"sectionNumber": 2,
 		"value": "The hired hand flees because he is a hired hand, and doesn’t care for the sheep. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 14,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 14,
+		"sectionNumber": 2,
 		"value": "I am the good shepherd. I know my own, and I’m known by my own; "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 15,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 15,
+		"sectionNumber": 2,
 		"value": "even as the Father knows me, and I know the Father. I lay down my life for the sheep. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 16,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 16,
+		"sectionNumber": 2,
 		"value": "I have other sheep, which are not of this fold."
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 16,
-		"sectionNumber": 2,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 16,
+		"sectionNumber": 4,
 		"value": "I must bring them also, and they will hear my voice. They will become one flock with one shepherd. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 16,
+		"sectionNumber": 5,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 17,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 17,
+		"sectionNumber": 2,
 		"value": "Therefore the Father loves me, because I lay down my life, "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 17,
-		"sectionNumber": 2,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 17,
+		"sectionNumber": 4,
 		"value": "that I may take it again. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 17,
+		"sectionNumber": 5,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 18,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 18,
+		"sectionNumber": 2,
 		"value": "No one takes it away from me, but I lay it down by myself. I have power to lay it down, and I have power to take it again. I received this commandment from my Father.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -5243,6 +7637,13 @@
 		"verseNumber": 21,
 		"sectionNumber": 1,
 		"value": "Others said, “These are not the sayings of one possessed by a demon. It isn’t possible for a demon to open the eyes of the blind, is it?”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 21,
+		"sectionNumber": 2,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -5301,37 +7702,114 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
+		"verseNumber": 25,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
 		"verseNumber": 26,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 26,
+		"sectionNumber": 2,
 		"value": "But you don’t believe, because you are not of my sheep, as I told you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 27,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 27,
+		"sectionNumber": 2,
 		"value": "My sheep hear my voice, and I know them, and they follow me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 27,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 28,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 28,
+		"sectionNumber": 2,
 		"value": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 28,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 29,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 29,
+		"sectionNumber": 2,
 		"value": "My Father who has given them to me is greater than all. No one is able to snatch them out of my Father’s hand. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 29,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 30,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 30,
+		"sectionNumber": 2,
 		"value": "I and the Father are one.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 30,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -5359,6 +7837,13 @@
 		"verseNumber": 32,
 		"sectionNumber": 2,
 		"value": "“I have shown you many good works from my Father. For which of those works do you stone me?”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 32,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -5396,30 +7881,93 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
+		"verseNumber": 34,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
 		"verseNumber": 35,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 35,
+		"sectionNumber": 2,
 		"value": "If he called them gods, to whom the word of God came (and the Scripture can’t be broken), "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 35,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 36,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 36,
+		"sectionNumber": 2,
 		"value": "do you say of him whom the Father sanctified and sent into the world, ‘You blaspheme,’ because I said, ‘I am the Son of God?’ "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 36,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 37,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 37,
+		"sectionNumber": 2,
 		"value": "If I don’t do the works of my Father, don’t believe me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 37,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 38,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 38,
+		"sectionNumber": 2,
 		"value": "But if I do them, though you don’t believe me, believe the works, that you may know and believe that the Father is in me, and I in the Father.” "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 38,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -5499,6 +8047,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
 		"verseNumber": 5,
 		"sectionNumber": 1,
 		"value": "Now Jesus loved Martha, and her sister, and Lazarus.  "
@@ -5523,6 +8078,13 @@
 		"verseNumber": 7,
 		"sectionNumber": 2,
 		"value": "“Let’s go into Judea again.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -5560,9 +8122,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
+		"verseNumber": 9,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
 		"verseNumber": 10,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 10,
+		"sectionNumber": 2,
 		"value": "But if a man walks in the night, he stumbles, because the light isn’t in him.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -5577,6 +8160,13 @@
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "“Our friend, Lazarus, has fallen asleep, but I am going so that I may awake him out of sleep.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -5621,9 +8211,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
 		"verseNumber": 15,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 15,
+		"sectionNumber": 2,
 		"value": "I am glad for your sakes that I was not there, so that you may believe. Nevertheless, let’s go to him.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -5715,6 +8326,13 @@
 		"value": "“Your brother will rise again.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 23,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -5750,9 +8368,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
+		"verseNumber": 25,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
 		"verseNumber": 26,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 26,
+		"sectionNumber": 2,
 		"value": "Whoever lives and believes in me will never die. Do you believe this?”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -5842,6 +8481,13 @@
 		"value": "“Where have you laid him?”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 34,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -5851,7 +8497,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 34,
-		"sectionNumber": 3,
+		"sectionNumber": 4,
 		"value": "They told him, “Lord, come and see.” "
 	},
 	{
@@ -5915,6 +8561,13 @@
 		"value": "“Take away the stone.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 39,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -5924,7 +8577,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 39,
-		"sectionNumber": 3,
+		"sectionNumber": 4,
 		"value": "Martha, the sister of him who was dead, said to him, “Lord, by this time there is a stench, for he has been dead four days.” "
 	},
 	{
@@ -5946,6 +8599,13 @@
 		"verseNumber": 40,
 		"sectionNumber": 2,
 		"value": "“Didn’t I tell you that if you believed, you would see God’s glory?”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 40,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -5977,9 +8637,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
+		"verseNumber": 41,
+		"sectionNumber": 4,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
 		"verseNumber": 42,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 42,
+		"sectionNumber": 2,
 		"value": "I know that you always listen to me, but because of the multitude standing around I said this, that they may believe that you sent me.” "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 42,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -5994,6 +8675,13 @@
 		"verseNumber": 43,
 		"sectionNumber": 2,
 		"value": "“Lazarus, come out!”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 43,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -6027,6 +8715,13 @@
 		"verseNumber": 44,
 		"sectionNumber": 3,
 		"value": "“Free him, and let him go.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 44,
+		"sectionNumber": 4,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -6216,9 +8911,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
 		"verseNumber": 8,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 8,
+		"sectionNumber": 2,
 		"value": "For you always have the poor with you, but you don’t always have me.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -6304,6 +9020,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
+		"verseNumber": 15,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "His disciples didn’t understand these things at first, but when Jesus was glorified, then they remembered that these things were written about him, and that they had done these things to him.  "
@@ -6373,23 +9096,72 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
+		"verseNumber": 23,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
 		"verseNumber": 24,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 24,
+		"sectionNumber": 2,
 		"value": "Most certainly I tell you, unless a grain of wheat falls into the earth and dies, it remains by itself alone. But if it dies, it bears much fruit. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 24,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 25,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 25,
+		"sectionNumber": 2,
 		"value": "He who loves his life will lose it. He who hates his life in this world will keep it to eternal life. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 25,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 26,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 26,
+		"sectionNumber": 2,
 		"value": "If anyone serves me, let him follow me. Where I am, there my servant will also be. If anyone serves me, the Father will honor him."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -6402,14 +9174,42 @@
 		"chapterNumber": 12,
 		"verseNumber": 27,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 27,
+		"sectionNumber": 2,
 		"value": "“Now my soul is troubled. What shall I say? ‘Father, save me from this time?’ But I came to this time for this cause. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 27,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 28,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 28,
+		"sectionNumber": 2,
 		"value": "Father, glorify your name!”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 28,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -6421,7 +9221,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 28,
-		"sectionNumber": 2,
+		"sectionNumber": 4,
 		"value": "Then a voice came out of the sky, saying, “I have both glorified it, and will glorify it again.” "
 	},
 	{
@@ -6460,16 +9260,51 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
+		"verseNumber": 30,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
 		"verseNumber": 31,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 31,
+		"sectionNumber": 2,
 		"value": "Now is the judgment of this world. Now the prince of this world will be cast out. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 31,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 32,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 32,
+		"sectionNumber": 2,
 		"value": "And I, if I am lifted up from the earth, will draw all people to myself.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 32,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -6529,15 +9364,29 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
+		"verseNumber": 35,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
 		"verseNumber": 36,
 		"sectionNumber": 1,
-		"value": "While you have the light, believe in the light, that you may become children of light.”"
+		"value": " "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 36,
 		"sectionNumber": 2,
+		"value": "While you have the light, believe in the light, that you may become children of light.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 36,
+		"sectionNumber": 3,
 		"value": " Jesus said these things, and he departed and hid himself from them.  "
 	},
 	{
@@ -6561,18 +9410,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 38,
 		"sectionNumber": 2,
 		"value": "“Lord, who has believed our report? "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 38,
 		"sectionNumber": 3,
 		"value": "To whom has the arm of the Lord been revealed?”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 38,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -6594,39 +9456,68 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 39,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 40,
 		"sectionNumber": 1,
 		"value": "“He has blinded their eyes and he hardened their heart, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 40,
 		"sectionNumber": 2,
 		"value": "lest they should see with their eyes, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 40,
 		"sectionNumber": 3,
 		"value": "and perceive with their heart, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 40,
 		"sectionNumber": 4,
 		"value": "and would turn, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 12,
 		"verseNumber": 40,
 		"sectionNumber": 5,
 		"value": "and I would heal them.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 12,
+		"verseNumber": 40,
+		"sectionNumber": 6,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -6640,6 +9531,13 @@
 		"verseNumber": 41,
 		"sectionNumber": 1,
 		"value": "Isaiah said these things when he saw his glory, and spoke of him. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 41,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -6678,44 +9576,135 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
+		"verseNumber": 44,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
 		"verseNumber": 45,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 45,
+		"sectionNumber": 2,
 		"value": "He who sees me sees him who sent me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 45,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 46,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 46,
+		"sectionNumber": 2,
 		"value": "I have come as a light into the world, that whoever believes in me may not remain in the darkness. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 46,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 47,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 47,
+		"sectionNumber": 2,
 		"value": "If anyone listens to my sayings, and doesn’t believe, I don’t judge him. For I came not to judge the world, but to save the world. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 47,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 48,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 48,
+		"sectionNumber": 2,
 		"value": "He who rejects me, and doesn’t receive my sayings, has one who judges him. The word that I spoke will judge him in the last day. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 48,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 49,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 49,
+		"sectionNumber": 2,
 		"value": "For I spoke not from myself, but the Father who sent me, he gave me a commandment, what I should say, and what I should speak. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 49,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 50,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 50,
+		"sectionNumber": 2,
 		"value": "I know that his commandment is eternal life. The things therefore which I speak, even as the Father has said to me, so I speak.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 50,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -6786,6 +9775,13 @@
 		"value": "“You don’t know what I am doing now, but you will understand later.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -6817,6 +9813,13 @@
 		"verseNumber": 8,
 		"sectionNumber": 3,
 		"value": "“If I don’t wash you, you have no part with me.” "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 8,
+		"sectionNumber": 4,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -6854,6 +9857,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "For he knew him who would betray him, therefore he said, "
@@ -6864,6 +9874,13 @@
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "“You are not all clean.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -6882,58 +9899,177 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
 		"verseNumber": 13,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 13,
+		"sectionNumber": 2,
 		"value": "You call me, ‘Teacher’ and ‘Lord.’ You say so correctly, for so I am. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 14,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 14,
+		"sectionNumber": 2,
 		"value": "If I then, the Lord and the Teacher, have washed your feet, you also ought to wash one another’s feet. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 15,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 15,
+		"sectionNumber": 2,
 		"value": "For I have given you an example, that you should also do as I have done to you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 16,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 16,
+		"sectionNumber": 2,
 		"value": "Most certainly I tell you, a servant is not greater than his lord, neither is one who is sent greater than he who sent him. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 17,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 17,
+		"sectionNumber": 2,
 		"value": "If you know these things, blessed are you if you do them. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 17,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 18,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 18,
+		"sectionNumber": 2,
 		"value": "I don’t speak concerning all of you. I know whom I have chosen. But that the Scripture may be fulfilled, ‘He who eats bread with me has lifted up his heel against me.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 19,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 19,
+		"sectionNumber": 2,
 		"value": "From now on, I tell you before it happens, that when it happens, you may believe that I am he. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 19,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 20,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 20,
+		"sectionNumber": 2,
 		"value": "Most certainly I tell you, he who receives whomever I send, receives me; and he who receives me, receives him who sent me.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 20,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -6954,6 +10090,13 @@
 		"verseNumber": 21,
 		"sectionNumber": 2,
 		"value": "“Most certainly I tell you that one of you will betray me.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 21,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -7050,6 +10193,13 @@
 		"value": "“What you do, do quickly.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 27,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -7099,30 +10249,93 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
+		"verseNumber": 31,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
 		"verseNumber": 32,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 32,
+		"sectionNumber": 2,
 		"value": "If God has been glorified in him, God will also glorify him in himself, and he will glorify him immediately. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 32,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 33,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 33,
+		"sectionNumber": 2,
 		"value": "Little children, I will be with you a little while longer. You will seek me, and as I said to the Jews, ‘Where I am going, you can’t come,’ so now I tell you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 33,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 34,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 34,
+		"sectionNumber": 2,
 		"value": "A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 34,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 35,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 35,
+		"sectionNumber": 2,
 		"value": "By this everyone will know that you are my disciples, if you have love for one another.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 35,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -7158,6 +10371,13 @@
 		"value": "“Where I am going, you can’t follow now, but you will follow afterwards.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 36,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -7191,6 +10411,13 @@
 		"value": "“Will you lay down your life for me? Most certainly I tell you, the rooster won’t crow until you have denied me three times."
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 13,
+		"verseNumber": 38,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -7201,28 +10428,84 @@
 		"chapterNumber": 14,
 		"verseNumber": 1,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 1,
+		"sectionNumber": 2,
 		"value": "“Don’t let your heart be troubled. Believe in God. Believe also in me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 1,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 2,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 2,
+		"sectionNumber": 2,
 		"value": "In my Father’s house are many homes. If it weren’t so, I would have told you. I am going to prepare a place for you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 2,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 3,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 3,
+		"sectionNumber": 2,
 		"value": "If I go and prepare a place for you, I will come again, and will receive you to myself; that where I am, you may be there also. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 3,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 4,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 4,
+		"sectionNumber": 2,
 		"value": "You know where I go, and you know the way.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -7260,9 +10543,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
+		"verseNumber": 6,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
 		"verseNumber": 7,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 7,
+		"sectionNumber": 2,
 		"value": "If you had known me, you would have known my Father also. From now on, you know him, and have seen him.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -7300,93 +10604,275 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
+		"verseNumber": 9,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
 		"verseNumber": 10,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 10,
+		"sectionNumber": 2,
 		"value": "Don’t you believe that I am in the Father, and the Father in me? The words that I tell you, I speak not from myself; but the Father who lives in me does his works. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 11,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 11,
+		"sectionNumber": 2,
 		"value": "Believe me that I am in the Father, and the Father in me; or else believe me for the very works’ sake. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 12,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 12,
+		"sectionNumber": 2,
 		"value": "Most certainly I tell you, he who believes in me, the works that I do, he will do also; and he will do greater works than these, because I am going to my Father. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 13,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 13,
+		"sectionNumber": 2,
 		"value": "Whatever you will ask in my name, I will do it, that the Father may be glorified in the Son. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 14,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 14,
+		"sectionNumber": 2,
 		"value": "If you will ask anything in my name, I will do it. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 15,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 15,
+		"sectionNumber": 2,
 		"value": "If you love me, keep my commandments. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "I will pray to the Father, and he will give you another Counselor, "
+		"value": " "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 16,
 		"sectionNumber": 2,
+		"value": "I will pray to the Father, and he will give you another Counselor, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 16,
+		"sectionNumber": 4,
 		"value": "that he may be with you forever:"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 16,
+		"sectionNumber": 5,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 17,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 17,
+		"sectionNumber": 2,
 		"value": "the Spirit of truth, whom the world can’t receive; for it doesn’t see him and doesn’t know him. You know him, for he lives with you, and will be in you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 17,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 18,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 18,
+		"sectionNumber": 2,
 		"value": "I will not leave you orphans. I will come to you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 19,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 19,
+		"sectionNumber": 2,
 		"value": "Yet a little while, and the world will see me no more; but you will see me. Because I live, you will live also. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 19,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 20,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 20,
+		"sectionNumber": 2,
 		"value": "In that day you will know that I am in my Father, and you in me, and I in you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 20,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 21,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 21,
+		"sectionNumber": 2,
 		"value": "One who has my commandments and keeps them, that person is one who loves me. One who loves me will be loved by my Father, and I will love him, and will reveal myself to him.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 21,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -7424,58 +10910,177 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
+		"verseNumber": 23,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
 		"verseNumber": 24,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 24,
+		"sectionNumber": 2,
 		"value": "He who doesn’t love me doesn’t keep my words. The word which you hear isn’t mine, but the Father’s who sent me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 24,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 25,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 25,
+		"sectionNumber": 2,
 		"value": "I have said these things to you while still living with you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 25,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 26,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 26,
+		"sectionNumber": 2,
 		"value": "But the Counselor, the Holy Spirit, whom the Father will send in my name, will teach you all things, and will remind you of all that I said to you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 27,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 27,
+		"sectionNumber": 2,
 		"value": "Peace I leave with you. My peace I give to you; not as the world gives, I give to you. Don’t let your heart be troubled, neither let it be fearful. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 27,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 28,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 28,
+		"sectionNumber": 2,
 		"value": "You heard how I told you, ‘I go away, and I come to you.’ If you loved me, you would have rejoiced, because I said ‘I am going to my Father;’ for the Father is greater than I. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 28,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 29,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 29,
+		"sectionNumber": 2,
 		"value": "Now I have told you before it happens so that when it happens, you may believe. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 29,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 30,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 30,
+		"sectionNumber": 2,
 		"value": "I will no more speak much with you, for the prince of the world comes, and he has nothing in me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 30,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 31,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 31,
+		"sectionNumber": 2,
 		"value": "But that the world may know that I love the Father, and as the Father commanded me, even so I do. Arise, let’s go from here."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
+		"verseNumber": 31,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -7488,49 +11093,147 @@
 		"chapterNumber": 15,
 		"verseNumber": 1,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 1,
+		"sectionNumber": 2,
 		"value": "“I am the true vine, and my Father is the farmer. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 1,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 2,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 2,
+		"sectionNumber": 2,
 		"value": "Every branch in me that doesn’t bear fruit, he takes away. Every branch that bears fruit, he prunes, that it may bear more fruit. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 2,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 3,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 3,
+		"sectionNumber": 2,
 		"value": "You are already pruned clean because of the word which I have spoken to you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 3,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 4,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 4,
+		"sectionNumber": 2,
 		"value": "Remain in me, and I in you. As the branch can’t bear fruit by itself unless it remains in the vine, so neither can you, unless you remain in me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 5,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 5,
+		"sectionNumber": 2,
 		"value": "I am the vine. You are the branches. He who remains in me and I in him bears much fruit, for apart from me you can do nothing. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 5,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 6,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 6,
+		"sectionNumber": 2,
 		"value": "If a man doesn’t remain in me, he is thrown out as a branch and is withered; and they gather them, throw them into the fire, and they are burned. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 6,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 7,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 7,
+		"sectionNumber": 2,
 		"value": "If you remain in me, and my words remain in you, you will ask whatever you desire, and it will be done for you."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -7543,28 +11246,84 @@
 		"chapterNumber": 15,
 		"verseNumber": 8,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 8,
+		"sectionNumber": 2,
 		"value": "“In this my Father is glorified, that you bear much fruit; and so you will be my disciples. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 9,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 9,
+		"sectionNumber": 2,
 		"value": "Even as the Father has loved me, I also have loved you. Remain in my love. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 9,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 10,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 10,
+		"sectionNumber": 2,
 		"value": "If you keep my commandments, you will remain in my love; even as I have kept my Father’s commandments, and remain in his love. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 11,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 11,
+		"sectionNumber": 2,
 		"value": "I have spoken these things to you, that my joy may remain in you, and that your joy may be made full."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -7577,35 +11336,105 @@
 		"chapterNumber": 15,
 		"verseNumber": 12,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 12,
+		"sectionNumber": 2,
 		"value": "“This is my commandment, that you love one another, even as I have loved you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 13,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 13,
+		"sectionNumber": 2,
 		"value": "Greater love has no one than this, that someone lay down his life for his friends. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 14,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 14,
+		"sectionNumber": 2,
 		"value": "You are my friends, if you do whatever I command you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 15,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 15,
+		"sectionNumber": 2,
 		"value": "No longer do I call you servants, for the servant doesn’t know what his lord does. But I have called you friends, for everything that I heard from my Father, I have made known to you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 16,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 16,
+		"sectionNumber": 2,
 		"value": "You didn’t choose me, but I chose you and appointed you, that you should go and bear fruit, and that your fruit should remain; that whatever you will ask of the Father in my name, he may give it to you."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -7618,70 +11447,203 @@
 		"chapterNumber": 15,
 		"verseNumber": 17,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 17,
+		"sectionNumber": 2,
 		"value": "“I command these things to you, that you may love one another. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 17,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 18,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 18,
+		"sectionNumber": 2,
 		"value": "If the world hates you, you know that it has hated me before it hated you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 19,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 19,
+		"sectionNumber": 2,
 		"value": "If you were of the world, the world would love its own. But because you are not of the world, since I chose you out of the world, therefore the world hates you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 19,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "Remember the word that I said to you: ‘A servant is not greater than his lord.’"
+		"value": " "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 20,
 		"sectionNumber": 2,
+		"value": "Remember the word that I said to you: ‘A servant is not greater than his lord.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 20,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 20,
+		"sectionNumber": 4,
 		"value": "If they persecuted me, they will also persecute you. If they kept my word, they will also keep yours. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 20,
+		"sectionNumber": 5,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 21,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 21,
+		"sectionNumber": 2,
 		"value": "But they will do all these things to you for my name’s sake, because they don’t know him who sent me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 21,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 22,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 22,
+		"sectionNumber": 2,
 		"value": "If I had not come and spoken to them, they would not have had sin; but now they have no excuse for their sin. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 22,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 23,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 23,
+		"sectionNumber": 2,
 		"value": "He who hates me, hates my Father also. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 23,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 24,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 24,
+		"sectionNumber": 2,
 		"value": "If I hadn’t done among them the works which no one else did, they wouldn’t have had sin. But now they have seen and also hated both me and my Father. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 24,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 25,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 25,
+		"sectionNumber": 2,
 		"value": "But this happened so that the word may be fulfilled which was written in their law, ‘They hated me without a cause.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 25,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -7694,21 +11656,56 @@
 		"chapterNumber": 15,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "“When the Counselor"
+		"value": " "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 26,
 		"sectionNumber": 2,
+		"value": "“When the Counselor"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 26,
+		"sectionNumber": 4,
 		"value": "has come, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will testify about me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 26,
+		"sectionNumber": 5,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 27,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 27,
+		"sectionNumber": 2,
 		"value": "You will also testify, because you have been with me from the beginning."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 15,
+		"verseNumber": 27,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -7721,84 +11718,245 @@
 		"chapterNumber": 16,
 		"verseNumber": 1,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 1,
+		"sectionNumber": 2,
 		"value": "“I have said these things to you so that you wouldn’t be caused to stumble. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 1,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 2,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 2,
+		"sectionNumber": 2,
 		"value": "They will put you out of the synagogues. Yes, the time comes that whoever kills you will think that he offers service to God. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 2,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "They will do these things"
+		"value": " "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 3,
 		"sectionNumber": 2,
+		"value": "They will do these things"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 3,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 3,
+		"sectionNumber": 4,
 		"value": "because they have not known the Father, nor me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 3,
+		"sectionNumber": 5,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 4,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 4,
+		"sectionNumber": 2,
 		"value": "But I have told you these things, so that when the time comes, you may remember that I told you about them. I didn’t tell you these things from the beginning, because I was with you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 5,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 5,
+		"sectionNumber": 2,
 		"value": "But now I am going to him who sent me, and none of you asks me, ‘Where are you going?’ "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 5,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 6,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 6,
+		"sectionNumber": 2,
 		"value": "But because I have told you these things, sorrow has filled your heart. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 6,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 7,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 7,
+		"sectionNumber": 2,
 		"value": "Nevertheless I tell you the truth: It is to your advantage that I go away, for if I don’t go away, the Counselor won’t come to you. But if I go, I will send him to you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 8,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 8,
+		"sectionNumber": 2,
 		"value": "When he has come, he will convict the world about sin, about righteousness, and about judgment; "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 9,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 9,
+		"sectionNumber": 2,
 		"value": "about sin, because they don’t believe in me; "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 9,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 10,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 10,
+		"sectionNumber": 2,
 		"value": "about righteousness, because I am going to my Father, and you won’t see me any more; "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 11,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 11,
+		"sectionNumber": 2,
 		"value": "about judgment, because the prince of this world has been judged. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -7811,42 +11969,119 @@
 		"chapterNumber": 16,
 		"verseNumber": 12,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 12,
+		"sectionNumber": 2,
 		"value": "“I still have many things to tell you, but you can’t bear them now. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 13,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 13,
+		"sectionNumber": 2,
 		"value": "However when he, the Spirit of truth, has come, he will guide you into all truth, for he will not speak from himself; but whatever he hears, he will speak. He will declare to you things that are coming. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 14,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 14,
+		"sectionNumber": 2,
 		"value": "He will glorify me, for he will take from what is mine, and will declare it to you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "All things that the Father has are mine; therefore I said that he takes"
+		"value": " "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 15,
 		"sectionNumber": 2,
+		"value": "All things that the Father has are mine; therefore I said that he takes"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 15,
+		"sectionNumber": 4,
 		"value": "of mine and will declare it to you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 15,
+		"sectionNumber": 5,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 16,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 16,
+		"sectionNumber": 2,
 		"value": "A little while, and you will not see me. Again a little while, and you will see me.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -7933,23 +12168,72 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
+		"verseNumber": 19,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
 		"verseNumber": 20,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 20,
+		"sectionNumber": 2,
 		"value": "Most certainly I tell you that you will weep and lament, but the world will rejoice. You will be sorrowful, but your sorrow will be turned into joy. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 20,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 21,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 21,
+		"sectionNumber": 2,
 		"value": "A woman, when she gives birth, has sorrow because her time has come. But when she has delivered the child, she doesn’t remember the anguish any more, for the joy that a human being is born into the world. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 21,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 22,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 22,
+		"sectionNumber": 2,
 		"value": "Therefore you now have sorrow, but I will see you again, and your heart will rejoice, and no one will take your joy away from you."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 22,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -7962,42 +12246,126 @@
 		"chapterNumber": 16,
 		"verseNumber": 23,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 23,
+		"sectionNumber": 2,
 		"value": "“In that day you will ask me no questions. Most certainly I tell you, whatever you may ask of the Father in my name, he will give it to you. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 23,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 24,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 24,
+		"sectionNumber": 2,
 		"value": "Until now, you have asked nothing in my name. Ask, and you will receive, that your joy may be made full. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 24,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 25,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 25,
+		"sectionNumber": 2,
 		"value": "I have spoken these things to you in figures of speech. But the time is coming when I will no more speak to you in figures of speech, but will tell you plainly about the Father. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 25,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 26,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 26,
+		"sectionNumber": 2,
 		"value": "In that day you will ask in my name; and I don’t say to you that I will pray to the Father for you, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 27,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 27,
+		"sectionNumber": 2,
 		"value": "for the Father himself loves you, because you have loved me, and have believed that I came from God. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 27,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 28,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 28,
+		"sectionNumber": 2,
 		"value": "I came from the Father, and have come into the world. Again, I leave the world, and go to the Father.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 28,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -8042,16 +12410,51 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
+		"verseNumber": 31,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
 		"verseNumber": 32,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 32,
+		"sectionNumber": 2,
 		"value": "Behold, the time is coming, yes, and has now come, that you will be scattered, everyone to his own place, and you will leave me alone. Yet I am not alone, because the Father is with me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 32,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 33,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 33,
+		"sectionNumber": 2,
 		"value": "I have told you these things, that in me you may have peace. In the world you have trouble; but cheer up! I have overcome the world.” "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 16,
+		"verseNumber": 33,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -8076,177 +12479,534 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
+		"verseNumber": 1,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
 		"verseNumber": 2,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 2,
+		"sectionNumber": 2,
 		"value": "even as you gave him authority over all flesh, so he will give eternal life to all whom you have given him. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 2,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 3,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 3,
+		"sectionNumber": 2,
 		"value": "This is eternal life, that they should know you, the only true God, and him whom you sent, Jesus Christ. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 3,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 4,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 4,
+		"sectionNumber": 2,
 		"value": "I glorified you on the earth. I have accomplished the work which you have given me to do. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 5,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 5,
+		"sectionNumber": 2,
 		"value": "Now, Father, glorify me with your own self with the glory which I had with you before the world existed. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 5,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 6,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 6,
+		"sectionNumber": 2,
 		"value": "I revealed your name to the people whom you have given me out of the world. They were yours, and you have given them to me. They have kept your word. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 6,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 7,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 7,
+		"sectionNumber": 2,
 		"value": "Now they have known that all things whatever you have given me are from you, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 8,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 8,
+		"sectionNumber": 2,
 		"value": "for the words which you have given me I have given to them, and they received them, and knew for sure that I came from you. They have believed that you sent me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 9,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 9,
+		"sectionNumber": 2,
 		"value": "I pray for them. I don’t pray for the world, but for those whom you have given me, for they are yours. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 9,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 10,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 10,
+		"sectionNumber": 2,
 		"value": "All things that are mine are yours, and yours are mine, and I am glorified in them. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 11,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 11,
+		"sectionNumber": 2,
 		"value": "I am no more in the world, but these are in the world, and I am coming to you. Holy Father, keep them through your name which you have given me, that they may be one, even as we are. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 12,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 12,
+		"sectionNumber": 2,
 		"value": "While I was with them in the world, I kept them in your name. I have kept those whom you have given me. None of them is lost except the son of destruction, that the Scripture might be fulfilled. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 13,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 13,
+		"sectionNumber": 2,
 		"value": "But now I come to you, and I say these things in the world, that they may have my joy made full in themselves. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 14,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 14,
+		"sectionNumber": 2,
 		"value": "I have given them your word. The world hated them, because they are not of the world, even as I am not of the world. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 15,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 15,
+		"sectionNumber": 2,
 		"value": "I pray not that you would take them from the world, but that you would keep them from the evil one. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 16,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 16,
+		"sectionNumber": 2,
 		"value": "They are not of the world even as I am not of the world. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 17,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 17,
+		"sectionNumber": 2,
 		"value": "Sanctify them in your truth. Your word is truth."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 17,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 18,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 18,
+		"sectionNumber": 2,
 		"value": "As you sent me into the world, even so I have sent them into the world. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 19,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 19,
+		"sectionNumber": 2,
 		"value": "For their sakes I sanctify myself, that they themselves also may be sanctified in truth. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 19,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 20,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 20,
+		"sectionNumber": 2,
 		"value": "Not for these only do I pray, but for those also who will believe in me through their word, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 20,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 21,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 21,
+		"sectionNumber": 2,
 		"value": "that they may all be one; even as you, Father, are in me, and I in you, that they also may be one in us; that the world may believe that you sent me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 21,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 22,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 22,
+		"sectionNumber": 2,
 		"value": "The glory which you have given me, I have given to them; that they may be one, even as we are one; "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 22,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 23,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 23,
+		"sectionNumber": 2,
 		"value": "I in them, and you in me, that they may be perfected into one; that the world may know that you sent me and loved them, even as you loved me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 23,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 24,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 24,
+		"sectionNumber": 2,
 		"value": "Father, I desire that they also whom you have given me be with me where I am, that they may see my glory, which you have given me, for you loved me before the foundation of the world. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 24,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 25,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 25,
+		"sectionNumber": 2,
 		"value": "Righteous Father, the world hasn’t known you, but I knew you; and these knew that you sent me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 25,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 26,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 26,
+		"sectionNumber": 2,
 		"value": "I made known to them your name, and will make it known; that the love with which you loved me may be in them, and I in them.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 17,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -8290,6 +13050,13 @@
 		"value": "“Who are you looking for?”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -8323,6 +13090,13 @@
 		"value": "“I am he.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 5,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -8332,7 +13106,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 18,
 		"verseNumber": 5,
-		"sectionNumber": 4,
+		"sectionNumber": 5,
 		"value": "Judas also, who betrayed him, was standing with them.  "
 	},
 	{
@@ -8377,6 +13151,13 @@
 		"value": "“Who are you looking for?”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -8386,7 +13167,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 18,
 		"verseNumber": 7,
-		"sectionNumber": 3,
+		"sectionNumber": 4,
 		"value": "They said, “Jesus of Nazareth.” "
 	},
 	{
@@ -8412,6 +13193,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 18,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "that the word might be fulfilled which he spoke, "
@@ -8422,6 +13210,13 @@
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "“Of those whom you have given me, I have lost none.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 9,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -8449,6 +13244,13 @@
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "“Put the sword into its sheath. The cup which the Father has given me, shall I not surely drink it?”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -8548,9 +13350,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 18,
+		"verseNumber": 20,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
 		"verseNumber": 21,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 21,
+		"sectionNumber": 2,
 		"value": "Why do you ask me? Ask those who have heard me what I said to them. Behold, they know the things which I said.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 21,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -8584,6 +13407,13 @@
 		"verseNumber": 23,
 		"sectionNumber": 2,
 		"value": "“If I have spoken evil, testify of the evil; but if well, why do you beat me?”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 23,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -8744,6 +13574,13 @@
 		"value": "“Do you say this by yourself, or did others tell you about me?”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 34,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -8777,6 +13614,13 @@
 		"value": "“My Kingdom is not of this world. If my Kingdom were of this world, then my servants would fight, that I wouldn’t be delivered to the Jews. But now my Kingdom is not from here.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 36,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -8808,6 +13652,13 @@
 		"verseNumber": 37,
 		"sectionNumber": 3,
 		"value": "“You say that I am a king. For this reason I have been born, and for this reason I have come into the world, that I should testify to the truth. Everyone who is of the truth listens to my voice.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 37,
+		"sectionNumber": 4,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -8995,6 +13846,13 @@
 		"value": "“You would have no power at all against me, unless it were given to you from above. Therefore he who delivered me to you has greater sin.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 19,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -9161,18 +14019,31 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 19,
 		"verseNumber": 24,
 		"sectionNumber": 2,
 		"value": "“They parted my garments among them. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 19,
 		"verseNumber": 24,
 		"sectionNumber": 3,
 		"value": "For my cloak they cast lots.”"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 19,
+		"verseNumber": 24,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -9184,7 +14055,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 19,
 		"verseNumber": 24,
-		"sectionNumber": 4,
+		"sectionNumber": 5,
 		"value": "Therefore the soldiers did these things.  "
 	},
 	{
@@ -9207,6 +14078,13 @@
 		"verseNumber": 26,
 		"sectionNumber": 2,
 		"value": "“Woman, behold, your son!” "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 19,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -9255,6 +14133,13 @@
 		"verseNumber": 28,
 		"sectionNumber": 3,
 		"value": "“I am thirsty.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 19,
+		"verseNumber": 28,
+		"sectionNumber": 4,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -9335,9 +14220,23 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 19,
+		"verseNumber": 36,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 19,
 		"verseNumber": 37,
 		"sectionNumber": 1,
 		"value": "Again another Scripture says, “They will look on him whom they pierced.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 19,
+		"verseNumber": 37,
+		"sectionNumber": 2,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -9358,6 +14257,13 @@
 		"verseNumber": 39,
 		"sectionNumber": 1,
 		"value": "Nicodemus, who at first came to Jesus by night, also came bringing a mixture of myrrh and aloes, about a hundred Roman pounds."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 19,
+		"verseNumber": 39,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -9530,6 +14436,13 @@
 		"value": "“Woman, why are you weeping? Who are you looking for?”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 20,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -9539,7 +14452,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 20,
 		"verseNumber": 15,
-		"sectionNumber": 3,
+		"sectionNumber": 4,
 		"value": "She, supposing him to be the gardener, said to him, “Sir, if you have carried him away, tell me where you have laid him, and I will take him away.” "
 	},
 	{
@@ -9563,6 +14476,13 @@
 		"value": "“Mary.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 20,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -9572,15 +14492,22 @@
 		"type": "paragraph text",
 		"chapterNumber": 20,
 		"verseNumber": 16,
-		"sectionNumber": 3,
+		"sectionNumber": 4,
 		"value": "She turned and said to him, “Rabboni!”"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 20,
 		"verseNumber": 16,
-		"sectionNumber": 4,
+		"sectionNumber": 5,
 		"value": " which is to say, “Teacher!”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 20,
+		"verseNumber": 16,
+		"sectionNumber": 6,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -9601,6 +14528,13 @@
 		"verseNumber": 17,
 		"sectionNumber": 2,
 		"value": "“Don’t hold me, for I haven’t yet ascended to my Father; but go to my brothers and tell them, ‘I am ascending to my Father and your Father, to my God and your God.’ ”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 20,
+		"verseNumber": 17,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -9628,6 +14562,13 @@
 		"verseNumber": 19,
 		"sectionNumber": 2,
 		"value": "“Peace be to you.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 20,
+		"verseNumber": 19,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -9659,6 +14600,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 20,
+		"verseNumber": 21,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 20,
 		"verseNumber": 22,
 		"sectionNumber": 1,
 		"value": "When he had said this, he breathed on them, and said to them, "
@@ -9673,9 +14621,30 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 20,
+		"verseNumber": 22,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 20,
 		"verseNumber": 23,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 20,
+		"verseNumber": 23,
+		"sectionNumber": 2,
 		"value": "If you forgive anyone’s sins, they have been forgiven them. If you retain anyone’s sins, they have been retained.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 20,
+		"verseNumber": 23,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -9733,6 +14702,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 20,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 20,
 		"verseNumber": 27,
 		"sectionNumber": 1,
 		"value": "Then he said to Thomas, "
@@ -9743,6 +14719,13 @@
 		"verseNumber": 27,
 		"sectionNumber": 2,
 		"value": "“Reach here your finger, and see my hands. Reach here your hand, and put it into my side. Don’t be unbelieving, but believing.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 20,
+		"verseNumber": 27,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -9782,7 +14765,21 @@
 		"chapterNumber": 20,
 		"verseNumber": 29,
 		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 20,
+		"verseNumber": 29,
+		"sectionNumber": 4,
 		"value": "you have believed. Blessed are those who have not seen, and have believed.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 20,
+		"verseNumber": 29,
+		"sectionNumber": 5,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -9866,6 +14863,13 @@
 		"value": "“Children, have you anything to eat?” "
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 5,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -9875,7 +14879,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 5,
-		"sectionNumber": 3,
+		"sectionNumber": 4,
 		"value": "They answered him, “No.” "
 	},
 	{
@@ -9899,6 +14903,13 @@
 		"value": "“Cast the net on the right side of the boat, and you will find some.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 6,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -9908,7 +14919,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 6,
-		"sectionNumber": 3,
+		"sectionNumber": 4,
 		"value": "They cast it therefore, and now they weren’t able to draw it in for the multitude of fish.  "
 	},
 	{
@@ -9967,6 +14978,13 @@
 		"value": "“Bring some of the fish which you have just caught.”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -10000,6 +15018,13 @@
 		"value": "“Come and eat breakfast!”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -10009,7 +15034,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 12,
-		"sectionNumber": 3,
+		"sectionNumber": 4,
 		"value": "None of the disciples dared inquire of him, “Who are you?” knowing that it was the Lord. "
 	},
 	{
@@ -10047,17 +15072,11 @@
 		"value": "“Simon, son of Jonah, do you love me more than these?”"
 	},
 	{
-		"type": "paragraph end"
-	},
-	{
-		"type": "paragraph start"
-	},
-	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 15,
 		"sectionNumber": 3,
-		"value": "He said to him, “Yes, Lord; you know that I have affection for you.” "
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -10070,14 +15089,34 @@
 		"chapterNumber": 21,
 		"verseNumber": 15,
 		"sectionNumber": 4,
-		"value": "He said to him, "
+		"value": "He said to him, “Yes, Lord; you know that I have affection for you.” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 15,
 		"sectionNumber": 5,
+		"value": "He said to him, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 15,
+		"sectionNumber": 6,
 		"value": "“Feed my lambs.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 15,
+		"sectionNumber": 7,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -10094,17 +15133,11 @@
 		"value": "“Simon, son of Jonah, do you love me?”"
 	},
 	{
-		"type": "paragraph end"
-	},
-	{
-		"type": "paragraph start"
-	},
-	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 16,
 		"sectionNumber": 3,
-		"value": "He said to him, “Yes, Lord; you know that I have affection for you.” "
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -10117,14 +15150,34 @@
 		"chapterNumber": 21,
 		"verseNumber": 16,
 		"sectionNumber": 4,
-		"value": "He said to him, "
+		"value": "He said to him, “Yes, Lord; you know that I have affection for you.” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 16,
 		"sectionNumber": 5,
+		"value": "He said to him, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 16,
+		"sectionNumber": 6,
 		"value": "“Tend my sheep.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 16,
+		"sectionNumber": 7,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -10141,6 +15194,13 @@
 		"value": "“Simon, son of Jonah, do you have affection for me?”"
 	},
 	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 17,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "paragraph end"
 	},
 	{
@@ -10150,21 +15210,21 @@
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 17,
-		"sectionNumber": 3,
+		"sectionNumber": 4,
 		"value": "Peter was grieved because he asked him the third time, "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 17,
-		"sectionNumber": 4,
+		"sectionNumber": 5,
 		"value": "“Do you have affection for me?”"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 17,
-		"sectionNumber": 5,
+		"sectionNumber": 6,
 		"value": " He said to him, “Lord, you know everything. You know that I have affection for you.” "
 	},
 	{
@@ -10177,22 +15237,43 @@
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 17,
-		"sectionNumber": 6,
+		"sectionNumber": 7,
 		"value": "Jesus said to him, "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 17,
-		"sectionNumber": 7,
+		"sectionNumber": 8,
 		"value": "“Feed my sheep. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 17,
+		"sectionNumber": 9,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 18,
 		"sectionNumber": 1,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 18,
+		"sectionNumber": 2,
 		"value": "Most certainly I tell you, when you were young, you dressed yourself and walked where you wanted to. But when you are old, you will stretch out your hands, and another will dress you and carry you where you don’t want to go.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -10213,6 +15294,13 @@
 		"verseNumber": 19,
 		"sectionNumber": 2,
 		"value": "“Follow me.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 19,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -10257,6 +15345,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
+		"verseNumber": 22,
+		"sectionNumber": 3,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
 		"verseNumber": 23,
 		"sectionNumber": 1,
 		"value": "This saying therefore went out among the brothers,"
@@ -10274,6 +15369,13 @@
 		"verseNumber": 23,
 		"sectionNumber": 3,
 		"value": "“If I desire that he stay until I come, what is that to you?”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 21,
+		"verseNumber": 23,
+		"sectionNumber": 4,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",

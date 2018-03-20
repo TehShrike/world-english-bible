@@ -4087,6 +4087,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
+		"verseNumber": 11,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 14,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "They left their gods there; and David gave a command, and they were burned with fire. "
@@ -4433,459 +4440,854 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 7,
+		"sectionNumber": 2,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "Oh give thanks to Yahweh. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 8,
 		"sectionNumber": 2,
 		"value": "Call on his name. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 8,
 		"sectionNumber": 3,
 		"value": "Make what he has done known among the peoples. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 8,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 9,
 		"sectionNumber": 1,
 		"value": "Sing to him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 9,
 		"sectionNumber": 2,
 		"value": "Sing praises to him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 9,
 		"sectionNumber": 3,
 		"value": "Tell of all his marvelous works. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 9,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 10,
 		"sectionNumber": 1,
 		"value": "Glory in his holy name. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 10,
 		"sectionNumber": 2,
 		"value": "Let the heart of those who seek Yahweh rejoice. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "Seek Yahweh and his strength. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 11,
 		"sectionNumber": 2,
 		"value": "Seek his face forever more. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "Remember his marvelous works that he has done, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 12,
 		"sectionNumber": 2,
 		"value": "his wonders, and the judgments of his mouth, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 13,
 		"sectionNumber": 1,
 		"value": "you offspring"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 13,
 		"sectionNumber": 2,
 		"value": " of Israel his servant, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 13,
 		"sectionNumber": 3,
 		"value": "you children of Jacob, his chosen ones. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 13,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 14,
 		"sectionNumber": 1,
 		"value": "He is Yahweh our God. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 14,
 		"sectionNumber": 2,
 		"value": "His judgments are in all the earth. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 15,
 		"sectionNumber": 1,
 		"value": "Remember his covenant forever, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 15,
 		"sectionNumber": 2,
 		"value": "the word which he commanded to a thousand generations, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 16,
 		"sectionNumber": 1,
 		"value": "the covenant which he made with Abraham, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 16,
 		"sectionNumber": 2,
 		"value": "his oath to Isaac. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 17,
 		"sectionNumber": 1,
 		"value": "He confirmed it to Jacob for a statute, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 17,
 		"sectionNumber": 2,
 		"value": "and to Israel for an everlasting covenant, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 17,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 18,
 		"sectionNumber": 1,
 		"value": "saying, “I will give you the land of Canaan, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 18,
 		"sectionNumber": 2,
 		"value": "The lot of your inheritance,” "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 19,
 		"sectionNumber": 1,
 		"value": "when you were but a few men in number, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 19,
 		"sectionNumber": 2,
 		"value": "yes, very few, and foreigners were in it. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 19,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 20,
 		"sectionNumber": 1,
 		"value": "They went about from nation to nation, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 20,
 		"sectionNumber": 2,
 		"value": "from one kingdom to another people. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 20,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 21,
 		"sectionNumber": 1,
 		"value": "He allowed no man to do them wrong. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 21,
 		"sectionNumber": 2,
 		"value": "Yes, he reproved kings for their sakes, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 21,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 22,
 		"sectionNumber": 1,
 		"value": "“Don’t touch my anointed ones! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 22,
 		"sectionNumber": 2,
 		"value": "Do my prophets no harm!” "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 22,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 23,
 		"sectionNumber": 1,
 		"value": "Sing to Yahweh, all the earth! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 23,
 		"sectionNumber": 2,
 		"value": "Display his salvation from day to day. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 23,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 24,
 		"sectionNumber": 1,
 		"value": "Declare his glory among the nations, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 24,
 		"sectionNumber": 2,
 		"value": "and his marvelous works among all the peoples. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 24,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 25,
 		"sectionNumber": 1,
 		"value": "For great is Yahweh, and greatly to be praised. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 25,
 		"sectionNumber": 2,
 		"value": "He also is to be feared above all gods. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 25,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 26,
 		"sectionNumber": 1,
 		"value": "For all the gods of the peoples are idols, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 26,
 		"sectionNumber": 2,
 		"value": "but Yahweh made the heavens. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 26,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 27,
 		"sectionNumber": 1,
 		"value": "Honor and majesty are before him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 27,
 		"sectionNumber": 2,
 		"value": "Strength and gladness are in his place. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 27,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 28,
 		"sectionNumber": 1,
 		"value": "Ascribe to Yahweh, you relatives of the peoples, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 28,
 		"sectionNumber": 2,
 		"value": "ascribe to Yahweh glory and strength! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 28,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 29,
 		"sectionNumber": 1,
 		"value": "Ascribe to Yahweh the glory due to his name. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 29,
 		"sectionNumber": 2,
 		"value": "Bring an offering, and come before him. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 29,
 		"sectionNumber": 3,
 		"value": "Worship Yahweh in holy array. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 29,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 30,
 		"sectionNumber": 1,
 		"value": "Tremble before him, all the earth. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 30,
 		"sectionNumber": 2,
 		"value": "The world also is established that it can’t be moved. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 30,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 31,
 		"sectionNumber": 1,
 		"value": "Let the heavens be glad, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 31,
 		"sectionNumber": 2,
 		"value": "and let the earth rejoice! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 31,
 		"sectionNumber": 3,
 		"value": "Let them say among the nations, “Yahweh reigns!” "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 31,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 32,
 		"sectionNumber": 1,
 		"value": "Let the sea roar, and its fullness! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 32,
 		"sectionNumber": 2,
 		"value": "Let the field exult, and all that is in it! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 32,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 33,
 		"sectionNumber": 1,
 		"value": "Then the trees of the forest will sing for joy before Yahweh, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 33,
 		"sectionNumber": 2,
 		"value": "for he comes to judge the earth. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 33,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 34,
 		"sectionNumber": 1,
 		"value": "Oh give thanks to Yahweh, for he is good, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 34,
 		"sectionNumber": 2,
 		"value": "for his loving kindness endures forever. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 34,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 35,
 		"sectionNumber": 1,
 		"value": "Say, “Save us, God of our salvation! "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 35,
 		"sectionNumber": 2,
 		"value": "Gather us together and deliver us from the nations, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 35,
 		"sectionNumber": 3,
 		"value": "to give thanks to your holy name, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 35,
 		"sectionNumber": 4,
 		"value": "to triumph in your praise.” "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 35,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 36,
 		"sectionNumber": 1,
 		"value": "Blessed be Yahweh, the God of Israel, "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 36,
 		"sectionNumber": 2,
 		"value": "from everlasting even to everlasting. "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"

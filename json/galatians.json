@@ -418,6 +418,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
+		"verseNumber": 6,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
 		"verseNumber": 7,
 		"sectionNumber": 1,
 		"value": "Know therefore that those who are of faith are children of Abraham.  "
@@ -428,6 +435,13 @@
 		"verseNumber": 8,
 		"sectionNumber": 1,
 		"value": "The Scripture, foreseeing that God would justify the Gentiles by faith, preached the Good News beforehand to Abraham, saying, “In you all the nations will be blessed.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 8,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -446,6 +460,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
+		"verseNumber": 10,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
 		"verseNumber": 11,
 		"sectionNumber": 1,
 		"value": "Now that no man is justified by the law before God is evident, for, “The righteous will live by faith.”"
@@ -453,9 +474,23 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
+		"verseNumber": 11,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
 		"verseNumber": 12,
 		"sectionNumber": 1,
 		"value": "The law is not of faith, but, “The man who does them will live by them.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 12,
+		"sectionNumber": 2,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -469,6 +504,13 @@
 		"verseNumber": 13,
 		"sectionNumber": 1,
 		"value": "Christ redeemed us from the curse of the law, having become a curse for us. For it is written, “Cursed is everyone who hangs on a tree,”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 3,
+		"verseNumber": 13,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -860,25 +902,41 @@
 		"type": "stanza start"
 	},
 	{
-		"type": "line",
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 27,
 		"sectionNumber": 2,
 		"value": "“Rejoice, you barren who don’t bear. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 27,
 		"sectionNumber": 3,
 		"value": "Break out and shout, you who don’t travail. "
 	},
 	{
-		"type": "line",
+		"type": "line break"
+	},
+	{
+		"type": "line text",
 		"chapterNumber": 4,
 		"verseNumber": 27,
 		"sectionNumber": 4,
 		"value": "For the desolate have more children than her who has a husband.” "
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 4,
+		"verseNumber": 27,
+		"sectionNumber": 5,
+		"value": " "
+	},
+	{
+		"type": "line break"
 	},
 	{
 		"type": "stanza end"
@@ -906,6 +964,13 @@
 		"verseNumber": 30,
 		"sectionNumber": 1,
 		"value": "However what does the Scripture say? “Throw out the servant and her son, for the son of the servant will not inherit with the son of the free woman.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 4,
+		"verseNumber": 30,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -1039,6 +1104,13 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
+		"verseNumber": 14,
+		"sectionNumber": 2,
+		"value": "  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
 		"verseNumber": 15,
 		"sectionNumber": 1,
 		"value": "But if you bite and devour one another, be careful that you don’t consume one another. "
@@ -1103,6 +1175,13 @@
 		"verseNumber": 22,
 		"sectionNumber": 1,
 		"value": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith,"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 22,
+		"sectionNumber": 2,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
